@@ -117,7 +117,7 @@ class QuizProvider extends ChangeNotifier {
       _score += currentQuestion!.marks;
       _correctCount++;
     } else if (negativeMarking) {
-      _score -= currentQuestion!.negativeMarks;
+      _score = (_score - currentQuestion!.negativeMarks).round();
       _wrongQuestionIds.add(currentQuestion!.id);
     } else {
       _wrongQuestionIds.add(currentQuestion!.id);

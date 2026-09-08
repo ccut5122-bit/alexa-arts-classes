@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
-import '../screens/home/home_screen.dart';
-import '../screens/chapters/chapter_list_screen.dart';
-import '../screens/notes/notes_viewer_screen.dart';
-import '../screens/quiz/quiz_screen.dart';
-import '../screens/gamification/leaderboard_screen.dart';
-import '../screens/gamification/badges_screen.dart';
-import '../screens/forum/forum_screen.dart';
-import '../screens/dictionary/dictionary_screen.dart';
-import '../screens/exam_prep/exam_prep_screen.dart';
-import '../screens/bookmarks/bookmarks_screen.dart';
-import '../screens/home/splash_screen.dart';
+import '../../screens/home/home_screen.dart';
+import '../../screens/chapters/chapter_list_screen.dart';
+import '../../screens/notes/notes_viewer_screen.dart';
+import '../../screens/quiz/quiz_screen.dart';
+import '../../screens/gamification/leaderboard_screen.dart';
+import '../../screens/gamification/badges_screen.dart';
+import '../../screens/forum/forum_screen.dart';
+import '../../screens/dictionary/dictionary_screen.dart';
+import '../../screens/exam_prep/exam_prep_screen.dart';
+import '../../screens/bookmarks/bookmarks_screen.dart';
+import '../../screens/home/splash_screen.dart';
 
 class AppRouter {
   static Route<dynamic> generateRoute(RouteSettings settings) {

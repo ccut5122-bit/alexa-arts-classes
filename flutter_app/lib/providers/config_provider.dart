@@ -39,7 +39,7 @@ class ConfigProvider extends ChangeNotifier {
 
   void _listenToThemeConfig() {
     _firestore.streamConfig('themeConfig').listen((doc) {
-      final data = doc.data();
+      final data = doc.data() as Map<String, dynamic>?;
       if (data != null) {
         if (data['primaryColor'] != null) {
           final hex = (data['primaryColor'] as String).replaceFirst('#', '');
@@ -63,7 +63,7 @@ class ConfigProvider extends ChangeNotifier {
 
   void _listenToBanners() {
     _firestore.streamConfig('bannerConfig').listen((doc) {
-      final data = doc.data();
+      final data = doc.data() as Map<String, dynamic>?;
       if (data != null) {
         _banners = List<Map<String, dynamic>>.from(data['banners'] ?? [])
             .where((b) => b['isActive'] == true)
@@ -91,7 +91,7 @@ class ConfigProvider extends ChangeNotifier {
 
   void _listenToExamDates() {
     _firestore.streamConfig('examDates').listen((doc) {
-      final data = doc.data();
+      final data = doc.data() as Map<String, dynamic>?;
       if (data != null) {
         _examDates = List<Map<String, dynamic>>.from(data['exams'] ?? []);
         notifyListeners();
@@ -101,7 +101,7 @@ class ConfigProvider extends ChangeNotifier {
 
   void _listenToFeaturedSubjects() {
     _firestore.streamConfig('featuredSubjects').listen((doc) {
-      final data = doc.data();
+      final data = doc.data() as Map<String, dynamic>?;
       if (data != null) {
         _featuredSubjectIds =
             List<String>.from(data['subjectIds'] ?? []);
@@ -112,7 +112,7 @@ class ConfigProvider extends ChangeNotifier {
 
   void _listenToCoinsConfig() {
     _firestore.streamConfig('coinsConfig').listen((doc) {
-      final data = doc.data();
+      final data = doc.data() as Map<String, dynamic>?;
       if (data != null) {
         _coinsConfig = Map<String, dynamic>.from(data);
         notifyListeners();

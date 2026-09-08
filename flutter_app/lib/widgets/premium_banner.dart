@@ -6,11 +6,14 @@ class PremiumBanner extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final cardMargin =
+        (Theme.of(context).cardTheme.margin as EdgeInsets?) ?? EdgeInsets.zero;
+
     return Container(
       margin: EdgeInsets.only(
-        left: Theme.of(context).cardTheme.margin!.left,
-        right: Theme.of(context).cardTheme.margin!.right,
-        top: Theme.of(context).cardTheme.margin!.top,
+        left: cardMargin.left,
+        right: cardMargin.right,
+        top: cardMargin.top,
       ),
       padding: const EdgeInsets.all(20),
       decoration: const BoxDecoration(
@@ -27,7 +30,7 @@ class PremiumBanner extends StatelessWidget {
             width: 60,
             height: 60,
             decoration: BoxDecoration(
-              color: Colors.white.withValues(alpha: 0.2),
+              color: Colors.white.withOpacity(0.2),
               borderRadius: BorderRadius.circular(12),
             ),
             child: const Icon(Icons.diamond_rounded,
@@ -50,7 +53,7 @@ class PremiumBanner extends StatelessWidget {
                 Text(
                   'Unlock Special Test Series & PDFs',
                   style: GoogleFonts.poppins(
-                    color: Colors.white.withValues(alpha: 0.8),
+                    color: Colors.white.withOpacity(0.8),
                     fontSize: 12,
                   ),
                 ),

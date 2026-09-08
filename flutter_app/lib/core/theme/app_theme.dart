@@ -159,7 +159,7 @@ class AppTheme {
     borderRadius: BorderRadius.circular(20),
     boxShadow: [
       BoxShadow(
-        color: const Color(0xFFFFD700).withValues(alpha: 0.4),
+        color: const Color(0xFFFFD700).withOpacity(0.4),
         blurRadius: 8,
         offset: const Offset(0, 2),
       ),
@@ -175,7 +175,7 @@ class AppTheme {
     borderRadius: BorderRadius.circular(20),
     boxShadow: [
       BoxShadow(
-        color: const Color(0xFFFF6B35).withValues(alpha: 0.4),
+        color: const Color(0xFFFF6B35).withOpacity(0.4),
         blurRadius: 8,
         offset: const Offset(0, 2),
       ),
@@ -191,7 +191,7 @@ class AppTheme {
     borderRadius: BorderRadius.circular(20),
     boxShadow: [
       BoxShadow(
-        color: const Color(0xFF9C27B0).withValues(alpha: 0.4),
+        color: const Color(0xFF9C27B0).withOpacity(0.4),
         blurRadius: 8,
         offset: const Offset(0, 2),
       ),

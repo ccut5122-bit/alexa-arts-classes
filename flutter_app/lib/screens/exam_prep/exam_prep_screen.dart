@@ -73,7 +73,8 @@ class _DateSheetTab extends StatelessWidget {
                     style: GoogleFonts.poppins(fontSize: 18, fontWeight: FontWeight.w600)),
                 const SizedBox(height: 8),
                 Text('Stay tuned for JAC Board exam schedule',
-                    style: GoogleFonts.poppins(color: Colors.grey, textAlign: TextAlign.center)),
+                    textAlign: TextAlign.center,
+                    style: GoogleFonts.poppins(color: Colors.grey)),
               ],
             ),
           )

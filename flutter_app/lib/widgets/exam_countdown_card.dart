@@ -25,19 +25,21 @@ class _ExamCountdownCardState extends State<ExamCountdownCard> {
 
     final daysRemaining = examDate.difference(DateTime.now()).inDays;
     final isPassed = daysRemaining < 0;
+    final cardMargin =
+        (Theme.of(context).cardTheme.margin as EdgeInsets?) ?? EdgeInsets.zero;
 
     return Container(
       margin: EdgeInsets.only(
-        left: Theme.of(context).cardTheme.margin!.left,
-        right: Theme.of(context).cardTheme.margin!.right,
-        top: Theme.of(context).cardTheme.margin!.top,
+        left: cardMargin.left,
+        right: cardMargin.right,
+        top: cardMargin.top,
       ),
       padding: const EdgeInsets.all(20),
       decoration: BoxDecoration(
         gradient: LinearGradient(
           colors: [
             Theme.of(context).colorScheme.primary,
-            Theme.of(context).colorScheme.primary.withValues(alpha: 0.8),
+            Theme.of(context).colorScheme.primary.withOpacity(0.8),
           ],
           begin: Alignment.topLeft,
           end: Alignment.bottomRight,
@@ -52,7 +54,7 @@ class _ExamCountdownCardState extends State<ExamCountdownCard> {
               Container(
                 padding: const EdgeInsets.all(8),
                 decoration: BoxDecoration(
-                  color: Colors.white.withValues(alpha: 0.2),
+                  color: Colors.white.withOpacity(0.2),
                   borderRadius: BorderRadius.circular(10),
                 ),
                 child: const Icon(Icons.event_available_rounded,
@@ -74,7 +76,7 @@ class _ExamCountdownCardState extends State<ExamCountdownCard> {
                     Text(
                       DateFormat('MMM dd, yyyy').format(examDate),
                       style: GoogleFonts.poppins(
-                        color: Colors.white.withValues(alpha: 0.8),
+                        color: Colors.white.withOpacity(0.8),
                         fontSize: 12,
                       ),
                     ),
@@ -100,13 +102,13 @@ class _ExamCountdownCardState extends State<ExamCountdownCard> {
                 const SizedBox(width: 12),
                 Container(
                   width: 1, height: 32,
-                  color: Colors.white.withValues(alpha: 0.3),
+                  color: Colors.white.withOpacity(0.3),
                 ),
                 const SizedBox(width: 12),
                 Expanded(
                   child: LinearProgressIndicator(
                     value: 0.4,
-                    backgroundColor: Colors.white.withValues(alpha: 0.3),
+                    backgroundColor: Colors.white.withOpacity(0.3),
                     valueColor:
                         const AlwaysStoppedAnimation<Color>(Colors.white),
                     borderRadius: BorderRadius.circular(4),
@@ -141,7 +143,7 @@ class _CountdownUnit extends StatelessWidget {
         Text(
           label,
           style: GoogleFonts.poppins(
-            color: Colors.white.withValues(alpha: 0.8),
+            color: Colors.white.withOpacity(0.8),
             fontSize: 12,
           ),
         ),

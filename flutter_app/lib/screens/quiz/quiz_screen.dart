@@ -372,7 +372,7 @@ class _QuizScreenState extends State<QuizScreen> {
       gam.earnCoins(auth.user!.uid, quizCoins + correctBonus, 'Quiz completed');
     }
 
-    _confettiController..forward();
+    _confettiController.play();
     setState(() {});
   }
 }

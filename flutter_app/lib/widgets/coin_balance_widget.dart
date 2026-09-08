@@ -22,7 +22,7 @@ class CoinBalanceWidget extends StatelessWidget {
         borderRadius: BorderRadius.circular(16),
         boxShadow: [
           BoxShadow(
-            color: const Color(0xFFFFD700).withValues(alpha: 0.4),
+            color: const Color(0xFFFFD700).withOpacity(0.4),
             blurRadius: 8,
             offset: const Offset(0, 4),
           ),
@@ -34,7 +34,7 @@ class CoinBalanceWidget extends StatelessWidget {
             width: 48,
             height: 48,
             decoration: BoxDecoration(
-              color: Colors.white.withValues(alpha: 0.2),
+              color: Colors.white.withOpacity(0.2),
               borderRadius: BorderRadius.circular(12),
             ),
             child: const Icon(Icons.monetization_on_rounded,
