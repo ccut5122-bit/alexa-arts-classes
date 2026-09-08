@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "796639195377",
+    "firebase_url": "https://alexa-arts-classes-default-rtdb.firebaseio.com",
+    "project_id": "alexa-arts-classes",
+    "storage_bucket": "alexa-arts-classes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796639195377:android:a571f23988e7146a9f7950",
+        "android_client_info": {
+          "package_name": "com.alexa.artclasses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZcapZ_Ur24GWuss8BiqzWJnnp7YxMBNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

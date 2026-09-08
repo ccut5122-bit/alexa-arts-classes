@@ -1,0 +1,51 @@
+# =====================
+# CRITICAL: Service account & private keys kabhi push mat karo!
+# =====================
+seed_data/serviceAccount.json
+*.p8
+*.p12
+!debug.keystore
+
+# NOTE: google-services.json ko commit kiya ja raha hai (private repo) -
+# build ke liye zaroori hai. Public banane par isse remove karna!
+
+# Node
+node_modules/
+admin_panel/node_modules/
+seed_data/node_modules/
+package-lock.json
+
+# Flutter/Dart
+flutter_app/.dart_tool/
+flutter_app/build/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.packages
+flutter_app/.pub/
+flutter_app/android/.gradle/
+flutter_app/android/local.properties
+flutter_app/android/app/debug/
+flutter_app/android/app/profile/
+flutter_app/android/app/release/
+
+# Web build
+admin_panel/build/
+admin_panel/dist/
+
+# Env & secrets
+*.env
+.env.*
+!*.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+*.iml

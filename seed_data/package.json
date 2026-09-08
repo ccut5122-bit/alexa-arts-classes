@@ -1,0 +1,12 @@
+{
+  "name": "alexa-seed-data",
+  "version": "1.0.0",
+  "description": "Seed data uploader for Alexa Arts Classes Firebase",
+  "main": "upload_seed.js",
+  "scripts": {
+    "seed": "node upload_seed.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.7.0"
+  }
+}
