@@ -38,6 +38,8 @@ class QuizProvider extends ChangeNotifier {
     _firestore.streamQuizzes(type: type).listen((quizzes) {
       _availableQuizzes = quizzes;
       notifyListeners();
+    }, onError: (e) {
+      notifyListeners();
     });
   }
 

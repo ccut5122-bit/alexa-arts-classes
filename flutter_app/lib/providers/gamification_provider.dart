@@ -29,12 +29,16 @@ class GamificationProvider extends ChangeNotifier {
     _firestore.streamLeaderboard(period: period).listen((entries) {
       _leaderboard = entries;
       notifyListeners();
+    }, onError: (e) {
+      notifyListeners();
     });
   }
 
   void loadBadges() {
     _firestore.streamBadges().listen((badges) {
       _badges = badges;
+      notifyListeners();
+    }, onError: (e) {
       notifyListeners();
     });
   }

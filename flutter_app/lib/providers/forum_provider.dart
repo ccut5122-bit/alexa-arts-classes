@@ -22,6 +22,9 @@ class ForumProvider extends ChangeNotifier {
       _posts = posts;
       _isLoading = false;
       notifyListeners();
+    }, onError: (e) {
+      _isLoading = false;
+      notifyListeners();
     });
   }
 

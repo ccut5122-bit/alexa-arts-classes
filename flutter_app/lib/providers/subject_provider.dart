@@ -21,6 +21,9 @@ class SubjectProvider extends ChangeNotifier {
     _firestore.streamSubjects().listen((subjects) {
       _subjects = subjects;
       notifyListeners();
+    }, onError: (e) {
+      _isLoading = false;
+      notifyListeners();
     });
   }
 
@@ -33,6 +36,9 @@ class SubjectProvider extends ChangeNotifier {
       _chapters = chapters;
       _isLoading = false;
       notifyListeners();
+    }, onError: (e) {
+      _isLoading = false;
+      notifyListeners();
     });
   }
 
@@ -42,6 +48,9 @@ class SubjectProvider extends ChangeNotifier {
 
     _firestore.streamNotes(chapterId).listen((notes) {
       _notes = notes;
+      _isLoading = false;
+      notifyListeners();
+    }, onError: (e) {
       _isLoading = false;
       notifyListeners();
     });

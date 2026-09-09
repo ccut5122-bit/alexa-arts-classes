@@ -58,7 +58,7 @@ class ConfigProvider extends ChangeNotifier {
         _logoUrl = data['logoUrl'] ?? '';
         notifyListeners();
       }
-    });
+    }, onError: (e) {});
   }
 
   void _listenToBanners() {
@@ -71,7 +71,7 @@ class ConfigProvider extends ChangeNotifier {
           ..sort((a, b) => (a['order'] ?? 0).compareTo(b['order'] ?? 0));
         notifyListeners();
       }
-    });
+    }, onError: (e) {});
   }
 
   void _listenToNotices() {
@@ -86,7 +86,7 @@ class ConfigProvider extends ChangeNotifier {
               })
           .toList();
       notifyListeners();
-    });
+    }, onError: (e) {});
   }
 
   void _listenToExamDates() {
@@ -96,7 +96,7 @@ class ConfigProvider extends ChangeNotifier {
         _examDates = List<Map<String, dynamic>>.from(data['exams'] ?? []);
         notifyListeners();
       }
-    });
+    }, onError: (e) {});
   }
 
   void _listenToFeaturedSubjects() {
@@ -107,7 +107,7 @@ class ConfigProvider extends ChangeNotifier {
             List<String>.from(data['subjectIds'] ?? []);
         notifyListeners();
       }
-    });
+    }, onError: (e) {});
   }
 
   void _listenToCoinsConfig() {
@@ -117,7 +117,7 @@ class ConfigProvider extends ChangeNotifier {
         _coinsConfig = Map<String, dynamic>.from(data);
         notifyListeners();
       }
-    });
+    }, onError: (e) {});
   }
 
   int get coinForQuizAttempt => _coinsConfig['quizAttemptCoins'] ?? 10;
