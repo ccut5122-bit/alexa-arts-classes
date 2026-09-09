@@ -46,7 +46,7 @@ dependencies:
   flutter_secure_storage: ^9.2.2
 
   # TTS
-  flutter_tts: ^4.0.2
+  flutter_tts: 4.0.2
 
   # Charts & Export
   fl_chart: ^0.69.2
