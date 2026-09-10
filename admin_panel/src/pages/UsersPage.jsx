@@ -4,7 +4,7 @@ import {
 } from 'firebase/firestore'
 import { db } from '../services/firebase'
 import toast from 'react-hot-toast'
-import { FiBan, FiUserCheck, FiSearch, FiDownload, FiShield } from 'react-icons/fi'
+import { FiUserX, FiUserCheck, FiSearch, FiDownload, FiShield } from 'react-icons/fi'
 import * as XLSX from 'xlsx'
 import { saveAs } from 'file-saver'
 
@@ -166,7 +166,7 @@ export default function UsersPage() {
                             : 'bg-red-50 text-red-700 hover:bg-red-100'
                         }`}
                       >
-                        {user.isBanned ? <span className="flex items-center gap-1"><FiUserCheck /> Unban</span> : <span className="flex items-center gap-1"><FiBan /> Ban</span>}
+                        {user.isBanned ? <span className="flex items-center gap-1"><FiUserCheck /> Unban</span> : <span className="flex items-center gap-1"><FiUserX /> Ban</span>}
                       </button>
                     </div>
                   </td>
