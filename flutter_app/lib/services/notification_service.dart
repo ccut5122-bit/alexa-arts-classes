@@ -29,8 +29,7 @@ class NotificationService {
   static final Set<String> _seenIds = {};
 
   static Future<void> initialize() async {
-    _messaging
-        .setBackgroundMessageHandler(_firebaseMessagingBackgroundHandler);
+    FirebaseMessaging.onBackgroundMessage(_firebaseMessagingBackgroundHandler);
 
     _messaging.requestPermission(alert: true, badge: true, sound: true);
     await _messaging.setForegroundNotificationPresentationOptions(
