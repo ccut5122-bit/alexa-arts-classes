@@ -10,12 +10,15 @@ import '../../screens/dictionary/dictionary_screen.dart';
 import '../../screens/exam_prep/exam_prep_screen.dart';
 import '../../screens/bookmarks/bookmarks_screen.dart';
 import '../../screens/home/splash_screen.dart';
+import '../../screens/home/onboarding_screen.dart';
 
 class AppRouter {
   static Route<dynamic> generateRoute(RouteSettings settings) {
     switch (settings.name) {
       case '/splash':
         return MaterialPageRoute(builder: (_) => const SplashScreen());
+      case '/onboarding':
+        return MaterialPageRoute(builder: (_) => const OnboardingScreen());
       case '/home':
         return MaterialPageRoute(builder: (_) => const HomeScreen());
       case '/chapters':

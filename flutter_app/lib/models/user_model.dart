@@ -13,6 +13,7 @@ class UserModel {
   final String school;
   final bool isPremium;
   final bool isBanned;
+  final bool onboarded;
   final DateTime? subscriptionExpiry;
   final DateTime createdAt;
   final DateTime lastActive;
@@ -32,6 +33,7 @@ class UserModel {
     this.school = '',
     this.isPremium = false,
     this.isBanned = false,
+    this.onboarded = false,
     this.subscriptionExpiry,
     required this.createdAt,
     required this.lastActive,
@@ -56,6 +58,7 @@ class UserModel {
       school: data['school'] ?? '',
       isPremium: data['isPremium'] ?? false,
       isBanned: data['isBanned'] ?? false,
+      onboarded: data['onboarded'] ?? false,
       subscriptionExpiry: (data['subscriptionExpiry'] as Timestamp?)?.toDate(),
       createdAt: (data['createdAt'] as Timestamp?)?.toDate() ?? DateTime.now(),
       lastActive: (data['lastActive'] as Timestamp?)?.toDate() ?? DateTime.now(),
@@ -77,6 +80,7 @@ class UserModel {
         'school': school,
         'isPremium': isPremium,
         'isBanned': isBanned,
+        'onboarded': onboarded,
         'subscriptionExpiry':
             subscriptionExpiry != null ? Timestamp.fromDate(subscriptionExpiry!) : null,
         'createdAt': Timestamp.fromDate(createdAt),

@@ -113,6 +113,58 @@ class AuthProvider extends ChangeNotifier {
     }
   }
 
+  Future<bool> signInAnonymously() async {
+    _isLoading = true;
+    _error = null;
+    notifyListeners();
+
+    try {
+      if (_auth.currentUser == null) {
+        await _auth.signInAnonymously();
+      }
+      _isLoading = false;
+      notifyListeners();
+      return true;
+    } catch (e) {
+      _error = e.toString();
+      _isLoading = false;
+      notifyListeners();
+      return false;
+    }
+  }
+
+  Future<bool> completeOnboarding({
+    required String name,
+    required String photoUrl,
+  }) async {
+    _isLoading = true;
+    notifyListeners();
+    try {
+      final user = _auth.currentUser;
+      if (user == null) {
+        _error = 'Not signed in';
+        return false;
+      }
+      await user.updateDisplayName(name);
+      await user.reload();
+      await _firestore.updateUser(user.uid, {
+        'displayName': name,
+        'photoUrl': photoUrl,
+        'onboarded': true,
+        'lastActive': DateTime.now(),
+      });
+      _userModel = await _firestore.getUser(user.uid);
+      notifyListeners();
+      return true;
+    } catch (e) {
+      _error = e.toString();
+      notifyListeners();
+      return false;
+    }
+  }
+
+  bool get hasCompletedOnboarding => _userModel?.onboarded == true;
+
   Future<void> signOut() async {
     await _google.signOut();
     await _auth.signOut();
