@@ -9,6 +9,7 @@ import {
   BarChart3,
   Palette,
   Megaphone,
+  BellRing,
   Upload,
   LogOut,
   Gift,
@@ -25,6 +26,7 @@ const navItems = [
   { to: '/analytics', icon: BarChart3, label: 'Analytics' },
   { to: '/customization', icon: Palette, label: 'Customization' },
   { to: '/notices', icon: Megaphone, label: 'Notices' },
+  { to: '/send-notification', icon: BellRing, label: 'Send Notification' },
   { to: '/bulk-upload', icon: Upload, label: 'Bulk Upload' },
 ]
 

@@ -14,6 +14,7 @@ import AnalyticsPage from './pages/AnalyticsPage'
 import CustomizationPage from './pages/CustomizationPage'
 import NoticesPage from './pages/NoticesPage'
 import BulkUploadPage from './pages/BulkUploadPage'
+import SendNotificationPage from './pages/SendNotificationPage'
 
 function App() {
   const [user, setUser] = useState(null)
@@ -52,6 +53,7 @@ function App() {
           <Route path="analytics" element={<AnalyticsPage />} />
           <Route path="customization" element={<CustomizationPage />} />
           <Route path="notices" element={<NoticesPage />} />
+          <Route path="send-notification" element={<SendNotificationPage />} />
           <Route path="bulk-upload" element={<BulkUploadPage />} />
         </Route>
       </Routes>
