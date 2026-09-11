@@ -5,6 +5,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:provider/provider.dart';
 import '../../providers/auth_provider.dart';
+import '../../services/notification_service.dart';
 
 class OnboardingScreen extends StatefulWidget {
   const OnboardingScreen({super.key});
@@ -77,6 +78,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
       if (!ok) {
         throw Exception('Profile save failed');
       }
+      await NotificationService.refreshToken();
       if (!mounted) return;
       Navigator.pushReplacementNamed(context, '/home');
     } catch (e) {

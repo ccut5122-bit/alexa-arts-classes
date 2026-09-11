@@ -3,6 +3,23 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 
+@pragma('vm:entry-point')
+Future<void> _firebaseMessagingBackgroundHandler(RemoteMessage message) async {
+  const androidDetails = AndroidNotificationDetails(
+    'alexa_art_classes',
+    'Alexa Arts Classes',
+    channelDescription: 'Notifications for students',
+    importance: Importance.high,
+    priority: Priority.high,
+  );
+  await FlutterLocalNotificationsPlugin().show(
+    DateTime.now().millisecondsSinceEpoch ~/ 1000,
+    message.notification?.title ?? 'Alexa Arts Classes',
+    message.notification?.body ?? '',
+    const NotificationDetails(android: androidDetails),
+  );
+}
+
 class NotificationService {
   static final FirebaseMessaging _messaging = FirebaseMessaging.instance;
   static final FlutterLocalNotificationsPlugin _localNotifications =
@@ -12,6 +29,9 @@ class NotificationService {
   static final Set<String> _seenIds = {};
 
   static Future<void> initialize() async {
+    _messaging
+        .setBackgroundMessageHandler(_firebaseMessagingBackgroundHandler);
+
     _messaging.requestPermission(alert: true, badge: true, sound: true);
     await _messaging.setForegroundNotificationPresentationOptions(
       alert: true,
@@ -95,6 +115,15 @@ class NotificationService {
       data['body'] ?? '',
       details,
     );
+  }
+
+  static Future<void> refreshToken() async {
+    try {
+      final token = await _messaging.getToken();
+      if (token != null) {
+        await _saveToken(token);
+      }
+    } catch (_) {}
   }
 
   static Future<void> _saveToken(String token) async {
