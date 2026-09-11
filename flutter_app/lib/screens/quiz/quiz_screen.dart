@@ -8,6 +8,7 @@ import '../../providers/quiz_provider.dart';
 import '../../providers/auth_provider.dart';
 import '../../providers/gamification_provider.dart';
 import '../../providers/config_provider.dart';
+import '../../providers/subject_provider.dart';
 import '../../models/models.dart';
 
 class QuizScreen extends StatefulWidget {
@@ -76,10 +77,43 @@ class _QuizScreenState extends State<QuizScreen> {
   Widget build(BuildContext context) {
     return Consumer<QuizProvider>(
       builder: (context, quizProv, _) {
+        if (widget.subjectId == null && !quizProv.isQuizActive) {
+          return _SubjectPickerScreen(
+            quizTitle: widget.quizTitle,
+            isRevision: _isRevision,
+            onStart: (subjectId) {
+              Navigator.pushReplacementNamed(context, '/quiz', arguments: {
+                'subjectId': subjectId,
+                'chapterIds': widget.chapterIds,
+                'quizTitle': '$subjectId Quiz',
+                'timeLimit': widget.timeLimit,
+                'negativeMarking': widget.negativeMarking,
+              });
+            },
+          );
+        }
+
         if (!quizProv.isQuizActive && quizProv.questions.isEmpty) {
           return Scaffold(
             appBar: AppBar(title: Text(widget.quizTitle)),
-            body: const Center(child: CircularProgressIndicator()),
+            body: Center(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Icon(Icons.quiz_rounded, size: 64, color: Colors.grey.shade400),
+                  const SizedBox(height: 16),
+                  Text(
+                    'No questions available for this subject yet',
+                    style: GoogleFonts.poppins(color: Colors.grey, fontSize: 16),
+                  ),
+                  const SizedBox(height: 16),
+                  ElevatedButton(
+                    onPressed: () => Navigator.pop(context),
+                    child: const Text('Go Back'),
+                  ),
+                ],
+              ),
+            ),
           );
         }
 
@@ -752,6 +786,134 @@ class _ResultStat extends StatelessWidget {
           ],
         ),
       ),
+    );
+  }
+}
+
+class _SubjectPickerScreen extends StatefulWidget {
+  final String quizTitle;
+  final bool isRevision;
+  final void Function(String subjectId) onStart;
+
+  const _SubjectPickerScreen({
+    required this.quizTitle,
+    required this.isRevision,
+    required this.onStart,
+  });
+
+  @override
+  State<_SubjectPickerScreen> createState() => _SubjectPickerScreenState();
+}
+
+class _SubjectPickerScreenState extends State<_SubjectPickerScreen> {
+  String? _selected;
+
+  Color _parseColor(String hex) {
+    final cleaned = hex.replaceAll('#', '');
+    final value = int.tryParse(cleaned, radix: 16) ?? 0x4CAF50;
+    return Color(0xFF000000 | value);
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final subjects = context.watch<SubjectProvider>().subjects;
+
+    return Scaffold(
+      appBar: AppBar(title: Text(widget.quizTitle)),
+      body: subjects.isEmpty
+          ? const Center(child: CircularProgressIndicator())
+          : Column(
+              children: [
+                Padding(
+                  padding: const EdgeInsets.all(16),
+                  child: Text(
+                    widget.isRevision
+                        ? 'Select a subject for Smart Revision'
+                        : 'Select a subject for the Practice Test',
+                    style: GoogleFonts.poppins(
+                      fontSize: 15,
+                      fontWeight: FontWeight.w600,
+                      color: Colors.grey.shade700,
+                    ),
+                  ),
+                ),
+                Expanded(
+                  child: ListView.builder(
+                    padding: const EdgeInsets.symmetric(horizontal: 16),
+                    itemCount: subjects.length,
+                    itemBuilder: (context, index) {
+                      final subject = subjects[index];
+                      final isSelected = _selected == subject.id;
+                      return Card(
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(16),
+                          side: isSelected
+                              ? BorderSide(color: Colors.deepPurple, width: 2)
+                              : BorderSide.none,
+                        ),
+                        child: ListTile(
+                          leading: CircleAvatar(
+                            backgroundColor: _parseColor(subject.color)
+                                .withOpacity(0.15),
+                            child: Text(
+                              subject.name.characters.first,
+                              style: GoogleFonts.poppins(
+                                color: _parseColor(subject.color),
+                                fontWeight: FontWeight.w700,
+                              ),
+                            ),
+                          ),
+                          title: Text(
+                            subject.name,
+                            style: GoogleFonts.poppins(
+                              fontWeight: FontWeight.w600,
+                            ),
+                          ),
+                          subtitle: Text(
+                            '${subject.totalChapters} chapters',
+                            style: GoogleFonts.poppins(
+                                fontSize: 12, color: Colors.grey),
+                          ),
+                          trailing: isSelected
+                              ? const Icon(Icons.check_circle_rounded,
+                                  color: Colors.deepPurple)
+                              : null,
+                          onTap: () => setState(() => _selected = subject.id),
+                        ),
+                      );
+                    },
+                  ),
+                ),
+                Padding(
+                  padding: const EdgeInsets.all(16),
+                  child: SizedBox(
+                    width: double.infinity,
+                    height: 52,
+                    child: ElevatedButton(
+                      onPressed: _selected == null
+                          ? null
+                          : () {
+                              widget.onStart(_selected!);
+                            },
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.deepPurple,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(14),
+                        ),
+                      ),
+                      child: Text(
+                        'Start ${widget.isRevision ? 'Revision' : 'Test'}',
+                        style: GoogleFonts.poppins(
+                          fontSize: 16,
+                          fontWeight: FontWeight.w700,
+                          color: Colors.white,
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
+              ],
+            ),
     );
   }
 }

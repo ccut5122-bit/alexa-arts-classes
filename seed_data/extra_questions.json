@@ -1,0 +1,8227 @@
+[
+ {
+  "_id": "q_hist_7",
+  "subjectId": "history",
+  "chapterId": "hist_ch1",
+  "type": "mcq",
+  "questionText": "What was the primary purpose for which writing first emerged in Sumer?",
+  "questionTextHindi": "What was the primary purpose for which writing first emerged in Sumer?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Religious hymns"
+   },
+   {
+    "id": "b",
+    "text": "Counting produce and taxes"
+   },
+   {
+    "id": "c",
+    "text": "Writing poetry"
+   },
+   {
+    "id": "d",
+    "text": "Recording wars"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Writing began in Sumer around 3200 BCE for keeping records of produce and taxes.",
+  "explanationHindi": "Writing began in Sumer around 3200 BCE for keeping records of produce and taxes.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": "",
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_8",
+  "subjectId": "history",
+  "chapterId": "hist_ch1",
+  "type": "mcq",
+  "questionText": "Which city is considered one of the earliest cities of the world?",
+  "questionTextHindi": "Which city is considered one of the earliest cities of the world?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Babylon"
+   },
+   {
+    "id": "b",
+    "text": "Uruk"
+   },
+   {
+    "id": "c",
+    "text": "Nineveh"
+   },
+   {
+    "id": "d",
+    "text": "Persepolis"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Uruk, a Mesopotamian city, is among the earliest cities of the world.",
+  "explanationHindi": "Uruk, a Mesopotamian city, is among the earliest cities of the world.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_9",
+  "subjectId": "history",
+  "chapterId": "hist_ch1",
+  "type": "mcq",
+  "questionText": "The two rivers of Mesopotamia are the Tigris and the:",
+  "questionTextHindi": "The two rivers of Mesopotamia are the Tigris and the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Nile"
+   },
+   {
+    "id": "b",
+    "text": "Euphrates"
+   },
+   {
+    "id": "c",
+    "text": "Indus"
+   },
+   {
+    "id": "d",
+    "text": "Danube"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Mesopotamia lay between the Tigris and the Euphrates.",
+  "explanationHindi": "Mesopotamia lay between the Tigris and the Euphrates.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_10",
+  "subjectId": "history",
+  "chapterId": "hist_ch1",
+  "type": "mcq",
+  "questionText": "What is the Greek meaning of the word 'Mesopotamia'?",
+  "questionTextHindi": "What is the Greek meaning of the word 'Mesopotamia'?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Land between rivers"
+   },
+   {
+    "id": "b",
+    "text": "Land of sand"
+   },
+   {
+    "id": "c",
+    "text": "Cradle of gods"
+   },
+   {
+    "id": "d",
+    "text": "Land of writing"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Mesopotamia is Greek for 'land between two rivers'.",
+  "explanationHindi": "Mesopotamia is Greek for 'land between two rivers'.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_11",
+  "subjectId": "history",
+  "chapterId": "hist_ch1",
+  "type": "mcq",
+  "questionText": "Scribes in Mesopotamian cities were mainly:",
+  "questionTextHindi": "Scribes in Mesopotamian cities were mainly:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Warriors"
+   },
+   {
+    "id": "b",
+    "text": "Record keepers and writers"
+   },
+   {
+    "id": "c",
+    "text": "Farmers"
+   },
+   {
+    "id": "d",
+    "text": "Traders only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Scribes were literate people who kept records and wrote documents.",
+  "explanationHindi": "Scribes were literate people who kept records and wrote documents.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_12",
+  "subjectId": "history",
+  "chapterId": "hist_ch1",
+  "type": "mcq",
+  "questionText": "Mesopotamian city-states grew mainly because of:",
+  "questionTextHindi": "Mesopotamian city-states grew mainly because of:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Mining"
+   },
+   {
+    "id": "b",
+    "text": "Trade and agriculture"
+   },
+   {
+    "id": "c",
+    "text": "Factory production"
+   },
+   {
+    "id": "d",
+    "text": "Tourism"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Agriculture on fertile plains and trade made Mesopotamian cities prosperous.",
+  "explanationHindi": "Agriculture on fertile plains and trade made Mesopotamian cities prosperous.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_13",
+  "subjectId": "history",
+  "chapterId": "hist_ch1",
+  "type": "mcq",
+  "questionText": "Which structure served as the centre of religion and economy in Mesopotamian cities?",
+  "questionTextHindi": "Which structure served as the centre of religion and economy in Mesopotamian cities?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Colosseum"
+   },
+   {
+    "id": "b",
+    "text": "Ziggurat"
+   },
+   {
+    "id": "c",
+    "text": "Pyramid"
+   },
+   {
+    "id": "d",
+    "text": "Aqueduct"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Temples called ziggurats were centres of religion and economy.",
+  "explanationHindi": "Temples called ziggurats were centres of religion and economy.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_14",
+  "subjectId": "history",
+  "chapterId": "hist_ch1",
+  "type": "mcq",
+  "questionText": "The script of the Sumerians is known as:",
+  "questionTextHindi": "The script of the Sumerians is known as:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Hieroglyphics"
+   },
+   {
+    "id": "b",
+    "text": "Cuneiform"
+   },
+   {
+    "id": "c",
+    "text": "Brahmi"
+   },
+   {
+    "id": "d",
+    "text": "Linear B"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Cuneiform, a wedge-shaped script, was used by the Sumerians.",
+  "explanationHindi": "Cuneiform, a wedge-shaped script, was used by the Sumerians.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_15",
+  "subjectId": "history",
+  "chapterId": "hist_ch2",
+  "type": "mcq",
+  "questionText": "The Roman Empire at its height surrounded which sea?",
+  "questionTextHindi": "The Roman Empire at its height surrounded which sea?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Black Sea"
+   },
+   {
+    "id": "b",
+    "text": "Mediterranean Sea"
+   },
+   {
+    "id": "c",
+    "text": "Red Sea"
+   },
+   {
+    "id": "d",
+    "text": "Caspian Sea"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Roman Empire sprawled around the Mediterranean Sea across three continents.",
+  "explanationHindi": "The Roman Empire sprawled around the Mediterranean Sea across three continents.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_16",
+  "subjectId": "history",
+  "chapterId": "hist_ch2",
+  "type": "mcq",
+  "questionText": "Which ruler moved the capital of the Roman Empire to Byzantium (Constantinople)?",
+  "questionTextHindi": "Which ruler moved the capital of the Roman Empire to Byzantium (Constantinople)?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Augustus"
+   },
+   {
+    "id": "b",
+    "text": "Julius Caesar"
+   },
+   {
+    "id": "c",
+    "text": "Constantine"
+   },
+   {
+    "id": "d",
+    "text": "Nero"
+   }
+  ],
+  "correctOption": "c",
+  "explanation": "Constantine shifted the capital to Byzantium, later called Constantinople.",
+  "explanationHindi": "Constantine shifted the capital to Byzantium, later called Constantinople.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_17",
+  "subjectId": "history",
+  "chapterId": "hist_ch2",
+  "type": "mcq",
+  "questionText": "The Roman Emperor who established the Principate and became the first emperor was:",
+  "questionTextHindi": "The Roman Emperor who established the Principate and became the first emperor was:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Augustus"
+   },
+   {
+    "id": "b",
+    "text": "Tiberius"
+   },
+   {
+    "id": "c",
+    "text": "Hadrian"
+   },
+   {
+    "id": "d",
+    "text": "Trajan"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Augustus (Octavian) established the Roman Empire under his rule in 27 BCE.",
+  "explanationHindi": "Augustus (Octavian) established the Roman Empire under his rule in 27 BCE.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_18",
+  "subjectId": "history",
+  "chapterId": "hist_ch2",
+  "type": "mcq",
+  "questionText": "The main language of the Roman Empire in the west was:",
+  "questionTextHindi": "The main language of the Roman Empire in the west was:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Greek"
+   },
+   {
+    "id": "b",
+    "text": "Latin"
+   },
+   {
+    "id": "c",
+    "text": "Arabic"
+   },
+   {
+    "id": "d",
+    "text": "Persian"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Latin was the official language of the western Roman Empire.",
+  "explanationHindi": "Latin was the official language of the western Roman Empire.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_19",
+  "subjectId": "history",
+  "chapterId": "hist_ch2",
+  "type": "mcq",
+  "questionText": "Roman agriculture relied heavily on which type of labour?",
+  "questionTextHindi": "Roman agriculture relied heavily on which type of labour?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Free citizens"
+   },
+   {
+    "id": "b",
+    "text": "Slaves"
+   },
+   {
+    "id": "c",
+    "text": "Foreign mercenaries"
+   },
+   {
+    "id": "d",
+    "text": "Machines"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Roman economy depended greatly on slave labour on latifundia estates.",
+  "explanationHindi": "The Roman economy depended greatly on slave labour on latifundia estates.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_20",
+  "subjectId": "history",
+  "chapterId": "hist_ch2",
+  "type": "mcq",
+  "questionText": "The period of relative peace and prosperity in the Roman Empire is called the:",
+  "questionTextHindi": "The period of relative peace and prosperity in the Roman Empire is called the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Renaissance"
+   },
+   {
+    "id": "b",
+    "text": "Pax Romana"
+   },
+   {
+    "id": "c",
+    "text": "Golden Calf"
+   },
+   {
+    "id": "d",
+    "text": "Dark Age"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Pax Romana, 'Roman Peace', was a time of relative stability.",
+  "explanationHindi": "Pax Romana, 'Roman Peace', was a time of relative stability.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_21",
+  "subjectId": "history",
+  "chapterId": "hist_ch2",
+  "type": "mcq",
+  "questionText": "Which group of people travelled and traded across the Roman Empire and were later persecuted?",
+  "questionTextHindi": "Which group of people travelled and traded across the Roman Empire and were later persecuted?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Christians"
+   },
+   {
+    "id": "b",
+    "text": "Vandals"
+   },
+   {
+    "id": "c",
+    "text": "Huns"
+   },
+   {
+    "id": "d",
+    "text": "Goths"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Christians faced persecution in early Roman times before Christianity was accepted.",
+  "explanationHindi": "Christians faced persecution in early Roman times before Christianity was accepted.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_22",
+  "subjectId": "history",
+  "chapterId": "hist_ch3",
+  "type": "mcq",
+  "questionText": "The Mongols were primarily which kind of society?",
+  "questionTextHindi": "The Mongols were primarily which kind of society?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Agrarian"
+   },
+   {
+    "id": "b",
+    "text": "Pastoral and nomadic"
+   },
+   {
+    "id": "c",
+    "text": "Industrial"
+   },
+   {
+    "id": "d",
+    "text": "Maritime"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Mongols were nomadic pastoralists of the Central Asian steppe.",
+  "explanationHindi": "The Mongols were nomadic pastoralists of the Central Asian steppe.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_23",
+  "subjectId": "history",
+  "chapterId": "hist_ch3",
+  "type": "mcq",
+  "questionText": "Genghis Khan's original name was:",
+  "questionTextHindi": "Genghis Khan's original name was:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Temujin"
+   },
+   {
+    "id": "b",
+    "text": "Kublai"
+   },
+   {
+    "id": "c",
+    "text": "Batu"
+   },
+   {
+    "id": "d",
+    "text": "Ogedei"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Genghis Khan was born Temujin before taking the title Genghis Khan.",
+  "explanationHindi": "Genghis Khan was born Temujin before taking the title Genghis Khan.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_24",
+  "subjectId": "history",
+  "chapterId": "hist_ch3",
+  "type": "mcq",
+  "questionText": "The Mongol Empire was divided into four parts called:",
+  "questionTextHindi": "The Mongol Empire was divided into four parts called:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Provinces"
+   },
+   {
+    "id": "b",
+    "text": "Khanates"
+   },
+   {
+    "id": "c",
+    "text": "Sultanates"
+   },
+   {
+    "id": "d",
+    "text": "Fiefs"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "After Genghis Khan's death the empire split into four khanates.",
+  "explanationHindi": "After Genghis Khan's death the empire split into four khanates.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_25",
+  "subjectId": "history",
+  "chapterId": "hist_ch3",
+  "type": "mcq",
+  "questionText": "The great plain of Central Asia where Mongols lived is called the:",
+  "questionTextHindi": "The great plain of Central Asia where Mongols lived is called the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Tundra"
+   },
+   {
+    "id": "b",
+    "text": "Steppe"
+   },
+   {
+    "id": "c",
+    "text": "Savanna"
+   },
+   {
+    "id": "d",
+    "text": "Desert"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The grassland steppes of Central Asia were home to the Mongols.",
+  "explanationHindi": "The grassland steppes of Central Asia were home to the Mongols.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_26",
+  "subjectId": "history",
+  "chapterId": "hist_ch3",
+  "type": "mcq",
+  "questionText": "Which Mongol ruler conquered China and founded the Yuan dynasty?",
+  "questionTextHindi": "Which Mongol ruler conquered China and founded the Yuan dynasty?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Genghis Khan"
+   },
+   {
+    "id": "b",
+    "text": "Kublai Khan"
+   },
+   {
+    "id": "c",
+    "text": "Batu Khan"
+   },
+   {
+    "id": "d",
+    "text": "Hulegu"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Kublai Khan, grandson of Genghis, founded the Yuan dynasty in China.",
+  "explanationHindi": "Kublai Khan, grandson of Genghis, founded the Yuan dynasty in China.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_27",
+  "subjectId": "history",
+  "chapterId": "hist_ch3",
+  "type": "mcq",
+  "questionText": "The principal occupation of the pastoral Mongols was:",
+  "questionTextHindi": "The principal occupation of the pastoral Mongols was:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Farming wheat"
+   },
+   {
+    "id": "b",
+    "text": "Herd rearing and hunting"
+   },
+   {
+    "id": "c",
+    "text": "Ship building"
+   },
+   {
+    "id": "d",
+    "text": "Textile weaving"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Mongols reared herds of horses, sheep and cattle and hunted game.",
+  "explanationHindi": "Mongols reared herds of horses, sheep and cattle and hunted game.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_28",
+  "subjectId": "history",
+  "chapterId": "hist_ch4",
+  "type": "mcq",
+  "questionText": "Which invention greatly contributed to the Industrial Revolution in Britain?",
+  "questionTextHindi": "Which invention greatly contributed to the Industrial Revolution in Britain?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Printing press"
+   },
+   {
+    "id": "b",
+    "text": "Steam engine"
+   },
+   {
+    "id": "c",
+    "text": "Telephone"
+   },
+   {
+    "id": "d",
+    "text": "Electric motor"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "James Watt's steam engine powered factories and transport during the Industrial Revolution.",
+  "explanationHindi": "James Watt's steam engine powered factories and transport during the Industrial Revolution.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_29",
+  "subjectId": "history",
+  "chapterId": "hist_ch4",
+  "type": "mcq",
+  "questionText": "The Industrial Revolution began in which century?",
+  "questionTextHindi": "The Industrial Revolution began in which century?",
+  "options": [
+   {
+    "id": "a",
+    "text": "14th century"
+   },
+   {
+    "id": "b",
+    "text": "16th century"
+   },
+   {
+    "id": "c",
+    "text": "18th century"
+   },
+   {
+    "id": "d",
+    "text": "20th century"
+   }
+  ],
+  "correctOption": "c",
+  "explanation": "It began in Britain in the late eighteenth century.",
+  "explanationHindi": "It began in Britain in the late eighteenth century.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_30",
+  "subjectId": "history",
+  "chapterId": "hist_ch4",
+  "type": "mcq",
+  "questionText": "The first modern factory system developed in which industry?",
+  "questionTextHindi": "The first modern factory system developed in which industry?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Iron and steel"
+   },
+   {
+    "id": "b",
+    "text": "Textiles"
+   },
+   {
+    "id": "c",
+    "text": "Railways"
+   },
+   {
+    "id": "d",
+    "text": "Shipbuilding"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Cotton textile mills pioneered the modern factory system in Britain.",
+  "explanationHindi": "Cotton textile mills pioneered the modern factory system in Britain.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_31",
+  "subjectId": "history",
+  "chapterId": "hist_ch4",
+  "type": "mcq",
+  "questionText": "The industrial working class came to be known as the:",
+  "questionTextHindi": "The industrial working class came to be known as the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Gentry"
+   },
+   {
+    "id": "b",
+    "text": "Proletariat"
+   },
+   {
+    "id": "c",
+    "text": "Bourgeoisie"
+   },
+   {
+    "id": "d",
+    "text": "Aristocracy"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Marx used 'proletariat' for the industrial working class.",
+  "explanationHindi": "Marx used 'proletariat' for the industrial working class.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_32",
+  "subjectId": "history",
+  "chapterId": "hist_ch4",
+  "type": "mcq",
+  "questionText": "Transport by rail in Britain began after the invention of the:",
+  "questionTextHindi": "Transport by rail in Britain began after the invention of the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Loom"
+   },
+   {
+    "id": "b",
+    "text": "Steam locomotive"
+   },
+   {
+    "id": "c",
+    "text": "Spinning wheel"
+   },
+   {
+    "id": "d",
+    "text": "Compass"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The steam locomotive (Stephenson) brought the railway age to Britain.",
+  "explanationHindi": "The steam locomotive (Stephenson) brought the railway age to Britain.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_33",
+  "subjectId": "history",
+  "chapterId": "hist_ch4",
+  "type": "mcq",
+  "questionText": "Which country was the first to industrialise outside Britain in continental Europe?",
+  "questionTextHindi": "Which country was the first to industrialise outside Britain in continental Europe?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Italy"
+   },
+   {
+    "id": "b",
+    "text": "Belgium"
+   },
+   {
+    "id": "c",
+    "text": "Russia"
+   },
+   {
+    "id": "d",
+    "text": "Spain"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Belgium industrialised early in the nineteenth century after Britain.",
+  "explanationHindi": "Belgium industrialised early in the nineteenth century after Britain.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_34",
+  "subjectId": "history",
+  "chapterId": "hist_ch4",
+  "type": "mcq",
+  "questionText": "The enclosure movement in Britain was related to:",
+  "questionTextHindi": "The enclosure movement in Britain was related to:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Religion"
+   },
+   {
+    "id": "b",
+    "text": "Land and farming"
+   },
+   {
+    "id": "c",
+    "text": "Education"
+   },
+   {
+    "id": "d",
+    "text": "Trade"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Enclosures consolidated open fields into private farms, supplying labour for industry.",
+  "explanationHindi": "Enclosures consolidated open fields into private farms, supplying labour for industry.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_35",
+  "subjectId": "history",
+  "chapterId": "hist_ch4",
+  "type": "mcq",
+  "questionText": "Which classes benefited most from industrialisation?",
+  "questionTextHindi": "Which classes benefited most from industrialisation?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Factory workers"
+   },
+   {
+    "id": "b",
+    "text": "Industrialists and merchants"
+   },
+   {
+    "id": "c",
+    "text": "Serfs"
+   },
+   {
+    "id": "d",
+    "text": "Clergy"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Business owners and traders accumulated wealth from industrial growth.",
+  "explanationHindi": "Business owners and traders accumulated wealth from industrial growth.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_36",
+  "subjectId": "history",
+  "chapterId": "hist_ch5",
+  "type": "mcq",
+  "questionText": "Which European power colonised Brazil?",
+  "questionTextHindi": "Which European power colonised Brazil?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Spain"
+   },
+   {
+    "id": "b",
+    "text": "Portugal"
+   },
+   {
+    "id": "c",
+    "text": "France"
+   },
+   {
+    "id": "d",
+    "text": "Britain"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Portugal claimed Brazil under the Treaty of Tordesillas.",
+  "explanationHindi": "Portugal claimed Brazil under the Treaty of Tordesillas.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_37",
+  "subjectId": "history",
+  "chapterId": "hist_ch5",
+  "type": "mcq",
+  "questionText": "The Aztec civilisation at the time of Spanish conquest was centred in:",
+  "questionTextHindi": "The Aztec civilisation at the time of Spanish conquest was centred in:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Peru"
+   },
+   {
+    "id": "b",
+    "text": "Mexico"
+   },
+   {
+    "id": "c",
+    "text": "Brazil"
+   },
+   {
+    "id": "d",
+    "text": "Chile"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Aztecs dominated central Mexico with their capital Tenochtitlan.",
+  "explanationHindi": "The Aztecs dominated central Mexico with their capital Tenochtitlan.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_38",
+  "subjectId": "history",
+  "chapterId": "hist_ch5",
+  "type": "mcq",
+  "questionText": "Which Inca ruler was captured by Francisco Pizarro?",
+  "questionTextHindi": "Which Inca ruler was captured by Francisco Pizarro?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Montezuma"
+   },
+   {
+    "id": "b",
+    "text": "Atahualpa"
+   },
+   {
+    "id": "c",
+    "text": "Cuauhtemoc"
+   },
+   {
+    "id": "d",
+    "text": "Moctezuma"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Pizarro captured the Inca emperor Atahualpa in Peru.",
+  "explanationHindi": "Pizarro captured the Inca emperor Atahualpa in Peru.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_39",
+  "subjectId": "history",
+  "chapterId": "hist_ch5",
+  "type": "mcq",
+  "questionText": "Columbus' voyages were sponsored by which country?",
+  "questionTextHindi": "Columbus' voyages were sponsored by which country?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Portugal"
+   },
+   {
+    "id": "b",
+    "text": "Spain"
+   },
+   {
+    "id": "c",
+    "text": "England"
+   },
+   {
+    "id": "d",
+    "text": "Netherlands"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Queen Isabella of Spain sponsored Columbus' voyages.",
+  "explanationHindi": "Queen Isabella of Spain sponsored Columbus' voyages.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_40",
+  "subjectId": "history",
+  "chapterId": "hist_ch5",
+  "type": "mcq",
+  "questionText": "The transfer of plants, animals and diseases between the New and Old Worlds is called the:",
+  "questionTextHindi": "The transfer of plants, animals and diseases between the New and Old Worlds is called the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Silk Road Trade"
+   },
+   {
+    "id": "b",
+    "text": "Columbian Exchange"
+   },
+   {
+    "id": "c",
+    "text": "Black Death"
+   },
+   {
+    "id": "d",
+    "text": "Slave Triangle"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Columbian Exchange moved crops, animals and germs across the Atlantic.",
+  "explanationHindi": "The Columbian Exchange moved crops, animals and germs across the Atlantic.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_41",
+  "subjectId": "history",
+  "chapterId": "hist_ch6",
+  "type": "mcq",
+  "questionText": "The Meiji Restoration of 1868 modernised which country?",
+  "questionTextHindi": "The Meiji Restoration of 1868 modernised which country?",
+  "options": [
+   {
+    "id": "a",
+    "text": "China"
+   },
+   {
+    "id": "b",
+    "text": "Japan"
+   },
+   {
+    "id": "c",
+    "text": "Korea"
+   },
+   {
+    "id": "d",
+    "text": "Vietnam"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Japan modernised rapidly after the Meiji Restoration of 1868.",
+  "explanationHindi": "Japan modernised rapidly after the Meiji Restoration of 1868.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_42",
+  "subjectId": "history",
+  "chapterId": "hist_ch6",
+  "type": "mcq",
+  "questionText": "Chinese society considered which class lowest in the traditional hierarchy?",
+  "questionTextHindi": "Chinese society considered which class lowest in the traditional hierarchy?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Scholars"
+   },
+   {
+    "id": "b",
+    "text": "Merchants"
+   },
+   {
+    "id": "c",
+    "text": "Peasants"
+   },
+   {
+    "id": "d",
+    "text": "Officials"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "In Confucian order merchants ranked low; scholars and officials ranked high.",
+  "explanationHindi": "In Confucian order merchants ranked low; scholars and officials ranked high.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_43",
+  "subjectId": "history",
+  "chapterId": "hist_ch6",
+  "type": "mcq",
+  "questionText": "The Opium Wars were fought between China and:",
+  "questionTextHindi": "The Opium Wars were fought between China and:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Japan"
+   },
+   {
+    "id": "b",
+    "text": "Britain"
+   },
+   {
+    "id": "c",
+    "text": "Russia"
+   },
+   {
+    "id": "d",
+    "text": "France"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Britain fought the Opium Wars (1839-42, 1856-60) to force open Chinese trade.",
+  "explanationHindi": "Britain fought the Opium Wars (1839-42, 1856-60) to force open Chinese trade.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_44",
+  "subjectId": "history",
+  "chapterId": "hist_ch6",
+  "type": "mcq",
+  "questionText": "The Meiji government slogan for industrialisation was:",
+  "questionTextHindi": "The Meiji government slogan for industrialisation was:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Rich country, strong army"
+   },
+   {
+    "id": "b",
+    "text": "Liberty and equality"
+   },
+   {
+    "id": "c",
+    "text": "One empire, one law"
+   },
+   {
+    "id": "d",
+    "text": "Land to the tiller"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "'Fukoku kyohei' — rich country, strong army — guided Japanese modernisation.",
+  "explanationHindi": "'Fukoku kyohei' — rich country, strong army — guided Japanese modernisation.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_45",
+  "subjectId": "history",
+  "chapterId": "hist_ch6",
+  "type": "mcq",
+  "questionText": "Which dynasty ruled China when it was overthrown in 1911?",
+  "questionTextHindi": "Which dynasty ruled China when it was overthrown in 1911?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Ming"
+   },
+   {
+    "id": "b",
+    "text": "Tang"
+   },
+   {
+    "id": "c",
+    "text": "Qing"
+   },
+   {
+    "id": "d",
+    "text": "Song"
+   }
+  ],
+  "correctOption": "c",
+  "explanation": "The Qing (Manchu) dynasty was overthrown in the 1911 revolution.",
+  "explanationHindi": "The Qing (Manchu) dynasty was overthrown in the 1911 revolution.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_46",
+  "subjectId": "history",
+  "chapterId": "hist_ch6",
+  "type": "mcq",
+  "questionText": "The Chinese exam system that selected officials was based on:",
+  "questionTextHindi": "The Chinese exam system that selected officials was based on:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Military skill"
+   },
+   {
+    "id": "b",
+    "text": "Confucian learning"
+   },
+   {
+    "id": "c",
+    "text": "Trade wealth"
+   },
+   {
+    "id": "d",
+    "text": "Noble birth"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Imperial China selected officials through examinations testing Confucian classics.",
+  "explanationHindi": "Imperial China selected officials through examinations testing Confucian classics.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_47",
+  "subjectId": "history",
+  "chapterId": "hist_ch6",
+  "type": "mcq",
+  "questionText": "Japan's period of isolation from the outside world was called:",
+  "questionTextHindi": "Japan's period of isolation from the outside world was called:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Shogunate only"
+   },
+   {
+    "id": "b",
+    "text": "Sakoku"
+   },
+   {
+    "id": "c",
+    "text": "Kami"
+   },
+   {
+    "id": "d",
+    "text": "Bushido"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Sakoku was the Tokugawa policy of national isolation.",
+  "explanationHindi": "Sakoku was the Tokugawa policy of national isolation.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_hist_48",
+  "subjectId": "history",
+  "chapterId": "hist_ch6",
+  "type": "mcq",
+  "questionText": "The samurai class in Japan lived by a code of honour called:",
+  "questionTextHindi": "The samurai class in Japan lived by a code of honour called:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Bushido"
+   },
+   {
+    "id": "b",
+    "text": "Shinto"
+   },
+   {
+    "id": "c",
+    "text": "Kabuki"
+   },
+   {
+    "id": "d",
+    "text": "Haiku"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Bushido, the 'way of the warrior', governed samurai conduct.",
+  "explanationHindi": "Bushido, the 'way of the warrior', governed samurai conduct.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_7",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch1",
+  "type": "mcq",
+  "questionText": "The Constitution of India was adopted on:",
+  "questionTextHindi": "The Constitution of India was adopted on:",
+  "options": [
+   {
+    "id": "a",
+    "text": "26 January 1948"
+   },
+   {
+    "id": "b",
+    "text": "26 November 1949"
+   },
+   {
+    "id": "c",
+    "text": "15 August 1947"
+   },
+   {
+    "id": "d",
+    "text": "26 January 1950"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950.",
+  "explanationHindi": "The Constitution was adopted on 26 November 1949 and came into force on 26 January 1950.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_8",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch1",
+  "type": "mcq",
+  "questionText": "The Constituent Assembly first met on:",
+  "questionTextHindi": "The Constituent Assembly first met on:",
+  "options": [
+   {
+    "id": "a",
+    "text": "15 August 1947"
+   },
+   {
+    "id": "b",
+    "text": "9 December 1946"
+   },
+   {
+    "id": "c",
+    "text": "26 January 1950"
+   },
+   {
+    "id": "d",
+    "text": "20 February 1947"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Constituent Assembly held its first meeting on 9 December 1946.",
+  "explanationHindi": "The Constituent Assembly held its first meeting on 9 December 1946.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_9",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch1",
+  "type": "mcq",
+  "questionText": "The Drafting Committee of the Constitution was headed by:",
+  "questionTextHindi": "The Drafting Committee of the Constitution was headed by:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Jawaharlal Nehru"
+   },
+   {
+    "id": "b",
+    "text": "Dr. B.R. Ambedkar"
+   },
+   {
+    "id": "c",
+    "text": "Rajendra Prasad"
+   },
+   {
+    "id": "d",
+    "text": "Sardar Patel"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Dr. B.R. Ambedkar chaired the Drafting Committee.",
+  "explanationHindi": "Dr. B.R. Ambedkar chaired the Drafting Committee.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_10",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch1",
+  "type": "mcq",
+  "questionText": "Who was the President of the Constituent Assembly?",
+  "questionTextHindi": "Who was the President of the Constituent Assembly?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Dr. Rajendra Prasad"
+   },
+   {
+    "id": "b",
+    "text": "Dr. B.R. Ambedkar"
+   },
+   {
+    "id": "c",
+    "text": "Jawaharlal Nehru"
+   },
+   {
+    "id": "d",
+    "text": "C. Rajagopalachari"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Dr. Rajendra Prasad was the permanent President of the Constituent Assembly.",
+  "explanationHindi": "Dr. Rajendra Prasad was the permanent President of the Constituent Assembly.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_11",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch1",
+  "type": "mcq",
+  "questionText": "The Constitution declares India as a:",
+  "questionTextHindi": "The Constitution declares India as a:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Union of States"
+   },
+   {
+    "id": "b",
+    "text": "Confederation"
+   },
+   {
+    "id": "c",
+    "text": "Federation only"
+   },
+   {
+    "id": "d",
+    "text": "Unitary state only"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Article 1 declares India as a 'Union of States'.",
+  "explanationHindi": "Article 1 declares India as a 'Union of States'.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_12",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch1",
+  "type": "mcq",
+  "questionText": "The number of Constituent Assembly members who signed the Constitution was about:",
+  "questionTextHindi": "The number of Constituent Assembly members who signed the Constitution was about:",
+  "options": [
+   {
+    "id": "a",
+    "text": "100"
+   },
+   {
+    "id": "b",
+    "text": "201"
+   },
+   {
+    "id": "c",
+    "text": "284"
+   },
+   {
+    "id": "d",
+    "text": "500"
+   }
+  ],
+  "correctOption": "c",
+  "explanation": "About 284 members signed the final document.",
+  "explanationHindi": "About 284 members signed the final document.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_13",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch1",
+  "type": "mcq",
+  "questionText": "The Constitution of India is:",
+  "questionTextHindi": "The Constitution of India is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Flexible (like UK)"
+   },
+   {
+    "id": "b",
+    "text": "Rigid (like USA)"
+   },
+   {
+    "id": "c",
+    "text": "Partly rigid, partly flexible"
+   },
+   {
+    "id": "d",
+    "text": "Neither rigid nor flexible"
+   }
+  ],
+  "correctOption": "c",
+  "explanation": "The Indian Constitution combines rigidity and flexibility in amendment procedures.",
+  "explanationHindi": "The Indian Constitution combines rigidity and flexibility in amendment procedures.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_14",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch1",
+  "type": "mcq",
+  "questionText": "The idea of the Constitution was given concrete shape through which process?",
+  "questionTextHindi": "The idea of the Constitution was given concrete shape through which process?",
+  "options": [
+   {
+    "id": "a",
+    "text": "British Act"
+   },
+   {
+    "id": "b",
+    "text": "Constituent Assembly deliberations"
+   },
+   {
+    "id": "c",
+    "text": "Royal decree"
+   },
+   {
+    "id": "d",
+    "text": "Public referendum"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Constitution emerged from two years of Constituent Assembly deliberations.",
+  "explanationHindi": "The Constitution emerged from two years of Constituent Assembly deliberations.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_15",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch2",
+  "type": "mcq",
+  "questionText": "How many Fundamental Rights are granted by the Indian Constitution (originally)?",
+  "questionTextHindi": "How many Fundamental Rights are granted by the Indian Constitution (originally)?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Five"
+   },
+   {
+    "id": "b",
+    "text": "Seven"
+   },
+   {
+    "id": "c",
+    "text": "Six"
+   },
+   {
+    "id": "d",
+    "text": "Eight"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Originally seven Fundamental Rights were listed; property was later removed, leaving six.",
+  "explanationHindi": "Originally seven Fundamental Rights were listed; property was later removed, leaving six.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_16",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch2",
+  "type": "mcq",
+  "questionText": "Right to Property was removed as a Fundamental Right by which Amendment?",
+  "questionTextHindi": "Right to Property was removed as a Fundamental Right by which Amendment?",
+  "options": [
+   {
+    "id": "a",
+    "text": "42nd"
+   },
+   {
+    "id": "b",
+    "text": "44th"
+   },
+   {
+    "id": "c",
+    "text": "52nd"
+   },
+   {
+    "id": "d",
+    "text": "73rd"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The 44th Amendment (1978) removed the Right to Property as a Fundamental Right.",
+  "explanationHindi": "The 44th Amendment (1978) removed the Right to Property as a Fundamental Right.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_17",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch2",
+  "type": "mcq",
+  "questionText": "Article 17 abolishes:",
+  "questionTextHindi": "Article 17 abolishes:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Untouchability"
+   },
+   {
+    "id": "b",
+    "text": "Child labour"
+   },
+   {
+    "id": "c",
+    "text": "Sati"
+   },
+   {
+    "id": "d",
+    "text": "Bonded labour"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Article 17 abolishes untouchability in all forms.",
+  "explanationHindi": "Article 17 abolishes untouchability in all forms.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_18",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch2",
+  "type": "mcq",
+  "questionText": "Which Article prohibits discrimination on grounds of religion, race, caste, sex or place of birth?",
+  "questionTextHindi": "Which Article prohibits discrimination on grounds of religion, race, caste, sex or place of birth?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Article 14"
+   },
+   {
+    "id": "b",
+    "text": "Article 15"
+   },
+   {
+    "id": "c",
+    "text": "Article 19"
+   },
+   {
+    "id": "d",
+    "text": "Article 25"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Article 15 prohibits discrimination on specified grounds.",
+  "explanationHindi": "Article 15 prohibits discrimination on specified grounds.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_19",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch2",
+  "type": "mcq",
+  "questionText": "Equality before law is guaranteed under Article:",
+  "questionTextHindi": "Equality before law is guaranteed under Article:",
+  "options": [
+   {
+    "id": "a",
+    "text": "14"
+   },
+   {
+    "id": "b",
+    "text": "15"
+   },
+   {
+    "id": "c",
+    "text": "16"
+   },
+   {
+    "id": "d",
+    "text": "18"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Article 14 guarantees equality before the law and equal protection of laws.",
+  "explanationHindi": "Article 14 guarantees equality before the law and equal protection of laws.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_20",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch2",
+  "type": "mcq",
+  "questionText": "The Right to Constitutional Remedies is also called:",
+  "questionTextHindi": "The Right to Constitutional Remedies is also called:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Right to Life"
+   },
+   {
+    "id": "b",
+    "text": "Heart and Soul of the Constitution"
+   },
+   {
+    "id": "c",
+    "text": "Right to Vote"
+   },
+   {
+    "id": "d",
+    "text": "Right to Work"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Article 32 enabling judicial remedy is called the heart and soul of the Constitution.",
+  "explanationHindi": "Article 32 enabling judicial remedy is called the heart and soul of the Constitution.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_21",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch2",
+  "type": "mcq",
+  "questionText": "Cultural and Educational Rights are provided under Articles:",
+  "questionTextHindi": "Cultural and Educational Rights are provided under Articles:",
+  "options": [
+   {
+    "id": "a",
+    "text": "14-18"
+   },
+   {
+    "id": "b",
+    "text": "19-22"
+   },
+   {
+    "id": "c",
+    "text": "23-24"
+   },
+   {
+    "id": "d",
+    "text": "29-30"
+   }
+  ],
+  "correctOption": "d",
+  "explanation": "Articles 29-30 protect cultural and educational rights of minorities.",
+  "explanationHindi": "Articles 29-30 protect cultural and educational rights of minorities.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_22",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch2",
+  "type": "mcq",
+  "questionText": "Fundamental Rights can be suspended or restricted during:",
+  "questionTextHindi": "Fundamental Rights can be suspended or restricted during:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Elections"
+   },
+   {
+    "id": "b",
+    "text": "National Emergency"
+   },
+   {
+    "id": "c",
+    "text": "Bonded labour"
+   },
+   {
+    "id": "d",
+    "text": "General elections"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "During National Emergency, some Fundamental Rights may be restricted.",
+  "explanationHindi": "During National Emergency, some Fundamental Rights may be restricted.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_23",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch2",
+  "type": "mcq",
+  "questionText": "The right to move freely across India is secured under which Article?",
+  "questionTextHindi": "The right to move freely across India is secured under which Article?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Article 17"
+   },
+   {
+    "id": "b",
+    "text": "Article 19"
+   },
+   {
+    "id": "c",
+    "text": "Article 21"
+   },
+   {
+    "id": "d",
+    "text": "Article 25"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Article 19 gives the freedom to move freely and reside anywhere in India.",
+  "explanationHindi": "Article 19 gives the freedom to move freely and reside anywhere in India.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_24",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch3",
+  "type": "mcq",
+  "questionText": "Elections in India are conducted by the:",
+  "questionTextHindi": "Elections in India are conducted by the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "President"
+   },
+   {
+    "id": "b",
+    "text": "Election Commission of India"
+   },
+   {
+    "id": "c",
+    "text": "Supreme Court"
+   },
+   {
+    "id": "d",
+    "text": "Parliament only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The independent Election Commission conducts free and fair elections.",
+  "explanationHindi": "The independent Election Commission conducts free and fair elections.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_25",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch3",
+  "type": "mcq",
+  "questionText": "The minimum voting age in India is:",
+  "questionTextHindi": "The minimum voting age in India is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "16"
+   },
+   {
+    "id": "b",
+    "text": "18"
+   },
+   {
+    "id": "c",
+    "text": "21"
+   },
+   {
+    "id": "d",
+    "text": "25"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The 61st Amendment (1988) reduced voting age from 21 to 18.",
+  "explanationHindi": "The 61st Amendment (1988) reduced voting age from 21 to 18.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_26",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch3",
+  "type": "mcq",
+  "questionText": "India follows which system of elections?",
+  "questionTextHindi": "India follows which system of elections?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Proportional representation"
+   },
+   {
+    "id": "b",
+    "text": "First Past the Post"
+   },
+   {
+    "id": "c",
+    "text": "Mixed system"
+   },
+   {
+    "id": "d",
+    "text": "Indirect only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Lok Sabha and Assembly elections use the First Past the Post system.",
+  "explanationHindi": "Lok Sabha and Assembly elections use the First Past the Post system.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_27",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch3",
+  "type": "mcq",
+  "questionText": "Model Code of Conduct applies to:",
+  "questionTextHindi": "Model Code of Conduct applies to:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Civil servants only"
+   },
+   {
+    "id": "b",
+    "text": "Political parties and candidates during elections"
+   },
+   {
+    "id": "c",
+    "text": "Judges"
+   },
+   {
+    "id": "d",
+    "text": "News channels"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Model Code sets norms for parties and candidates in election campaigns.",
+  "explanationHindi": "The Model Code sets norms for parties and candidates in election campaigns.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_28",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch3",
+  "type": "mcq",
+  "questionText": "One of the defects of the present election system identified by reformers is:",
+  "questionTextHindi": "One of the defects of the present election system identified by reformers is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Free media"
+   },
+   {
+    "id": "b",
+    "text": "Money and muscle power"
+   },
+   {
+    "id": "c",
+    "text": "Electronic voting"
+   },
+   {
+    "id": "d",
+    "text": "Reserved seats"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Money, criminalisation and unfair polling practices are concerns flagged by reformers.",
+  "explanationHindi": "Money, criminalisation and unfair polling practices are concerns flagged by reformers.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_29",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch3",
+  "type": "mcq",
+  "questionText": "Which of the following safeguards free and fair elections?",
+  "questionTextHindi": "Which of the following safeguards free and fair elections?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Police firing"
+   },
+   {
+    "id": "b",
+    "text": "Independent Election Commission"
+   },
+   {
+    "id": "c",
+    "text": "Political violence"
+   },
+   {
+    "id": "d",
+    "text": "Restricted voting"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "An autonomous Election Commission is vital for fair polls.",
+  "explanationHindi": "An autonomous Election Commission is vital for fair polls.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_30",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch3",
+  "type": "mcq",
+  "questionText": "The 73rd and 74th Amendments strengthened which level of government?",
+  "questionTextHindi": "The 73rd and 74th Amendments strengthened which level of government?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Centre"
+   },
+   {
+    "id": "b",
+    "text": "States"
+   },
+   {
+    "id": "c",
+    "text": "Panchayats and Municipalities"
+   },
+   {
+    "id": "d",
+    "text": "Judiciary"
+   }
+  ],
+  "correctOption": "c",
+  "explanation": "These amendments gave constitutional status to local self-government.",
+  "explanationHindi": "These amendments gave constitutional status to local self-government.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_31",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch3",
+  "type": "mcq",
+  "questionText": "A voter can, under the present system, cast vote for:",
+  "questionTextHindi": "A voter can, under the present system, cast vote for:",
+  "options": [
+   {
+    "id": "a",
+    "text": "All candidates of the constituency"
+   },
+   {
+    "id": "b",
+    "text": "One candidate of the constituency"
+   },
+   {
+    "id": "c",
+    "text": "Only the winning candidate"
+   },
+   {
+    "id": "d",
+    "text": "A party not the candidate"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Each voter chooses one candidate from the candidates contesting that constituency.",
+  "explanationHindi": "Each voter chooses one candidate from the candidates contesting that constituency.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_32",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch4",
+  "type": "mcq",
+  "questionText": "The President of India is elected by:",
+  "questionTextHindi": "The President of India is elected by:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Direct vote of the people"
+   },
+   {
+    "id": "b",
+    "text": "An electoral college"
+   },
+   {
+    "id": "c",
+    "text": "The Prime Minister"
+   },
+   {
+    "id": "d",
+    "text": "The Chief Justice"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The President is elected by an electoral college of MPs, MLAs and MLCs.",
+  "explanationHindi": "The President is elected by an electoral college of MPs, MLAs and MLCs.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_33",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch4",
+  "type": "mcq",
+  "questionText": "The executive head of the Indian state government is the:",
+  "questionTextHindi": "The executive head of the Indian state government is the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "President"
+   },
+   {
+    "id": "b",
+    "text": "Governor"
+   },
+   {
+    "id": "c",
+    "text": "Chief Minister"
+   },
+   {
+    "id": "d",
+    "text": "Speaker"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Governor is the constitutional head of a state.",
+  "explanationHindi": "The Governor is the constitutional head of a state.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_34",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch4",
+  "type": "mcq",
+  "questionText": "Article 74 says the President acts on the aid and advice of the:",
+  "questionTextHindi": "Article 74 says the President acts on the aid and advice of the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Parliament"
+   },
+   {
+    "id": "b",
+    "text": "Supreme Court"
+   },
+   {
+    "id": "c",
+    "text": "Council of Ministers headed by PM"
+   },
+   {
+    "id": "d",
+    "text": "Election Commission"
+   }
+  ],
+  "correctOption": "c",
+  "explanation": "The President exercises powers on the advice of the Council of Ministers.",
+  "explanationHindi": "The President exercises powers on the advice of the Council of Ministers.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_35",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch4",
+  "type": "mcq",
+  "questionText": "The President can declare National Emergency under Article:",
+  "questionTextHindi": "The President can declare National Emergency under Article:",
+  "options": [
+   {
+    "id": "a",
+    "text": "356"
+   },
+   {
+    "id": "b",
+    "text": "352"
+   },
+   {
+    "id": "c",
+    "text": "360"
+   },
+   {
+    "id": "d",
+    "text": "368"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Article 352 covers National Emergency on war, external aggression or armed rebellion.",
+  "explanationHindi": "Article 352 covers National Emergency on war, external aggression or armed rebellion.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_36",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch4",
+  "type": "mcq",
+  "questionText": "Pardoning power of the President is given in Article:",
+  "questionTextHindi": "Pardoning power of the President is given in Article:",
+  "options": [
+   {
+    "id": "a",
+    "text": "52"
+   },
+   {
+    "id": "b",
+    "text": "72"
+   },
+   {
+    "id": "c",
+    "text": "75"
+   },
+   {
+    "id": "d",
+    "text": "123"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Article 72 grants the President the power to pardon and commute sentences.",
+  "explanationHindi": "Article 72 grants the President the power to pardon and commute sentences.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_37",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch4",
+  "type": "mcq",
+  "questionText": "The President's Rule in a state is imposed under Article:",
+  "questionTextHindi": "The President's Rule in a state is imposed under Article:",
+  "options": [
+   {
+    "id": "a",
+    "text": "352"
+   },
+   {
+    "id": "b",
+    "text": "356"
+   },
+   {
+    "id": "c",
+    "text": "360"
+   },
+   {
+    "id": "d",
+    "text": "365"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Article 356 allows President's Rule when the state government fails constitutionally.",
+  "explanationHindi": "Article 356 allows President's Rule when the state government fails constitutionally.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_38",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch4",
+  "type": "mcq",
+  "questionText": "The Chief Minister is appointed by the:",
+  "questionTextHindi": "The Chief Minister is appointed by the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "President"
+   },
+   {
+    "id": "b",
+    "text": "Governor"
+   },
+   {
+    "id": "c",
+    "text": "Chief Justice"
+   },
+   {
+    "id": "d",
+    "text": "Speaker"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Governor appoints the Chief Minister of a state.",
+  "explanationHindi": "The Governor appoints the Chief Minister of a state.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_39",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch4",
+  "type": "mcq",
+  "questionText": "The Vice-President of India is the ex-officio Chairman of the:",
+  "questionTextHindi": "The Vice-President of India is the ex-officio Chairman of the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Lok Sabha"
+   },
+   {
+    "id": "b",
+    "text": "Rajya Sabha"
+   },
+   {
+    "id": "c",
+    "text": "Supreme Court"
+   },
+   {
+    "id": "d",
+    "text": "Planning Commission"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Vice-President chairs the Rajya Sabha.",
+  "explanationHindi": "The Vice-President chairs the Rajya Sabha.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_40",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch5",
+  "type": "mcq",
+  "questionText": "The Lower House of the Parliament of India is the:",
+  "questionTextHindi": "The Lower House of the Parliament of India is the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Rajya Sabha"
+   },
+   {
+    "id": "b",
+    "text": "Lok Sabha"
+   },
+   {
+    "id": "c",
+    "text": "Vidhan Sabha"
+   },
+   {
+    "id": "d",
+    "text": "Vidhan Parishad"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Lok Sabha is the popularly elected Lower House of Parliament.",
+  "explanationHindi": "Lok Sabha is the popularly elected Lower House of Parliament.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_41",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch5",
+  "type": "mcq",
+  "questionText": "The maximum strength of the Lok Sabha is:",
+  "questionTextHindi": "The maximum strength of the Lok Sabha is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "500"
+   },
+   {
+    "id": "b",
+    "text": "550"
+   },
+   {
+    "id": "c",
+    "text": "552"
+   },
+   {
+    "id": "d",
+    "text": "600"
+   }
+  ],
+  "correctOption": "c",
+  "explanation": "The Constitution sets the maximum strength of Lok Sabha at 552.",
+  "explanationHindi": "The Constitution sets the maximum strength of Lok Sabha at 552.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_42",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch5",
+  "type": "mcq",
+  "questionText": "The presiding officer of the Lok Sabha is the:",
+  "questionTextHindi": "The presiding officer of the Lok Sabha is the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "President"
+   },
+   {
+    "id": "b",
+    "text": "Speaker"
+   },
+   {
+    "id": "c",
+    "text": "Vice-President"
+   },
+   {
+    "id": "d",
+    "text": "Deputy Speaker alone"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Speaker presides over Lok Sabha proceedings.",
+  "explanationHindi": "The Speaker presides over Lok Sabha proceedings.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_43",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch5",
+  "type": "mcq",
+  "questionText": "Money Bills can only be introduced in the:",
+  "questionTextHindi": "Money Bills can only be introduced in the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Rajya Sabha"
+   },
+   {
+    "id": "b",
+    "text": "Lok Sabha"
+   },
+   {
+    "id": "c",
+    "text": "State Assembly"
+   },
+   {
+    "id": "d",
+    "text": "President's office"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "By Article 110, Money Bills originate only in the Lok Sabha.",
+  "explanationHindi": "By Article 110, Money Bills originate only in the Lok Sabha.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_44",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch5",
+  "type": "mcq",
+  "questionText": "Rajya Sabha is also called the:",
+  "questionTextHindi": "Rajya Sabha is also called the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Council of States"
+   },
+   {
+    "id": "b",
+    "text": "House of People"
+   },
+   {
+    "id": "c",
+    "text": "Legislative Council"
+   },
+   {
+    "id": "d",
+    "text": "Federal Court"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Rajya Sabha is the Council of States, representing states and UTs.",
+  "explanationHindi": "Rajya Sabha is the Council of States, representing states and UTs.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_45",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch5",
+  "type": "mcq",
+  "questionText": "The ordinary term of the Lok Sabha is:",
+  "questionTextHindi": "The ordinary term of the Lok Sabha is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "4 years"
+   },
+   {
+    "id": "b",
+    "text": "5 years"
+   },
+   {
+    "id": "c",
+    "text": "6 years"
+   },
+   {
+    "id": "d",
+    "text": "7 years"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Lok Sabha's normal term is five years (can be extended in Emergency).",
+  "explanationHindi": "Lok Sabha's normal term is five years (can be extended in Emergency).",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_46",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch5",
+  "type": "mcq",
+  "questionText": "An ordinary bill can be deadlocked between the two Houses; the joint sitting is presided over by the:",
+  "questionTextHindi": "An ordinary bill can be deadlocked between the two Houses; the joint sitting is presided over by the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "President"
+   },
+   {
+    "id": "b",
+    "text": "Speaker of Lok Sabha"
+   },
+   {
+    "id": "c",
+    "text": "Chairman of Rajya Sabha"
+   },
+   {
+    "id": "d",
+    "text": "Vice-President"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Joint sittings are presided over by the Speaker of the Lok Sabha.",
+  "explanationHindi": "Joint sittings are presided over by the Speaker of the Lok Sabha.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_47",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch6",
+  "type": "mcq",
+  "questionText": "In a federal system the powers are divided between:",
+  "questionTextHindi": "In a federal system the powers are divided between:",
+  "options": [
+   {
+    "id": "a",
+    "text": "President and Prime Minister"
+   },
+   {
+    "id": "b",
+    "text": "Central and state governments"
+   },
+   {
+    "id": "c",
+    "text": "Speaker and Deputy Speaker"
+   },
+   {
+    "id": "d",
+    "text": "Judiciary and bureaucracy"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Federalism divides power between the central and state governments.",
+  "explanationHindi": "Federalism divides power between the central and state governments.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_48",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch6",
+  "type": "mcq",
+  "questionText": "The subject 'defence' is placed in the:",
+  "questionTextHindi": "The subject 'defence' is placed in the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "State list"
+   },
+   {
+    "id": "b",
+    "text": "Union list"
+   },
+   {
+    "id": "c",
+    "text": "Concurrent list"
+   },
+   {
+    "id": "d",
+    "text": "Residuary list"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Union List (List I) covers subjects of national importance like defence.",
+  "explanationHindi": "The Union List (List I) covers subjects of national importance like defence.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_49",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch6",
+  "type": "mcq",
+  "questionText": "Which subject appears in the Concurrent List?",
+  "questionTextHindi": "Which subject appears in the Concurrent List?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Police"
+   },
+   {
+    "id": "b",
+    "text": "Education"
+   },
+   {
+    "id": "c",
+    "text": "Foreign affairs"
+   },
+   {
+    "id": "d",
+    "text": "Currency"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Education, criminal law and marriage figure in the Concurrent List.",
+  "explanationHindi": "Education, criminal law and marriage figure in the Concurrent List.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_50",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch6",
+  "type": "mcq",
+  "questionText": "In case of conflict between a Union law and a State law on a Concurrent subject:",
+  "questionTextHindi": "In case of conflict between a Union law and a State law on a Concurrent subject:",
+  "options": [
+   {
+    "id": "a",
+    "text": "State law prevails"
+   },
+   {
+    "id": "b",
+    "text": "Union law prevails"
+   },
+   {
+    "id": "c",
+    "text": "President decides"
+   },
+   {
+    "id": "d",
+    "text": "Both are void"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "A Union law on a Concurrent subject prevails over a state law (Article 254).",
+  "explanationHindi": "A Union law on a Concurrent subject prevails over a state law (Article 254).",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_51",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch6",
+  "type": "mcq",
+  "questionText": "Indian federalism is described as a system that is:",
+  "questionTextHindi": "Indian federalism is described as a system that is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Purely federal"
+   },
+   {
+    "id": "b",
+    "text": "Quasi-federal with unitary bias"
+   },
+   {
+    "id": "c",
+    "text": "Purely unitary"
+   },
+   {
+    "id": "d",
+    "text": "Confederal"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "India is a federation with a strong centralising (unitary) bias.",
+  "explanationHindi": "India is a federation with a strong centralising (unitary) bias.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_52",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch6",
+  "type": "mcq",
+  "questionText": "Which level of government provides for village Panchayats?",
+  "questionTextHindi": "Which level of government provides for village Panchayats?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Union"
+   },
+   {
+    "id": "b",
+    "text": "State"
+   },
+   {
+    "id": "c",
+    "text": "Local self-government"
+   },
+   {
+    "id": "d",
+    "text": "High Court"
+   }
+  ],
+  "correctOption": "c",
+  "explanation": "The 73rd Amendment created a three-tier system of local self-government.",
+  "explanationHindi": "The 73rd Amendment created a three-tier system of local self-government.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_53",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch6",
+  "type": "mcq",
+  "questionText": "The special status provisions (Article 371) apply to:",
+  "questionTextHindi": "The special status provisions (Article 371) apply to:",
+  "options": [
+   {
+    "id": "a",
+    "text": "All states equally"
+   },
+   {
+    "id": "b",
+    "text": "Certain states e.g. north-eastern states"
+   },
+   {
+    "id": "c",
+    "text": "Only UTs"
+   },
+   {
+    "id": "d",
+    "text": "Only Kashmir"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Articles 371A-H give special provisions to several states, mainly north-eastern.",
+  "explanationHindi": "Articles 371A-H give special provisions to several states, mainly north-eastern.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_pol_54",
+  "subjectId": "political_science",
+  "chapterId": "pol_ch6",
+  "type": "mcq",
+  "questionText": "Inter-state disputes are settled by which institution?",
+  "questionTextHindi": "Inter-state disputes are settled by which institution?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Parliament"
+   },
+   {
+    "id": "b",
+    "text": "Supreme Court"
+   },
+   {
+    "id": "c",
+    "text": "Election Commission"
+   },
+   {
+    "id": "d",
+    "text": "Zonal Councils"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Supreme Court adjudicates inter-state and federal disputes.",
+  "explanationHindi": "The Supreme Court adjudicates inter-state and federal disputes.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_6",
+  "subjectId": "economics",
+  "chapterId": "eco_ch1",
+  "type": "mcq",
+  "questionText": "At the time of independence, the share of agriculture in India's GDP was about:",
+  "questionTextHindi": "At the time of independence, the share of agriculture in India's GDP was about:",
+  "options": [
+   {
+    "id": "a",
+    "text": "30%"
+   },
+   {
+    "id": "b",
+    "text": "50%"
+   },
+   {
+    "id": "c",
+    "text": "70%"
+   },
+   {
+    "id": "d",
+    "text": "90%"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Agriculture contributed about 50% of national income at independence.",
+  "explanationHindi": "Agriculture contributed about 50% of national income at independence.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_7",
+  "subjectId": "economics",
+  "chapterId": "eco_ch1",
+  "type": "mcq",
+  "questionText": "The British rule transformed India into a net exporter of:",
+  "questionTextHindi": "The British rule transformed India into a net exporter of:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Machinery"
+   },
+   {
+    "id": "b",
+    "text": "Raw materials"
+   },
+   {
+    "id": "c",
+    "text": "Finished consumer goods"
+   },
+   {
+    "id": "d",
+    "text": "Food grains only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "India supplied raw materials to Britain and imported finished goods.",
+  "explanationHindi": "India supplied raw materials to Britain and imported finished goods.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_8",
+  "subjectId": "economics",
+  "chapterId": "eco_ch1",
+  "type": "mcq",
+  "questionText": "India's share in world income at the beginning of the 20th century was about:",
+  "questionTextHindi": "India's share in world income at the beginning of the 20th century was about:",
+  "options": [
+   {
+    "id": "a",
+    "text": "20%"
+   },
+   {
+    "id": "b",
+    "text": "15%"
+   },
+   {
+    "id": "c",
+    "text": "6%"
+   },
+   {
+    "id": "d",
+    "text": "30%"
+   }
+  ],
+  "correctOption": "c",
+  "explanation": "India's share in world income had declined to about 6% in the early 20th century.",
+  "explanationHindi": "India's share in world income had declined to about 6% in the early 20th century.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_9",
+  "subjectId": "economics",
+  "chapterId": "eco_ch1",
+  "type": "mcq",
+  "questionText": "Which sector dominated the Indian economy on the eve of independence?",
+  "questionTextHindi": "Which sector dominated the Indian economy on the eve of independence?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Industry"
+   },
+   {
+    "id": "b",
+    "text": "Agriculture"
+   },
+   {
+    "id": "c",
+    "text": "Services"
+   },
+   {
+    "id": "d",
+    "text": "Mining"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Agriculture was the mainstay of the Indian economy at independence.",
+  "explanationHindi": "Agriculture was the mainstay of the Indian economy at independence.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_10",
+  "subjectId": "economics",
+  "chapterId": "eco_ch1",
+  "type": "mcq",
+  "questionText": "The decline of which industry showed deindustrialisation under the British?",
+  "questionTextHindi": "The decline of which industry showed deindustrialisation under the British?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Railways"
+   },
+   {
+    "id": "b",
+    "text": "Handloom textiles"
+   },
+   {
+    "id": "c",
+    "text": "Chemical industry"
+   },
+   {
+    "id": "d",
+    "text": "Steel plants"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Indian handicrafts, especially textiles, declined due to British competition.",
+  "explanationHindi": "Indian handicrafts, especially textiles, declined due to British competition.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_11",
+  "subjectId": "economics",
+  "chapterId": "eco_ch1",
+  "type": "mcq",
+  "questionText": "The Railway system was introduced in India by the British in:",
+  "questionTextHindi": "The Railway system was introduced in India by the British in:",
+  "options": [
+   {
+    "id": "a",
+    "text": "1800s"
+   },
+   {
+    "id": "b",
+    "text": "1853"
+   },
+   {
+    "id": "c",
+    "text": "1905"
+   },
+   {
+    "id": "d",
+    "text": "1921"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The first railway line ran from Bombay to Thane in 1853.",
+  "explanationHindi": "The first railway line ran from Bombay to Thane in 1853.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_12",
+  "subjectId": "economics",
+  "chapterId": "eco_ch1",
+  "type": "mcq",
+  "questionText": "The zamindari system under British rule benefited mainly:",
+  "questionTextHindi": "The zamindari system under British rule benefited mainly:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Peasants"
+   },
+   {
+    "id": "b",
+    "text": "Landlords and the British state"
+   },
+   {
+    "id": "c",
+    "text": "Traders only"
+   },
+   {
+    "id": "d",
+    "text": "Artisans"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Zamindars collected rent for the state; peasants and tenancy suffered.",
+  "explanationHindi": "Zamindars collected rent for the state; peasants and tenancy suffered.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_13",
+  "subjectId": "economics",
+  "chapterId": "eco_ch1",
+  "type": "mcq",
+  "questionText": "Economic growth during the colonial period was:",
+  "questionTextHindi": "Economic growth during the colonial period was:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Rapid"
+   },
+   {
+    "id": "b",
+    "text": "Negligible and stagnant"
+   },
+   {
+    "id": "c",
+    "text": "Moderate"
+   },
+   {
+    "id": "d",
+    "text": "Highly industrial"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Colonial India had negligible or near-zero growth in per capita income.",
+  "explanationHindi": "Colonial India had negligible or near-zero growth in per capita income.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_14",
+  "subjectId": "economics",
+  "chapterId": "eco_ch2",
+  "type": "mcq",
+  "questionText": "In the era of economic planning (1950-90), India adopted which type of planning model?",
+  "questionTextHindi": "In the era of economic planning (1950-90), India adopted which type of planning model?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Pure capitalism"
+   },
+   {
+    "id": "b",
+    "text": "Mixed economy"
+   },
+   {
+    "id": "c",
+    "text": "Command economy only"
+   },
+   {
+    "id": "d",
+    "text": "Open market only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "India mixed state-led planning with a private sector — a mixed economy.",
+  "explanationHindi": "India mixed state-led planning with a private sector — a mixed economy.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_15",
+  "subjectId": "economics",
+  "chapterId": "eco_ch2",
+  "type": "mcq",
+  "questionText": "The main objective of Indian planning was:",
+  "questionTextHindi": "The main objective of Indian planning was:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Maximum exports"
+   },
+   {
+    "id": "b",
+    "text": "Growth, self-reliance and equity"
+   },
+   {
+    "id": "c",
+    "text": "Foreign control"
+   },
+   {
+    "id": "d",
+    "text": "Defence spending"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Plans aimed at rapid growth, modernisation, self-reliance and equity.",
+  "explanationHindi": "Plans aimed at rapid growth, modernisation, self-reliance and equity.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_16",
+  "subjectId": "economics",
+  "chapterId": "eco_ch2",
+  "type": "mcq",
+  "questionText": "The Green Revolution was mainly concerned with:",
+  "questionTextHindi": "The Green Revolution was mainly concerned with:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Industry"
+   },
+   {
+    "id": "b",
+    "text": "Food grain production"
+   },
+   {
+    "id": "c",
+    "text": "Exports"
+   },
+   {
+    "id": "d",
+    "text": "Infrastructure"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Green Revolution boosted wheat and rice output through HYV seeds and inputs.",
+  "explanationHindi": "The Green Revolution boosted wheat and rice output through HYV seeds and inputs.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_17",
+  "subjectId": "economics",
+  "chapterId": "eco_ch2",
+  "type": "mcq",
+  "questionText": "HYV stands for:",
+  "questionTextHindi": "HYV stands for:",
+  "options": [
+   {
+    "id": "a",
+    "text": "High Yield Variety"
+   },
+   {
+    "id": "b",
+    "text": "Hybrid Yield Value"
+   },
+   {
+    "id": "c",
+    "text": "High Yield Value"
+   },
+   {
+    "id": "d",
+    "text": "High Yolo Volume"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "High Yielding Variety seeds underpinned the Green Revolution.",
+  "explanationHindi": "High Yielding Variety seeds underpinned the Green Revolution.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_18",
+  "subjectId": "economics",
+  "chapterId": "eco_ch2",
+  "type": "mcq",
+  "questionText": "The basic industries promoted under planning included:",
+  "questionTextHindi": "The basic industries promoted under planning included:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Textiles only"
+   },
+   {
+    "id": "b",
+    "text": "Iron, steel and heavy machinery"
+   },
+   {
+    "id": "c",
+    "text": "Tourism"
+   },
+   {
+    "id": "d",
+    "text": "Export processing"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Planners focused on heavy basic industries like steel and machine tools.",
+  "explanationHindi": "Planners focused on heavy basic industries like steel and machine tools.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_19",
+  "subjectId": "economics",
+  "chapterId": "eco_ch2",
+  "type": "mcq",
+  "questionText": "Public sector enterprises set up during planning were in areas requiring:",
+  "questionTextHindi": "Public sector enterprises set up during planning were in areas requiring:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Small scale trade"
+   },
+   {
+    "id": "b",
+    "text": "Heavy investment and strategic importance"
+   },
+   {
+    "id": "c",
+    "text": "Private luxury goods"
+   },
+   {
+    "id": "d",
+    "text": "Consumer goods only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The public sector took up industries of strategic importance with heavy investment.",
+  "explanationHindi": "The public sector took up industries of strategic importance with heavy investment.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_20",
+  "subjectId": "economics",
+  "chapterId": "eco_ch2",
+  "type": "mcq",
+  "questionText": "The National Sample Survey (NSS) measures:",
+  "questionTextHindi": "The National Sample Survey (NSS) measures:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Agricultural output"
+   },
+   {
+    "id": "b",
+    "text": "Household consumption and employment"
+   },
+   {
+    "id": "c",
+    "text": "Share prices"
+   },
+   {
+    "id": "d",
+    "text": "Exports only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "NSS collects data on consumption expenditure and employment.",
+  "explanationHindi": "NSS collects data on consumption expenditure and employment.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_21",
+  "subjectId": "economics",
+  "chapterId": "eco_ch2",
+  "type": "mcq",
+  "questionText": "India's industrial policy in 1956 was based on which resolution idea?",
+  "questionTextHindi": "India's industrial policy in 1956 was based on which resolution idea?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Laissez faire"
+   },
+   {
+    "id": "b",
+    "text": "Expanded role of the state"
+   },
+   {
+    "id": "c",
+    "text": "No industry"
+   },
+   {
+    "id": "d",
+    "text": "Only exports"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Industrial Policy Resolution 1956 expanded the public sector's role.",
+  "explanationHindi": "The Industrial Policy Resolution 1956 expanded the public sector's role.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_22",
+  "subjectId": "economics",
+  "chapterId": "eco_ch2",
+  "type": "mcq",
+  "questionText": "A key negative outcome of planning (1950-90) was:",
+  "questionTextHindi": "A key negative outcome of planning (1950-90) was:",
+  "options": [
+   {
+    "id": "a",
+    "text": "High growth"
+   },
+   {
+    "id": "b",
+    "text": "Inflation and inefficiency"
+   },
+   {
+    "id": "c",
+    "text": "Full employment"
+   },
+   {
+    "id": "d",
+    "text": "Poverty elimination"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Efficiency losses, high costs and slow employment growth were drawbacks.",
+  "explanationHindi": "Efficiency losses, high costs and slow employment growth were drawbacks.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_23",
+  "subjectId": "economics",
+  "chapterId": "eco_ch3",
+  "type": "mcq",
+  "questionText": "Liberalisation refers to:",
+  "questionTextHindi": "Liberalisation refers to:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Import restrictions"
+   },
+   {
+    "id": "b",
+    "text": "Reducing government controls on the economy"
+   },
+   {
+    "id": "c",
+    "text": "Nationalisation"
+   },
+   {
+    "id": "d",
+    "text": "Wage controls"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Liberalisation removed licence, quotas and state controls on industry.",
+  "explanationHindi": "Liberalisation removed licence, quotas and state controls on industry.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_24",
+  "subjectId": "economics",
+  "chapterId": "eco_ch3",
+  "type": "mcq",
+  "questionText": "Privatisation means:",
+  "questionTextHindi": "Privatisation means:",
+  "options": [
+   {
+    "id": "a",
+    "text": "State ownership"
+   },
+   {
+    "id": "b",
+    "text": "Transfer of ownership of public enterprises to private hands"
+   },
+   {
+    "id": "c",
+    "text": "More subsidies"
+   },
+   {
+    "id": "d",
+    "text": "Price controls"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Privatisation transfers state assets/management to the private sector.",
+  "explanationHindi": "Privatisation transfers state assets/management to the private sector.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_25",
+  "subjectId": "economics",
+  "chapterId": "eco_ch3",
+  "type": "mcq",
+  "questionText": "One reason for the 1991 economic crisis was:",
+  "questionTextHindi": "One reason for the 1991 economic crisis was:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Too much foreign exchange"
+   },
+   {
+    "id": "b",
+    "text": "Balance of payments deficit and low reserves"
+   },
+   {
+    "id": "c",
+    "text": "Excess exports"
+   },
+   {
+    "id": "d",
+    "text": "High savings"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "India faced a severe BoP crisis with dangerously low forex reserves in 1991.",
+  "explanationHindi": "India faced a severe BoP crisis with dangerously low forex reserves in 1991.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_26",
+  "subjectId": "economics",
+  "chapterId": "eco_ch3",
+  "type": "mcq",
+  "questionText": "'LPG' in the 1991 reforms stands for:",
+  "questionTextHindi": "'LPG' in the 1991 reforms stands for:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Liberalisation, Privatisation, Globalisation"
+   },
+   {
+    "id": "b",
+    "text": "Loans, Prices, Goods"
+   },
+   {
+    "id": "c",
+    "text": "Labour, Production, Growth"
+   },
+   {
+    "id": "d",
+    "text": "Land, Population, GDP"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "The 1991 New Economic Policy was Liberalisation, Privatisation and Globalisation.",
+  "explanationHindi": "The 1991 New Economic Policy was Liberalisation, Privatisation and Globalisation.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_27",
+  "subjectId": "economics",
+  "chapterId": "eco_ch3",
+  "type": "mcq",
+  "questionText": "FDI stands for:",
+  "questionTextHindi": "FDI stands for:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Foreign Development Investment"
+   },
+   {
+    "id": "b",
+    "text": "Foreign Direct Investment"
+   },
+   {
+    "id": "c",
+    "text": "Federal Deposit Insurance"
+   },
+   {
+    "id": "d",
+    "text": "Fast Developing Industry"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "FDI is direct investment by foreign entities in domestic enterprises.",
+  "explanationHindi": "FDI is direct investment by foreign entities in domestic enterprises.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_28",
+  "subjectId": "economics",
+  "chapterId": "eco_ch3",
+  "type": "mcq",
+  "questionText": "The 'licence-permit raj' refers to:",
+  "questionTextHindi": "The 'licence-permit raj' refers to:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Free trade"
+   },
+   {
+    "id": "b",
+    "text": "Excessive bureaucratic controls on industry"
+   },
+   {
+    "id": "c",
+    "text": "Insurance regulation"
+   },
+   {
+    "id": "d",
+    "text": "Bank licences"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Red tape and licensing from the centrally planned era was called the licence raj.",
+  "explanationHindi": "Red tape and licensing from the centrally planned era was called the licence raj.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_29",
+  "subjectId": "economics",
+  "chapterId": "eco_ch3",
+  "type": "mcq",
+  "questionText": "WTO stands for:",
+  "questionTextHindi": "WTO stands for:",
+  "options": [
+   {
+    "id": "a",
+    "text": "World Trade Organisation"
+   },
+   {
+    "id": "b",
+    "text": "World Tariff Office"
+   },
+   {
+    "id": "c",
+    "text": "World Tourism Organisation"
+   },
+   {
+    "id": "d",
+    "text": "World Tax Order"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "WTO regulates global trade; India joined in 1995.",
+  "explanationHindi": "WTO regulates global trade; India joined in 1995.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_30",
+  "subjectId": "economics",
+  "chapterId": "eco_ch3",
+  "type": "mcq",
+  "questionText": "The 1991 reforms were initiated under which approach?",
+  "questionTextHindi": "The 1991 reforms were initiated under which approach?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Socialism"
+   },
+   {
+    "id": "b",
+    "text": "Market-friendly structural adjustment"
+   },
+   {
+    "id": "c",
+    "text": "Import substitution"
+   },
+   {
+    "id": "d",
+    "text": "Autarky"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "IMF-backed structural reforms opened the Indian economy to markets in 1991.",
+  "explanationHindi": "IMF-backed structural reforms opened the Indian economy to markets in 1991.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_31",
+  "subjectId": "economics",
+  "chapterId": "eco_ch4",
+  "type": "mcq",
+  "questionText": "Poverty is measured in India using:",
+  "questionTextHindi": "Poverty is measured in India using:",
+  "options": [
+   {
+    "id": "a",
+    "text": "GDP only"
+   },
+   {
+    "id": "b",
+    "text": "Calorie intake and consumption expenditure"
+   },
+   {
+    "id": "c",
+    "text": "Population size"
+   },
+   {
+    "id": "d",
+    "text": "Literacy only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "India's poverty line is based on minimum calorie/consumption norms.",
+  "explanationHindi": "India's poverty line is based on minimum calorie/consumption norms.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_32",
+  "subjectId": "economics",
+  "chapterId": "eco_ch4",
+  "type": "mcq",
+  "questionText": "The Planning Commission defined poverty in terms of:",
+  "questionTextHindi": "The Planning Commission defined poverty in terms of:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Percentage of billionaires"
+   },
+   {
+    "id": "b",
+    "text": "A minimum consumption expenditure"
+   },
+   {
+    "id": "c",
+    "text": "School dropout rate"
+   },
+   {
+    "id": "d",
+    "text": "Mortality only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "A per-capita monthly expenditure line separates the poor from the non-poor.",
+  "explanationHindi": "A per-capita monthly expenditure line separates the poor from the non-poor.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_33",
+  "subjectId": "economics",
+  "chapterId": "eco_ch4",
+  "type": "mcq",
+  "questionText": "Which programme provides free/subsidised food grains to the poor?",
+  "questionTextHindi": "Which programme provides free/subsidised food grains to the poor?",
+  "options": [
+   {
+    "id": "a",
+    "text": "MNREGA"
+   },
+   {
+    "id": "b",
+    "text": "PDS (Public Distribution System)"
+   },
+   {
+    "id": "c",
+    "text": "Golden Quadrilateral"
+   },
+   {
+    "id": "d",
+    "text": "Digital India"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "PDS supplies subsidised food grains through ration shops.",
+  "explanationHindi": "PDS supplies subsidised food grains through ration shops.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_34",
+  "subjectId": "economics",
+  "chapterId": "eco_ch4",
+  "type": "mcq",
+  "questionText": "MNREGA guarantees how many days of wage employment in a year?",
+  "questionTextHindi": "MNREGA guarantees how many days of wage employment in a year?",
+  "options": [
+   {
+    "id": "a",
+    "text": "60"
+   },
+   {
+    "id": "b",
+    "text": "100"
+   },
+   {
+    "id": "c",
+    "text": "150"
+   },
+   {
+    "id": "d",
+    "text": "200"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "MGNREGA guarantees 100 days of employment per rural household per year.",
+  "explanationHindi": "MGNREGA guarantees 100 days of employment per rural household per year.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_35",
+  "subjectId": "economics",
+  "chapterId": "eco_ch4",
+  "type": "mcq",
+  "questionText": "Poverty in India is highest in which terrain/regions?",
+  "questionTextHindi": "Poverty in India is highest in which terrain/regions?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Delhi"
+   },
+   {
+    "id": "b",
+    "text": "Agricultural labour households and remote areas"
+   },
+   {
+    "id": "c",
+    "text": "IT parks"
+   },
+   {
+    "id": "d",
+    "text": "Hilly tourist towns"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Landless agricultural labourers and remote rural households are most vulnerable.",
+  "explanationHindi": "Landless agricultural labourers and remote rural households are most vulnerable.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_36",
+  "subjectId": "economics",
+  "chapterId": "eco_ch4",
+  "type": "mcq",
+  "questionText": "Which of the following is a poverty alleviation scheme?",
+  "questionTextHindi": "Which of the following is a poverty alleviation scheme?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Swachh Bharat"
+   },
+   {
+    "id": "b",
+    "text": "Antyodaya Anna Yojana"
+   },
+   {
+    "id": "c",
+    "text": "Digital lockers"
+   },
+   {
+    "id": "d",
+    "text": "e-Governance"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Antyodaya Anna Yojana gives highly subsidised grains to the poorest families.",
+  "explanationHindi": "Antyodaya Anna Yojana gives highly subsidised grains to the poorest families.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_37",
+  "subjectId": "economics",
+  "chapterId": "eco_ch4",
+  "type": "mcq",
+  "questionText": "An important cause of rural poverty is:",
+  "questionTextHindi": "An important cause of rural poverty is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "High literacy"
+   },
+   {
+    "id": "b",
+    "text": "Low asset-holding and unemployment in agriculture"
+   },
+   {
+    "id": "c",
+    "text": "Too many factories"
+   },
+   {
+    "id": "d",
+    "text": "Abundant rainfall"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Lack of land, skills and employment pushes rural households into poverty.",
+  "explanationHindi": "Lack of land, skills and employment pushes rural households into poverty.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_38",
+  "subjectId": "economics",
+  "chapterId": "eco_ch5",
+  "type": "mcq",
+  "questionText": "Human capital refers to:",
+  "questionTextHindi": "Human capital refers to:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Machines"
+   },
+   {
+    "id": "b",
+    "text": "Knowledge, skills and health of people"
+   },
+   {
+    "id": "c",
+    "text": "Bank deposits"
+   },
+   {
+    "id": "d",
+    "text": "Natural resources"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Human capital is the stock of skills and productive knowledge in people.",
+  "explanationHindi": "Human capital is the stock of skills and productive knowledge in people.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_39",
+  "subjectId": "economics",
+  "chapterId": "eco_ch5",
+  "type": "mcq",
+  "questionText": "Which example is an investment in human capital?",
+  "questionTextHindi": "Which example is an investment in human capital?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Building a dam"
+   },
+   {
+    "id": "b",
+    "text": "Education and health expenditure"
+   },
+   {
+    "id": "c",
+    "text": "Buying gold"
+   },
+   {
+    "id": "d",
+    "text": "Importing cars"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Spending on education, training and health builds human capital.",
+  "explanationHindi": "Spending on education, training and health builds human capital.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_40",
+  "subjectId": "economics",
+  "chapterId": "eco_ch5",
+  "type": "mcq",
+  "questionText": "Education is a key component of:",
+  "questionTextHindi": "Education is a key component of:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Physical capital"
+   },
+   {
+    "id": "b",
+    "text": "Human capital formation"
+   },
+   {
+    "id": "c",
+    "text": "Foreign reserves"
+   },
+   {
+    "id": "d",
+    "text": "Trade"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Education is the most important source of human capital formation.",
+  "explanationHindi": "Education is the most important source of human capital formation.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_41",
+  "subjectId": "economics",
+  "chapterId": "eco_ch5",
+  "type": "mcq",
+  "questionText": "Human capital raises:",
+  "questionTextHindi": "Human capital raises:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Population only"
+   },
+   {
+    "id": "b",
+    "text": "Productivity and income"
+   },
+   {
+    "id": "c",
+    "text": "Pollution"
+   },
+   {
+    "id": "d",
+    "text": "Imports only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Skilled and healthy people produce more, boosting income and output.",
+  "explanationHindi": "Skilled and healthy people produce more, boosting income and output.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_42",
+  "subjectId": "economics",
+  "chapterId": "eco_ch5",
+  "type": "mcq",
+  "questionText": "Which Indian programme promotes adult literacy?",
+  "questionTextHindi": "Which Indian programme promotes adult literacy?",
+  "options": [
+   {
+    "id": "a",
+    "text": "PL480"
+   },
+   {
+    "id": "b",
+    "text": "Sarva Shiksha Abhiyan / adult literacy programmes"
+   },
+   {
+    "id": "c",
+    "text": "Green Revolution"
+   },
+   {
+    "id": "d",
+    "text": "Golden Quadrilateral"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Sarva Shiksha Abhiyan and adult literacy campaigns spread basic education.",
+  "explanationHindi": "Sarva Shiksha Abhiyan and adult literacy campaigns spread basic education.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_43",
+  "subjectId": "economics",
+  "chapterId": "eco_ch5",
+  "type": "mcq",
+  "questionText": "The 'brain drain' refers to:",
+  "questionTextHindi": "The 'brain drain' refers to:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Loss of electricity"
+   },
+   {
+    "id": "b",
+    "text": "Migration of skilled people abroad"
+   },
+   {
+    "id": "c",
+    "text": "Loss of crops"
+   },
+   {
+    "id": "d",
+    "text": "Deficit in trade"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Emigration of educated, skilled workers is called brain drain.",
+  "explanationHindi": "Emigration of educated, skilled workers is called brain drain.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_44",
+  "subjectId": "economics",
+  "chapterId": "eco_ch5",
+  "type": "mcq",
+  "questionText": "Health expenditure is treated as investment because:",
+  "questionTextHindi": "Health expenditure is treated as investment because:",
+  "options": [
+   {
+    "id": "a",
+    "text": "It raises taxes"
+   },
+   {
+    "id": "b",
+    "text": "A healthy worker is more productive"
+   },
+   {
+    "id": "c",
+    "text": "It cuts exports"
+   },
+   {
+    "id": "d",
+    "text": "It reduces wages"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Better health raises worker efficiency, output and economic growth.",
+  "explanationHindi": "Better health raises worker efficiency, output and economic growth.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_45",
+  "subjectId": "economics",
+  "chapterId": "eco_ch6",
+  "type": "mcq",
+  "questionText": "Rural development focuses on:",
+  "questionTextHindi": "Rural development focuses on:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Cities only"
+   },
+   {
+    "id": "b",
+    "text": "Improving livelihoods and welfare of rural people"
+   },
+   {
+    "id": "c",
+    "text": "Only tourism"
+   },
+   {
+    "id": "d",
+    "text": "Industry only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Rural development aims to improve living standards of the rural population.",
+  "explanationHindi": "Rural development aims to improve living standards of the rural population.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_46",
+  "subjectId": "economics",
+  "chapterId": "eco_ch6",
+  "type": "mcq",
+  "questionText": "Micro-credit means:",
+  "questionTextHindi": "Micro-credit means:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Large corporate loans"
+   },
+   {
+    "id": "b",
+    "text": "Small loans given to the poor, often through self-help groups"
+   },
+   {
+    "id": "c",
+    "text": "International aid"
+   },
+   {
+    "id": "d",
+    "text": "Tax waivers"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "SHGs and micro-finance institutions give small credit to the rural poor.",
+  "explanationHindi": "SHGs and micro-finance institutions give small credit to the rural poor.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_47",
+  "subjectId": "economics",
+  "chapterId": "eco_ch6",
+  "type": "mcq",
+  "questionText": "A Self-Help Group (SHG) typically consists of:",
+  "questionTextHindi": "A Self-Help Group (SHG) typically consists of:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Government officials"
+   },
+   {
+    "id": "b",
+    "text": "10-20 members from a village/neighbourhood"
+   },
+   {
+    "id": "c",
+    "text": "Big companies"
+   },
+   {
+    "id": "d",
+    "text": "Banks only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "SHGs are small voluntary groups, mainly women, who save and lend to members.",
+  "explanationHindi": "SHGs are small voluntary groups, mainly women, who save and lend to members.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_48",
+  "subjectId": "economics",
+  "chapterId": "eco_ch6",
+  "type": "mcq",
+  "questionText": "The primary sector of the rural economy is:",
+  "questionTextHindi": "The primary sector of the rural economy is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Manufacturing"
+   },
+   {
+    "id": "b",
+    "text": "Agriculture and allied activities"
+   },
+   {
+    "id": "c",
+    "text": "Banking"
+   },
+   {
+    "id": "d",
+    "text": "IT services"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Agriculture and allied activities dominate the rural economy.",
+  "explanationHindi": "Agriculture and allied activities dominate the rural economy.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_49",
+  "subjectId": "economics",
+  "chapterId": "eco_ch6",
+  "type": "mcq",
+  "questionText": "Institutional credit to farmers mainly comes from:",
+  "questionTextHindi": "Institutional credit to farmers mainly comes from:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Village moneylenders only"
+   },
+   {
+    "id": "b",
+    "text": "Banks and co-operatives"
+   },
+   {
+    "id": "c",
+    "text": "Foreign firms"
+   },
+   {
+    "id": "d",
+    "text": "Brokers"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Banks, RRBs and co-operatives form institutional sources of farm credit.",
+  "explanationHindi": "Banks, RRBs and co-operatives form institutional sources of farm credit.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_50",
+  "subjectId": "economics",
+  "chapterId": "eco_ch6",
+  "type": "mcq",
+  "questionText": "NABARD supports:",
+  "questionTextHindi": "NABARD supports:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Space research"
+   },
+   {
+    "id": "b",
+    "text": "Agricultural and rural development"
+   },
+   {
+    "id": "c",
+    "text": "Textile exports"
+   },
+   {
+    "id": "d",
+    "text": "Film industry"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "NABARD is the apex bank for agriculture and rural development finance.",
+  "explanationHindi": "NABARD is the apex bank for agriculture and rural development finance.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_51",
+  "subjectId": "economics",
+  "chapterId": "eco_ch6",
+  "type": "mcq",
+  "questionText": "Co-operative movement in Indian agriculture aims to:",
+  "questionTextHindi": "Co-operative movement in Indian agriculture aims to:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Maximise moneylenders' profit"
+   },
+   {
+    "id": "b",
+    "text": "Provide credit, inputs and marketing cooperatively"
+   },
+   {
+    "id": "c",
+    "text": "Only export"
+   },
+   {
+    "id": "d",
+    "text": "Raise import taxes"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Co-operatives provide inputs, credit and marketing support to farmers.",
+  "explanationHindi": "Co-operatives provide inputs, credit and marketing support to farmers.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_eco_52",
+  "subjectId": "economics",
+  "chapterId": "eco_ch6",
+  "type": "mcq",
+  "questionText": "On-farm diversification includes:",
+  "questionTextHindi": "On-farm diversification includes:",
+  "options": [
+   {
+    "id": "a",
+    "text": "IT parks"
+   },
+   {
+    "id": "b",
+    "text": "Horticulture, livestock and aquaculture on farms"
+   },
+   {
+    "id": "c",
+    "text": "Shopping malls"
+   },
+   {
+    "id": "d",
+    "text": "Airports"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Diversification moves farms into horticulture, dairying, poultry and fisheries.",
+  "explanationHindi": "Diversification moves farms into horticulture, dairying, poultry and fisheries.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_6",
+  "subjectId": "geography",
+  "chapterId": "geo_ch1",
+  "type": "mcq",
+  "questionText": "The total land area of India is about:",
+  "questionTextHindi": "The total land area of India is about:",
+  "options": [
+   {
+    "id": "a",
+    "text": "2.4 million sq km"
+   },
+   {
+    "id": "b",
+    "text": "3.28 million sq km"
+   },
+   {
+    "id": "c",
+    "text": "4.5 million sq km"
+   },
+   {
+    "id": "d",
+    "text": "1.2 million sq km"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "India covers about 3.28 million sq km, about 2.4% of the world's area.",
+  "explanationHindi": "India covers about 3.28 million sq km, about 2.4% of the world's area.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_7",
+  "subjectId": "geography",
+  "chapterId": "geo_ch1",
+  "type": "mcq",
+  "questionText": "The Tropic of Cancer passes through how many Indian states?",
+  "questionTextHindi": "The Tropic of Cancer passes through how many Indian states?",
+  "options": [
+   {
+    "id": "a",
+    "text": "4"
+   },
+   {
+    "id": "b",
+    "text": "6"
+   },
+   {
+    "id": "c",
+    "text": "8"
+   },
+   {
+    "id": "d",
+    "text": "10"
+   }
+  ],
+  "correctOption": "c",
+  "explanation": "The Tropic of Cancer passes through 8 states of India.",
+  "explanationHindi": "The Tropic of Cancer passes through 8 states of India.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_8",
+  "subjectId": "geography",
+  "chapterId": "geo_ch1",
+  "type": "mcq",
+  "questionText": "India's southernmost point (mainland) is:",
+  "questionTextHindi": "India's southernmost point (mainland) is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Kanyakumari"
+   },
+   {
+    "id": "b",
+    "text": "Indira Point"
+   },
+   {
+    "id": "c",
+    "text": "Rameswaram"
+   },
+   {
+    "id": "d",
+    "text": "Kochi"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Kanyakumari is the southernmost point of the Indian mainland (8°4'N).",
+  "explanationHindi": "Kanyakumari is the southernmost point of the Indian mainland (8°4'N).",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_9",
+  "subjectId": "geography",
+  "chapterId": "geo_ch1",
+  "type": "mcq",
+  "questionText": "The geographical extent of India lies between which longitudes?",
+  "questionTextHindi": "The geographical extent of India lies between which longitudes?",
+  "options": [
+   {
+    "id": "a",
+    "text": "60°E and 90°E"
+   },
+   {
+    "id": "b",
+    "text": "68°7'E and 97°25'E"
+   },
+   {
+    "id": "c",
+    "text": "30°E and 60°E"
+   },
+   {
+    "id": "d",
+    "text": "70°E and 100°E"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "India extends from 68°7'E to 97°25'E in longitude.",
+  "explanationHindi": "India extends from 68°7'E to 97°25'E in longitude.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_10",
+  "subjectId": "geography",
+  "chapterId": "geo_ch1",
+  "type": "mcq",
+  "questionText": "India shares its longest land border with which country?",
+  "questionTextHindi": "India shares its longest land border with which country?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Pakistan"
+   },
+   {
+    "id": "b",
+    "text": "China"
+   },
+   {
+    "id": "c",
+    "text": "Nepal"
+   },
+   {
+    "id": "d",
+    "text": "Bangladesh"
+   }
+  ],
+  "correctOption": "d",
+  "explanation": "India has the longest border with Bangladesh.",
+  "explanationHindi": "India has the longest border with Bangladesh.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_11",
+  "subjectId": "geography",
+  "chapterId": "geo_ch1",
+  "type": "mcq",
+  "questionText": "The latitudinal extent of India (mainland) is:",
+  "questionTextHindi": "The latitudinal extent of India (mainland) is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "0° to 15°N"
+   },
+   {
+    "id": "b",
+    "text": "8°4'N to 37°6'N"
+   },
+   {
+    "id": "c",
+    "text": "37° to 50°N"
+   },
+   {
+    "id": "d",
+    "text": "5° to 40°N"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "India's mainland extends from 8°4'N to 37°6'N.",
+  "explanationHindi": "India's mainland extends from 8°4'N to 37°6'N.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_12",
+  "subjectId": "geography",
+  "chapterId": "geo_ch1",
+  "type": "mcq",
+  "questionText": "Which strait separates India from Sri Lanka?",
+  "questionTextHindi": "Which strait separates India from Sri Lanka?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Strait of Malacca"
+   },
+   {
+    "id": "b",
+    "text": "Palk Strait"
+   },
+   {
+    "id": "c",
+    "text": "Bosphorus"
+   },
+   {
+    "id": "d",
+    "text": "Gibraltar"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Palk Strait and Gulf of Mannar separate India from Sri Lanka.",
+  "explanationHindi": "The Palk Strait and Gulf of Mannar separate India from Sri Lanka.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_13",
+  "subjectId": "geography",
+  "chapterId": "geo_ch2",
+  "type": "mcq",
+  "questionText": "The old fold mountain of India is the:",
+  "questionTextHindi": "The old fold mountain of India is the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Himalayas"
+   },
+   {
+    "id": "b",
+    "text": "Aravallis"
+   },
+   {
+    "id": "c",
+    "text": "Karakoram"
+   },
+   {
+    "id": "d",
+    "text": "Vindhyas"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Aravallis are ancient, denuded fold mountains, much older than the Himalayas.",
+  "explanationHindi": "The Aravallis are ancient, denuded fold mountains, much older than the Himalayas.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_14",
+  "subjectId": "geography",
+  "chapterId": "geo_ch2",
+  "type": "mcq",
+  "questionText": "The Himalayas were formed by the collision of which plates?",
+  "questionTextHindi": "The Himalayas were formed by the collision of which plates?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Pacific and North American"
+   },
+   {
+    "id": "b",
+    "text": "Indian and Eurasian plates"
+   },
+   {
+    "id": "c",
+    "text": "African and European"
+   },
+   {
+    "id": "d",
+    "text": "Australian and Antarctic"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Indian plate collided with the Eurasian plate about 40-50 million years ago.",
+  "explanationHindi": "The Indian plate collided with the Eurasian plate about 40-50 million years ago.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_15",
+  "subjectId": "geography",
+  "chapterId": "geo_ch2",
+  "type": "mcq",
+  "questionText": "The northernmost range of the Himalayas is called:",
+  "questionTextHindi": "The northernmost range of the Himalayas is called:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Shiwaliks"
+   },
+   {
+    "id": "b",
+    "text": "Himadri (Greater Himalayas)"
+   },
+   {
+    "id": "c",
+    "text": "Himachal"
+   },
+   {
+    "id": "d",
+    "text": "Trans-Himalayas"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Himadri or Greater Himalayas form the northernmost, highest range.",
+  "explanationHindi": "The Himadri or Greater Himalayas form the northernmost, highest range.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_16",
+  "subjectId": "geography",
+  "chapterId": "geo_ch2",
+  "type": "mcq",
+  "questionText": "The Deccan Plateau is delimited on its north by:",
+  "questionTextHindi": "The Deccan Plateau is delimited on its north by:",
+  "options": [
+   {
+    "id": "a",
+    "text": "The Himalayas"
+   },
+   {
+    "id": "b",
+    "text": "The Satpura range and Narmada river"
+   },
+   {
+    "id": "c",
+    "text": "The Western coast"
+   },
+   {
+    "id": "d",
+    "text": "The Jhelum"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Satpura range and the Narmada form the northern edge of the Deccan.",
+  "explanationHindi": "The Satpura range and the Narmada form the northern edge of the Deccan.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_17",
+  "subjectId": "geography",
+  "chapterId": "geo_ch2",
+  "type": "mcq",
+  "questionText": "The Peninsular plateau consists mainly of:",
+  "questionTextHindi": "The Peninsular plateau consists mainly of:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Young fold rocks"
+   },
+   {
+    "id": "b",
+    "text": "Old crystalline and hard igneous rocks"
+   },
+   {
+    "id": "c",
+    "text": "Alluvial sand"
+   },
+   {
+    "id": "d",
+    "text": "Volcanic ash only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The plateau is built of ancient crystalline, hard rocks that resist erosion.",
+  "explanationHindi": "The plateau is built of ancient crystalline, hard rocks that resist erosion.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_18",
+  "subjectId": "geography",
+  "chapterId": "geo_ch2",
+  "type": "mcq",
+  "questionText": "The Western Ghats are continuous except for one major gap called the:",
+  "questionTextHindi": "The Western Ghats are continuous except for one major gap called the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Palghat Gap"
+   },
+   {
+    "id": "b",
+    "text": "Khyber Pass"
+   },
+   {
+    "id": "c",
+    "text": "Thal Ghat only"
+   },
+   {
+    "id": "d",
+    "text": "Siliguri Gap"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "The Palghat Gap breaks the continuity of the Western Ghats.",
+  "explanationHindi": "The Palghat Gap breaks the continuity of the Western Ghats.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_19",
+  "subjectId": "geography",
+  "chapterId": "geo_ch2",
+  "type": "mcq",
+  "questionText": "The highest peak of the Himalayas (and the world) is:",
+  "questionTextHindi": "The highest peak of the Himalayas (and the world) is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "K2"
+   },
+   {
+    "id": "b",
+    "text": "Mount Everest"
+   },
+   {
+    "id": "c",
+    "text": "Nanga Parbat"
+   },
+   {
+    "id": "d",
+    "text": "Kanchenjunga"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Mount Everest (8848 m) in Nepal is the world's highest peak.",
+  "explanationHindi": "Mount Everest (8848 m) in Nepal is the world's highest peak.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_20",
+  "subjectId": "geography",
+  "chapterId": "geo_ch2",
+  "type": "mcq",
+  "questionText": "The Kosi river is called the 'Sorrow of Bihar' because of:",
+  "questionTextHindi": "The Kosi river is called the 'Sorrow of Bihar' because of:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Excess salt"
+   },
+   {
+    "id": "b",
+    "text": "Frequent floods and shifting course"
+   },
+   {
+    "id": "c",
+    "text": "Water scarcity"
+   },
+   {
+    "id": "d",
+    "text": "Dams"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Kosi floods Bihar almost annually, earning the nickname.",
+  "explanationHindi": "The Kosi floods Bihar almost annually, earning the nickname.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_21",
+  "subjectId": "geography",
+  "chapterId": "geo_ch2",
+  "type": "mcq",
+  "questionText": "The northern plains of India are formed by:",
+  "questionTextHindi": "The northern plains of India are formed by:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Glaciers only"
+   },
+   {
+    "id": "b",
+    "text": "Alluvium deposited by rivers"
+   },
+   {
+    "id": "c",
+    "text": "Lava flows"
+   },
+   {
+    "id": "d",
+    "text": "Wind-blown sand"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Indo-Gangetic plains are composed of river-deposited alluvium.",
+  "explanationHindi": "The Indo-Gangetic plains are composed of river-deposited alluvium.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_22",
+  "subjectId": "geography",
+  "chapterId": "geo_ch3",
+  "type": "mcq",
+  "questionText": "The Indus, Ganga and Brahmaputra belong to which drainage system?",
+  "questionTextHindi": "The Indus, Ganga and Brahmaputra belong to which drainage system?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Peninsular rivers"
+   },
+   {
+    "id": "b",
+    "text": "Himalayan drainage"
+   },
+   {
+    "id": "c",
+    "text": "Inland drainage"
+   },
+   {
+    "id": "d",
+    "text": "Coastal rivers"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Himalayan rivers drain into the Bay of Bengal through the Ganga-Brahmaputra system.",
+  "explanationHindi": "The Himalayan rivers drain into the Bay of Bengal through the Ganga-Brahmaputra system.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_23",
+  "subjectId": "geography",
+  "chapterId": "geo_ch3",
+  "type": "mcq",
+  "questionText": "The longest river of South India is the:",
+  "questionTextHindi": "The longest river of South India is the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Narmada"
+   },
+   {
+    "id": "b",
+    "text": "Godavari"
+   },
+   {
+    "id": "c",
+    "text": "Krishna"
+   },
+   {
+    "id": "d",
+    "text": "Kaveri"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Godavari (~1465 km) is the longest peninsular river.",
+  "explanationHindi": "The Godavari (~1465 km) is the longest peninsular river.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_24",
+  "subjectId": "geography",
+  "chapterId": "geo_ch3",
+  "type": "mcq",
+  "questionText": "Which peninsular river flows into the Arabian Sea?",
+  "questionTextHindi": "Which peninsular river flows into the Arabian Sea?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Godavari"
+   },
+   {
+    "id": "b",
+    "text": "Mahanadi"
+   },
+   {
+    "id": "c",
+    "text": "Narmada"
+   },
+   {
+    "id": "d",
+    "text": "Krishna"
+   }
+  ],
+  "correctOption": "c",
+  "explanation": "The Narmada and Tapi flow west into the Arabian Sea.",
+  "explanationHindi": "The Narmada and Tapi flow west into the Arabian Sea.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_25",
+  "subjectId": "geography",
+  "chapterId": "geo_ch3",
+  "type": "mcq",
+  "questionText": "The delta formed by Kaveri is called:",
+  "questionTextHindi": "The delta formed by Kaveri is called:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Sundarbans"
+   },
+   {
+    "id": "b",
+    "text": "Kavery delta (Tamil Nadu)"
+   },
+   {
+    "id": "c",
+    "text": "Hooghly delta"
+   },
+   {
+    "id": "d",
+    "text": "Mahanadi delta"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Kaveri makes a fertile delta in Tamil Nadu.",
+  "explanationHindi": "The Kaveri makes a fertile delta in Tamil Nadu.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_26",
+  "subjectId": "geography",
+  "chapterId": "geo_ch3",
+  "type": "mcq",
+  "questionText": "Which river is considered the 'Sorrow of Bengal'?",
+  "questionTextHindi": "Which river is considered the 'Sorrow of Bengal'?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Mahanadi"
+   },
+   {
+    "id": "b",
+    "text": "Damodar"
+   },
+   {
+    "id": "c",
+    "text": "Tapi"
+   },
+   {
+    "id": "d",
+    "text": "Mahi"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Damodar (now tamed by dams) was called the Sorrow of Bengal.",
+  "explanationHindi": "The Damodar (now tamed by dams) was called the Sorrow of Bengal.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_27",
+  "subjectId": "geography",
+  "chapterId": "geo_ch3",
+  "type": "mcq",
+  "questionText": "The Brahmaputra enters India through which state?",
+  "questionTextHindi": "The Brahmaputra enters India through which state?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Sikkim"
+   },
+   {
+    "id": "b",
+    "text": "Arunachal Pradesh"
+   },
+   {
+    "id": "c",
+    "text": "Assam"
+   },
+   {
+    "id": "d",
+    "text": "West Bengal"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Brahmaputra enters India through Arunachal Pradesh (as Siang/Dihang).",
+  "explanationHindi": "The Brahmaputra enters India through Arunachal Pradesh (as Siang/Dihang).",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_28",
+  "subjectId": "geography",
+  "chapterId": "geo_ch3",
+  "type": "mcq",
+  "questionText": "An example of a rift valley river of India is the:",
+  "questionTextHindi": "An example of a rift valley river of India is the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Ganga"
+   },
+   {
+    "id": "b",
+    "text": "Narmada"
+   },
+   {
+    "id": "c",
+    "text": "Godavari"
+   },
+   {
+    "id": "d",
+    "text": "Beas"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Narmada flows through a rift valley between the Vindhyas and Satpuras.",
+  "explanationHindi": "The Narmada flows through a rift valley between the Vindhyas and Satpuras.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_29",
+  "subjectId": "geography",
+  "chapterId": "geo_ch3",
+  "type": "mcq",
+  "questionText": "The Ganga river system is formed chiefly by the meeting of:",
+  "questionTextHindi": "The Ganga river system is formed chiefly by the meeting of:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Alaknanda and Bhagirathi"
+   },
+   {
+    "id": "b",
+    "text": "Beas and Sutlej"
+   },
+   {
+    "id": "c",
+    "text": "Godavari and Krishna"
+   },
+   {
+    "id": "d",
+    "text": "Ravi and Chenab"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "The Alaknanda and Bhagirathi join at Devprayag to form the Ganga.",
+  "explanationHindi": "The Alaknanda and Bhagirathi join at Devprayag to form the Ganga.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_30",
+  "subjectId": "geography",
+  "chapterId": "geo_ch4",
+  "type": "mcq",
+  "questionText": "India's climate is mainly:",
+  "questionTextHindi": "India's climate is mainly:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Desert type"
+   },
+   {
+    "id": "b",
+    "text": "Monsoon type"
+   },
+   {
+    "id": "c",
+    "text": "Tundra"
+   },
+   {
+    "id": "d",
+    "text": "Mediterranean"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The monsoons dominate India's seasonal climate regime.",
+  "explanationHindi": "The monsoons dominate India's seasonal climate regime.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_31",
+  "subjectId": "geography",
+  "chapterId": "geo_ch4",
+  "type": "mcq",
+  "questionText": "The south-west monsoon enters India through which coast first?",
+  "questionTextHindi": "The south-west monsoon enters India through which coast first?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Coromandel"
+   },
+   {
+    "id": "b",
+    "text": "Malabar (Kerala)"
+   },
+   {
+    "id": "c",
+    "text": "Konkan"
+   },
+   {
+    "id": "d",
+    "text": "Northern plains"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The SW monsoon first strikes the Kerala (Malabar) coast around 1 June.",
+  "explanationHindi": "The SW monsoon first strikes the Kerala (Malabar) coast around 1 June.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_32",
+  "subjectId": "geography",
+  "chapterId": "geo_ch4",
+  "type": "mcq",
+  "questionText": "The monsoon winds are a form of:",
+  "questionTextHindi": "The monsoon winds are a form of:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Westerlies"
+   },
+   {
+    "id": "b",
+    "text": "Seasonal reversal of winds"
+   },
+   {
+    "id": "c",
+    "text": "Trade winds only"
+   },
+   {
+    "id": "d",
+    "text": "Jet streams only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Monsoons blow sea-to-land in summer and reverse in winter.",
+  "explanationHindi": "Monsoons blow sea-to-land in summer and reverse in winter.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_33",
+  "subjectId": "geography",
+  "chapterId": "geo_ch4",
+  "type": "mcq",
+  "questionText": "Which of the following brings the north-east monsoon rains to Tamil Nadu?",
+  "questionTextHindi": "Which of the following brings the north-east monsoon rains to Tamil Nadu?",
+  "options": [
+   {
+    "id": "a",
+    "text": "South-west monsoon"
+   },
+   {
+    "id": "b",
+    "text": "Retreating/north-east monsoon"
+   },
+   {
+    "id": "c",
+    "text": "Western disturbances"
+   },
+   {
+    "id": "d",
+    "text": "Cyclones in October only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The retreating NE monsoon gives Tamil Nadu most of its winter rain.",
+  "explanationHindi": "The retreating NE monsoon gives Tamil Nadu most of its winter rain.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_34",
+  "subjectId": "geography",
+  "chapterId": "geo_ch4",
+  "type": "mcq",
+  "questionText": "El Nino is linked to:",
+  "questionTextHindi": "El Nino is linked to:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Cooling of the Pacific"
+   },
+   {
+    "id": "b",
+    "text": "Warming of the eastern Pacific and weaker monsoons"
+   },
+   {
+    "id": "c",
+    "text": "Antarctic winds"
+   },
+   {
+    "id": "d",
+    "text": "Volcanic activity"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "El Nino warms the east Pacific and is often associated with weak Indian monsoons.",
+  "explanationHindi": "El Nino warms the east Pacific and is often associated with weak Indian monsoons.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_35",
+  "subjectId": "geography",
+  "chapterId": "geo_ch4",
+  "type": "mcq",
+  "questionText": "Which type of climate region covers most of the Indian subcontinent?",
+  "questionTextHindi": "Which type of climate region covers most of the Indian subcontinent?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Equatorial"
+   },
+   {
+    "id": "b",
+    "text": "Tropical monsoon"
+   },
+   {
+    "id": "c",
+    "text": "Steppe"
+   },
+   {
+    "id": "d",
+    "text": "Tundra"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Most of India has a tropical monsoon climate with a distinct wet-dry rhythm.",
+  "explanationHindi": "Most of India has a tropical monsoon climate with a distinct wet-dry rhythm.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_36",
+  "subjectId": "geography",
+  "chapterId": "geo_ch4",
+  "type": "mcq",
+  "questionText": "'Western Disturbances' bring rain to which parts of India in winter?",
+  "questionTextHindi": "'Western Disturbances' bring rain to which parts of India in winter?",
+  "options": [
+   {
+    "id": "a",
+    "text": "South India"
+   },
+   {
+    "id": "b",
+    "text": "Northern/western India"
+   },
+   {
+    "id": "c",
+    "text": "Eastern coast"
+   },
+   {
+    "id": "d",
+    "text": "Andamans"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Winter rainfall in north-west India comes from western disturbances.",
+  "explanationHindi": "Winter rainfall in north-west India comes from western disturbances.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_37",
+  "subjectId": "geography",
+  "chapterId": "geo_ch4",
+  "type": "mcq",
+  "questionText": "The retreating monsoon season lasts from:",
+  "questionTextHindi": "The retreating monsoon season lasts from:",
+  "options": [
+   {
+    "id": "a",
+    "text": "June to September"
+   },
+   {
+    "id": "b",
+    "text": "October to December"
+   },
+   {
+    "id": "c",
+    "text": "January to March"
+   },
+   {
+    "id": "d",
+    "text": "April to June"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The retreating (post-monsoon) season spans October to December.",
+  "explanationHindi": "The retreating (post-monsoon) season spans October to December.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_38",
+  "subjectId": "geography",
+  "chapterId": "geo_ch4",
+  "type": "mcq",
+  "questionText": "Mawsynram, the wettest place in India, receives most rain from the:",
+  "questionTextHindi": "Mawsynram, the wettest place in India, receives most rain from the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "North-east monsoon"
+   },
+   {
+    "id": "b",
+    "text": "South-west monsoon"
+   },
+   {
+    "id": "c",
+    "text": "Cyclonic storms"
+   },
+   {
+    "id": "d",
+    "text": "Local thunderstorms"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Mawsynram in Meghalaya receives huge SW monsoon rain.",
+  "explanationHindi": "Mawsynram in Meghalaya receives huge SW monsoon rain.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_39",
+  "subjectId": "geography",
+  "chapterId": "geo_ch4",
+  "type": "mcq",
+  "questionText": "A major cause of the onset of the southwest monsoon is:",
+  "questionTextHindi": "A major cause of the onset of the southwest monsoon is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Cooling of the Indian ocean"
+   },
+   {
+    "id": "b",
+    "text": "Intense heating of the Tibetan plateau in summer"
+   },
+   {
+    "id": "c",
+    "text": "Winter snowfall"
+   },
+   {
+    "id": "d",
+    "text": "Desert storms"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Summer heating over the plateau creates a low-pressure area that draws monsoon winds.",
+  "explanationHindi": "Summer heating over the plateau creates a low-pressure area that draws monsoon winds.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_40",
+  "subjectId": "geography",
+  "chapterId": "geo_ch5",
+  "type": "mcq",
+  "questionText": "Tropical evergreen forests require which conditions?",
+  "questionTextHindi": "Tropical evergreen forests require which conditions?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Low rainfall"
+   },
+   {
+    "id": "b",
+    "text": "High temperature and heavy rainfall"
+   },
+   {
+    "id": "c",
+    "text": "Cold climate"
+   },
+   {
+    "id": "d",
+    "text": "Saline soil only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Evergreen forests grow where rainfall exceeds 200 cm with high temperatures.",
+  "explanationHindi": "Evergreen forests grow where rainfall exceeds 200 cm with high temperatures.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_41",
+  "subjectId": "geography",
+  "chapterId": "geo_ch5",
+  "type": "mcq",
+  "questionText": "The main trees of tropical evergreen forests include:",
+  "questionTextHindi": "The main trees of tropical evergreen forests include:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Sal and Teak"
+   },
+   {
+    "id": "b",
+    "text": "Ebony, mahogany and rosewood"
+   },
+   {
+    "id": "c",
+    "text": "Deodar and pine"
+   },
+   {
+    "id": "d",
+    "text": "Kikar and babool"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Ebony, mahogany and rosewood are typical of evergreen forests.",
+  "explanationHindi": "Ebony, mahogany and rosewood are typical of evergreen forests.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_42",
+  "subjectId": "geography",
+  "chapterId": "geo_ch5",
+  "type": "mcq",
+  "questionText": "Mangrove forests in India are mainly found in:",
+  "questionTextHindi": "Mangrove forests in India are mainly found in:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Western Ghats"
+   },
+   {
+    "id": "b",
+    "text": "The deltas — Sundarbans and coastal deltas"
+   },
+   {
+    "id": "c",
+    "text": "Thar desert"
+   },
+   {
+    "id": "d",
+    "text": "Himalayan slopes"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Mangroves flourish in tidal deltas such as the Sundarbans.",
+  "explanationHindi": "Mangroves flourish in tidal deltas such as the Sundarbans.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_43",
+  "subjectId": "geography",
+  "chapterId": "geo_ch5",
+  "type": "mcq",
+  "questionText": "The most fertile soil of India for agriculture is:",
+  "questionTextHindi": "The most fertile soil of India for agriculture is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Red soil"
+   },
+   {
+    "id": "b",
+    "text": "Alluvial soil"
+   },
+   {
+    "id": "c",
+    "text": "Laterite soil"
+   },
+   {
+    "id": "d",
+    "text": "Desert soil"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Alluvial soil in the northern plains is the most fertile and widespread.",
+  "explanationHindi": "Alluvial soil in the northern plains is the most fertile and widespread.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_44",
+  "subjectId": "geography",
+  "chapterId": "geo_ch5",
+  "type": "mcq",
+  "questionText": "Black soil is ideal for which crop?",
+  "questionTextHindi": "Black soil is ideal for which crop?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Tea"
+   },
+   {
+    "id": "b",
+    "text": "Cotton"
+   },
+   {
+    "id": "c",
+    "text": "Rice"
+   },
+   {
+    "id": "d",
+    "text": "Sugarcane"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Black (regur) soil — moisture retentive — suits cotton cultivation.",
+  "explanationHindi": "Black (regur) soil — moisture retentive — suits cotton cultivation.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_45",
+  "subjectId": "geography",
+  "chapterId": "geo_ch5",
+  "type": "mcq",
+  "questionText": "Laterite soils are mainly found in:",
+  "questionTextHindi": "Laterite soils are mainly found in:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Himalayan peaks"
+   },
+   {
+    "id": "b",
+    "text": "High rainfall areas like hills of the south"
+   },
+   {
+    "id": "c",
+    "text": "Thar desert"
+   },
+   {
+    "id": "d",
+    "text": "Snow-covered regions"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Laterite develops in areas of heavy rain and high temperature, e.g. Kerala hills.",
+  "explanationHindi": "Laterite develops in areas of heavy rain and high temperature, e.g. Kerala hills.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_46",
+  "subjectId": "geography",
+  "chapterId": "geo_ch5",
+  "type": "mcq",
+  "questionText": "Which soil is formed by the weathering of volcanic (basalt) rocks?",
+  "questionTextHindi": "Which soil is formed by the weathering of volcanic (basalt) rocks?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Alluvial"
+   },
+   {
+    "id": "b",
+    "text": "Black soil"
+   },
+   {
+    "id": "c",
+    "text": "Red soil"
+   },
+   {
+    "id": "d",
+    "text": "Saline soil"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Black soil derives from ancient basalt lava in the Deccan.",
+  "explanationHindi": "Black soil derives from ancient basalt lava in the Deccan.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_geo_47",
+  "subjectId": "geography",
+  "chapterId": "geo_ch5",
+  "type": "mcq",
+  "questionText": "The Sundarbans is famous for:",
+  "questionTextHindi": "The Sundarbans is famous for:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Pine forests"
+   },
+   {
+    "id": "b",
+    "text": "Mangrove forests and Royal Bengal tiger"
+   },
+   {
+    "id": "c",
+    "text": "Desert vegetation"
+   },
+   {
+    "id": "d",
+    "text": "Alpine meadows"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Sundarbans is the largest mangrove delta home of the Royal Bengal tiger.",
+  "explanationHindi": "The Sundarbans is the largest mangrove delta home of the Royal Bengal tiger.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_5",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch1",
+  "type": "mcq",
+  "questionText": "The World Tourism Organisation is abbreviated as:",
+  "questionTextHindi": "The World Tourism Organisation is abbreviated as:",
+  "options": [
+   {
+    "id": "a",
+    "text": "WTO"
+   },
+   {
+    "id": "b",
+    "text": "UNWTO"
+   },
+   {
+    "id": "c",
+    "text": "WTTC"
+   },
+   {
+    "id": "d",
+    "text": "IATA"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The United Nations World Tourism Organization (UNWTO) is the global tourism body.",
+  "explanationHindi": "The United Nations World Tourism Organization (UNWTO) is the global tourism body.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_6",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch1",
+  "type": "mcq",
+  "questionText": "Which of these best defines a 'tourist'?",
+  "questionTextHindi": "Which of these best defines a 'tourist'?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Anyone moving within a city"
+   },
+   {
+    "id": "b",
+    "text": "A person travelling to a place away from home for leisure/other purpose for less than a year"
+   },
+   {
+    "id": "c",
+    "text": "A person who moves permanently"
+   },
+   {
+    "id": "d",
+    "text": "A daily commuter"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "UNWTO defines a tourist as travelling away from the usual residence for under one year.",
+  "explanationHindi": "UNWTO defines a tourist as travelling away from the usual residence for under one year.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_7",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch1",
+  "type": "mcq",
+  "questionText": "Tourism contributes to the economy mainly through:",
+  "questionTextHindi": "Tourism contributes to the economy mainly through:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Taxes only"
+   },
+   {
+    "id": "b",
+    "text": "Employment, foreign exchange and allied industries"
+   },
+   {
+    "id": "c",
+    "text": "Defence spending"
+   },
+   {
+    "id": "d",
+    "text": "Monetary policy"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Tourism creates jobs, earns foreign exchange and boosts allied sectors.",
+  "explanationHindi": "Tourism creates jobs, earns foreign exchange and boosts allied sectors.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_8",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch1",
+  "type": "mcq",
+  "questionText": "Which is a tourist attraction based on culture?",
+  "questionTextHindi": "Which is a tourist attraction based on culture?",
+  "options": [
+   {
+    "id": "a",
+    "text": "A ski resort"
+   },
+   {
+    "id": "b",
+    "text": "Historic forts and museums"
+   },
+   {
+    "id": "c",
+    "text": "A beach"
+   },
+   {
+    "id": "d",
+    "text": "A wildlife sanctuary"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Heritage monuments, festivals and museums are cultural attractions.",
+  "explanationHindi": "Heritage monuments, festivals and museums are cultural attractions.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_9",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch1",
+  "type": "mcq",
+  "questionText": "India's 'Incredible India' campaign is a:",
+  "questionTextHindi": "India's 'Incredible India' campaign is a:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Defence programme"
+   },
+   {
+    "id": "b",
+    "text": "Marketing campaign to promote tourism"
+   },
+   {
+    "id": "c",
+    "text": "Farming scheme"
+   },
+   {
+    "id": "d",
+    "text": "Railway project"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "'Incredible India' markets India's tourism potential globally.",
+  "explanationHindi": "'Incredible India' markets India's tourism potential globally.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_10",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch1",
+  "type": "mcq",
+  "questionText": "The travel and tourism industry in India is among the world's:",
+  "questionTextHindi": "The travel and tourism industry in India is among the world's:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Smallest"
+   },
+   {
+    "id": "b",
+    "text": "Largest and fastest growing"
+   },
+   {
+    "id": "c",
+    "text": "Declining"
+   },
+   {
+    "id": "d",
+    "text": "Unregulated only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "India ranks among the largest tourism economies globally.",
+  "explanationHindi": "India ranks among the largest tourism economies globally.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_11",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch1",
+  "type": "mcq",
+  "questionText": "Which sector links tourism with local businesses like hotels and transport?",
+  "questionTextHindi": "Which sector links tourism with local businesses like hotels and transport?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Manufacturing"
+   },
+   {
+    "id": "b",
+    "text": "Hospitality and travel trade"
+   },
+   {
+    "id": "c",
+    "text": "Agriculture"
+   },
+   {
+    "id": "d",
+    "text": "Mining"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Hotels, travel agencies, transport and restaurants form the tourism supply chain.",
+  "explanationHindi": "Hotels, travel agencies, transport and restaurants form the tourism supply chain.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_12",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch2",
+  "type": "mcq",
+  "questionText": "Which Indian state leads in domestic tourist arrivals?",
+  "questionTextHindi": "Which Indian state leads in domestic tourist arrivals?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Sikkim"
+   },
+   {
+    "id": "b",
+    "text": "Tamil Nadu/Uttar Pradesh (top states)"
+   },
+   {
+    "id": "c",
+    "text": "Manipur"
+   },
+   {
+    "id": "d",
+    "text": "Meghalaya"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Tamil Nadu and Uttar Pradesh usually top domestic tourist arrivals in India.",
+  "explanationHindi": "Tamil Nadu and Uttar Pradesh usually top domestic tourist arrivals in India.",
+  "difficulty": "hard",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_13",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch2",
+  "type": "mcq",
+  "questionText": "The Ministry responsible for tourism promotion in India is the Ministry of:",
+  "questionTextHindi": "The Ministry responsible for tourism promotion in India is the Ministry of:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Defence"
+   },
+   {
+    "id": "b",
+    "text": "Tourism"
+   },
+   {
+    "id": "c",
+    "text": "Agriculture"
+   },
+   {
+    "id": "d",
+    "text": "Power"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Ministry of Tourism formulates tourism policies and schemes.",
+  "explanationHindi": "The Ministry of Tourism formulates tourism policies and schemes.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_14",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch2",
+  "type": "mcq",
+  "questionText": "'Swadesh Darshan' scheme of India aims to:",
+  "questionTextHindi": "'Swadesh Darshan' scheme of India aims to:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Develop theme-based tourist circuits"
+   },
+   {
+    "id": "b",
+    "text": "Build metro rail"
+   },
+   {
+    "id": "c",
+    "text": "Promote only inbound flights"
+   },
+   {
+    "id": "d",
+    "text": "Fish farming"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Swadesh Darshan develops theme-based tourist circuits across India.",
+  "explanationHindi": "Swadesh Darshan develops theme-based tourist circuits across India.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_15",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch2",
+  "type": "mcq",
+  "questionText": "Which of the following is a major accommodation type?",
+  "questionTextHindi": "Which of the following is a major accommodation type?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Railway track"
+   },
+   {
+    "id": "b",
+    "text": "Hotel/resort/homestay"
+   },
+   {
+    "id": "c",
+    "text": "Power plant"
+   },
+   {
+    "id": "d",
+    "text": "Factory floor"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Hotels, resorts, homestays and hostels provide tourist accommodation.",
+  "explanationHindi": "Hotels, resorts, homestays and hostels provide tourist accommodation.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_16",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch2",
+  "type": "mcq",
+  "questionText": "Foreign tourist arrivals bring India primarily:",
+  "questionTextHindi": "Foreign tourist arrivals bring India primarily:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Foreign exchange earnings"
+   },
+   {
+    "id": "b",
+    "text": "Food exports"
+   },
+   {
+    "id": "c",
+    "text": "Machinery"
+   },
+   {
+    "id": "d",
+    "text": "Vehicle imports"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Inbound tourism earns valuable foreign exchange for India.",
+  "explanationHindi": "Inbound tourism earns valuable foreign exchange for India.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_17",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch2",
+  "type": "mcq",
+  "questionText": "Railway explains that advance booking of tourist facilities is handled by:",
+  "questionTextHindi": "Railway explains that advance booking of tourist facilities is handled by:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Railways only"
+   },
+   {
+    "id": "b",
+    "text": "ITDC, IRCTC and licensed travel agents"
+   },
+   {
+    "id": "c",
+    "text": "Banks"
+   },
+   {
+    "id": "d",
+    "text": "Ports"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "ITDC, IRCTC and tour operators manage ticketing and bookings.",
+  "explanationHindi": "ITDC, IRCTC and tour operators manage ticketing and bookings.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_18",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch3",
+  "type": "mcq",
+  "questionText": "The Taj Mahal is located in which state?",
+  "questionTextHindi": "The Taj Mahal is located in which state?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Delhi"
+   },
+   {
+    "id": "b",
+    "text": "Uttar Pradesh"
+   },
+   {
+    "id": "c",
+    "text": "Maharashtra"
+   },
+   {
+    "id": "d",
+    "text": "Rajasthan"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Taj Mahal stands at Agra in Uttar Pradesh.",
+  "explanationHindi": "The Taj Mahal stands at Agra in Uttar Pradesh.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_19",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch3",
+  "type": "mcq",
+  "questionText": "Hawa Mahal, a famous heritage product, is in:",
+  "questionTextHindi": "Hawa Mahal, a famous heritage product, is in:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Jaipur"
+   },
+   {
+    "id": "b",
+    "text": "Mumbai"
+   },
+   {
+    "id": "c",
+    "text": "Kolkata"
+   },
+   {
+    "id": "d",
+    "text": "Chennai"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Hawa Mahal, the Palace of Winds, is a Jaipur landmark.",
+  "explanationHindi": "Hawa Mahal, the Palace of Winds, is a Jaipur landmark.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_20",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch3",
+  "type": "mcq",
+  "questionText": "The famous rock-cut Kailasa temple is located at:",
+  "questionTextHindi": "The famous rock-cut Kailasa temple is located at:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Khajuraho"
+   },
+   {
+    "id": "b",
+    "text": "Ellora"
+   },
+   {
+    "id": "c",
+    "text": "Hampi"
+   },
+   {
+    "id": "d",
+    "text": "Sarnath"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Kailasa temple at Ellora is a magnificent rock-cut temple.",
+  "explanationHindi": "The Kailasa temple at Ellora is a magnificent rock-cut temple.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_21",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch3",
+  "type": "mcq",
+  "questionText": "Which is a wellness tourism product of India?",
+  "questionTextHindi": "Which is a wellness tourism product of India?",
+  "options": [
+   {
+    "id": "a",
+    "text": "IT parks"
+   },
+   {
+    "id": "b",
+    "text": "Ayurveda and yoga retreats in Kerala"
+   },
+   {
+    "id": "c",
+    "text": "Theme parks only"
+   },
+   {
+    "id": "d",
+    "text": "Call centres"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Kerala's ayurveda and yoga retreats attract wellness tourists.",
+  "explanationHindi": "Kerala's ayurveda and yoga retreats attract wellness tourists.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_22",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch3",
+  "type": "mcq",
+  "questionText": "The Sundarbans tourist attraction is primarily:",
+  "questionTextHindi": "The Sundarbans tourist attraction is primarily:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Ski slopes"
+   },
+   {
+    "id": "b",
+    "text": "Mangrove forest and tiger ecosystem"
+   },
+   {
+    "id": "c",
+    "text": "Desert dunes"
+   },
+   {
+    "id": "d",
+    "text": "Coral reefs"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The Sundarbans mangrove ecosystem is a sought-after eco-tourist site.",
+  "explanationHindi": "The Sundarbans mangrove ecosystem is a sought-after eco-tourist site.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_23",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch3",
+  "type": "mcq",
+  "questionText": "The beaches of Goa and Kovalam are classified as:",
+  "questionTextHindi": "The beaches of Goa and Kovalam are classified as:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Heritage products"
+   },
+   {
+    "id": "b",
+    "text": "Coastal/sea tourism products"
+   },
+   {
+    "id": "c",
+    "text": "Rural products"
+   },
+   {
+    "id": "d",
+    "text": "Adventure training only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Beach tourism in Goa, Kerala and the Andamans is a major coastal product.",
+  "explanationHindi": "Beach tourism in Goa, Kerala and the Andamans is a major coastal product.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_24",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch3",
+  "type": "mcq",
+  "questionText": "A cruise and island product of India is found in:",
+  "questionTextHindi": "A cruise and island product of India is found in:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Ladakh"
+   },
+   {
+    "id": "b",
+    "text": "Lakshadweep and Andaman Isles"
+   },
+   {
+    "id": "c",
+    "text": "Delhi"
+   },
+   {
+    "id": "d",
+    "text": "Punjab plains"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Lakshadweep and Andaman-Nicobar offer island and cruise tourism.",
+  "explanationHindi": "Lakshadweep and Andaman-Nicobar offer island and cruise tourism.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_25",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch3",
+  "type": "mcq",
+  "questionText": "MICE tourism stands for:",
+  "questionTextHindi": "MICE tourism stands for:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Meetings, Incentives, Conferences, Exhibitions"
+   },
+   {
+    "id": "b",
+    "text": "Mountains, Islands, Coasts and Estuaries"
+   },
+   {
+    "id": "c",
+    "text": "Museums, Ideas, Crafts and Events"
+   },
+   {
+    "id": "d",
+    "text": "Markets and International Cultural Exchange"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "MICE covers business tourism — meetings, incentives, conferences and exhibitions.",
+  "explanationHindi": "MICE covers business tourism — meetings, incentives, conferences and exhibitions.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_26",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch4",
+  "type": "mcq",
+  "questionText": "The marketing mix of tourism is popularly known as:",
+  "questionTextHindi": "The marketing mix of tourism is popularly known as:",
+  "options": [
+   {
+    "id": "a",
+    "text": "4Ps (Product, Price, Place, Promotion)"
+   },
+   {
+    "id": "b",
+    "text": "5S"
+   },
+   {
+    "id": "c",
+    "text": "3Rs"
+   },
+   {
+    "id": "d",
+    "text": "2Ts"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Tourism marketing uses product, price, place and promotion — the 4Ps.",
+  "explanationHindi": "Tourism marketing uses product, price, place and promotion — the 4Ps.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_27",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch4",
+  "type": "mcq",
+  "questionText": "Eco-tourism stresses:",
+  "questionTextHindi": "Eco-tourism stresses:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Mass tourism"
+   },
+   {
+    "id": "b",
+    "text": "Conservation and community benefit"
+   },
+   {
+    "id": "c",
+    "text": "Commercial farming"
+   },
+   {
+    "id": "d",
+    "text": "Building hotels everywhere"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Eco-tourism emphasises environmental conservation and local welfare.",
+  "explanationHindi": "Eco-tourism emphasises environmental conservation and local welfare.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_28",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch4",
+  "type": "mcq",
+  "questionText": "'Responsible Tourism' means:",
+  "questionTextHindi": "'Responsible Tourism' means:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Tourism anywhere"
+   },
+   {
+    "id": "b",
+    "text": "Minimising negative impacts and benefiting locals"
+   },
+   {
+    "id": "c",
+    "text": "Avoiding tourism"
+   },
+   {
+    "id": "d",
+    "text": "Only luxury travel"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Responsible tourism balances growth with sustainability and local benefits.",
+  "explanationHindi": "Responsible tourism balances growth with sustainability and local benefits.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_29",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch4",
+  "type": "mcq",
+  "questionText": "Sustainable tourism aims to:",
+  "questionTextHindi": "Sustainable tourism aims to:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Deplete resources"
+   },
+   {
+    "id": "b",
+    "text": "Meet present needs without harming future generations"
+   },
+   {
+    "id": "c",
+    "text": "Only maximise profit"
+   },
+   {
+    "id": "d",
+    "text": "Increase pollution"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Sustainability balances economic, social and environmental goals.",
+  "explanationHindi": "Sustainability balances economic, social and environmental goals.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_30",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch4",
+  "type": "mcq",
+  "questionText": "Word-of-mouth and social media in tourism are forms of:",
+  "questionTextHindi": "Word-of-mouth and social media in tourism are forms of:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Promotion"
+   },
+   {
+    "id": "b",
+    "text": "Product"
+   },
+   {
+    "id": "c",
+    "text": "Pricing"
+   },
+   {
+    "id": "d",
+    "text": "Transport"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Digital marketing and reviews promote destinations and services.",
+  "explanationHindi": "Digital marketing and reviews promote destinations and services.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_tour_31",
+  "subjectId": "tourism",
+  "chapterId": "tour_ch4",
+  "type": "mcq",
+  "questionText": "A key benefit of eco-tourism is:",
+  "questionTextHindi": "A key benefit of eco-tourism is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Environmental degradation"
+   },
+   {
+    "id": "b",
+    "text": "Funding conservation through tourist revenue"
+   },
+   {
+    "id": "c",
+    "text": "Cutting jobs"
+   },
+   {
+    "id": "d",
+    "text": "Harming wildlife"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Eco-tourism revenue can fund conservation of parks and species.",
+  "explanationHindi": "Eco-tourism revenue can fund conservation of parks and species.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_5",
+  "subjectId": "iti",
+  "chapterId": "iti_ch1",
+  "type": "mcq",
+  "questionText": "The unit of electric current is:",
+  "questionTextHindi": "The unit of electric current is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Volt"
+   },
+   {
+    "id": "b",
+    "text": "Ampere"
+   },
+   {
+    "id": "c",
+    "text": "Ohm"
+   },
+   {
+    "id": "d",
+    "text": "Watt"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Electric current is measured in amperes (A).",
+  "explanationHindi": "Electric current is measured in amperes (A).",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_6",
+  "subjectId": "iti",
+  "chapterId": "iti_ch1",
+  "type": "mcq",
+  "questionText": "The unit of electrical resistance is:",
+  "questionTextHindi": "The unit of electrical resistance is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Volt"
+   },
+   {
+    "id": "b",
+    "text": "Ampere"
+   },
+   {
+    "id": "c",
+    "text": "Ohm"
+   },
+   {
+    "id": "d",
+    "text": "Coulomb"
+   }
+  ],
+  "correctOption": "c",
+  "explanation": "Resistance is measured in ohms (Ω).",
+  "explanationHindi": "Resistance is measured in ohms (Ω).",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_7",
+  "subjectId": "iti",
+  "chapterId": "iti_ch1",
+  "type": "mcq",
+  "questionText": "Electrical power is measured in:",
+  "questionTextHindi": "Electrical power is measured in:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Volts"
+   },
+   {
+    "id": "b",
+    "text": "Watts"
+   },
+   {
+    "id": "c",
+    "text": "Ohms"
+   },
+   {
+    "id": "d",
+    "text": "Henries"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Power in watts equals voltage times current (P = V × I).",
+  "explanationHindi": "Power in watts equals voltage times current (P = V × I).",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_8",
+  "subjectId": "iti",
+  "chapterId": "iti_ch1",
+  "type": "mcq",
+  "questionText": "In a series circuit, the total resistance is the:",
+  "questionTextHindi": "In a series circuit, the total resistance is the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Product of resistances"
+   },
+   {
+    "id": "b",
+    "text": "Sum of resistances"
+   },
+   {
+    "id": "c",
+    "text": "Difference of resistances"
+   },
+   {
+    "id": "d",
+    "text": "Same as voltage"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Series resistors add: R_total = R1 + R2 + ...",
+  "explanationHindi": "Series resistors add: R_total = R1 + R2 + ...",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_9",
+  "subjectId": "iti",
+  "chapterId": "iti_ch1",
+  "type": "mcq",
+  "questionText": "In a parallel circuit, the total current is:",
+  "questionTextHindi": "In a parallel circuit, the total current is:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Shared equally only"
+   },
+   {
+    "id": "b",
+    "text": "Sum of currents in each branch"
+   },
+   {
+    "id": "c",
+    "text": "Always zero"
+   },
+   {
+    "id": "d",
+    "text": "Equal to one resistor"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "In parallel branches, currents add: I_total = I1 + I2 + ...",
+  "explanationHindi": "In parallel branches, currents add: I_total = I1 + I2 + ...",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_10",
+  "subjectId": "iti",
+  "chapterId": "iti_ch1",
+  "type": "mcq",
+  "questionText": "A fuse wire protects electric circuits from:",
+  "questionTextHindi": "A fuse wire protects electric circuits from:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Low voltage"
+   },
+   {
+    "id": "b",
+    "text": "Overload and short circuits"
+   },
+   {
+    "id": "c",
+    "text": "Humidity"
+   },
+   {
+    "id": "d",
+    "text": "Slow speed"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The fuse melts under excess current, breaking the circuit.",
+  "explanationHindi": "The fuse melts under excess current, breaking the circuit.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_11",
+  "subjectId": "iti",
+  "chapterId": "iti_ch1",
+  "type": "mcq",
+  "questionText": "The SI unit of electrical charge is the:",
+  "questionTextHindi": "The SI unit of electrical charge is the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Ampere"
+   },
+   {
+    "id": "b",
+    "text": "Coulomb"
+   },
+   {
+    "id": "c",
+    "text": "Volt"
+   },
+   {
+    "id": "d",
+    "text": "Joule"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Charge is measured in coulombs (C).",
+  "explanationHindi": "Charge is measured in coulombs (C).",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_12",
+  "subjectId": "iti",
+  "chapterId": "iti_ch1",
+  "type": "mcq",
+  "questionText": "A conductor carries:",
+  "questionTextHindi": "A conductor carries:",
+  "options": [
+   {
+    "id": "a",
+    "text": "No current easily"
+   },
+   {
+    "id": "b",
+    "text": "Current easily due to free electrons"
+   },
+   {
+    "id": "c",
+    "text": "Current only when heated"
+   },
+   {
+    "id": "d",
+    "text": "Voltage only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Conductors like copper have free electrons that carry current.",
+  "explanationHindi": "Conductors like copper have free electrons that carry current.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_13",
+  "subjectId": "iti",
+  "chapterId": "iti_ch1",
+  "type": "mcq",
+  "questionText": "Which material is a good conductor of electricity?",
+  "questionTextHindi": "Which material is a good conductor of electricity?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Rubber"
+   },
+   {
+    "id": "b",
+    "text": "Copper"
+   },
+   {
+    "id": "c",
+    "text": "Plastic"
+   },
+   {
+    "id": "d",
+    "text": "Glass"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Copper and aluminium are good electrical conductors.",
+  "explanationHindi": "Copper and aluminium are good electrical conductors.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_14",
+  "subjectId": "iti",
+  "chapterId": "iti_ch2",
+  "type": "mcq",
+  "questionText": "Which device is used to input text into a computer?",
+  "questionTextHindi": "Which device is used to input text into a computer?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Monitor"
+   },
+   {
+    "id": "b",
+    "text": "Keyboard"
+   },
+   {
+    "id": "c",
+    "text": "Printer"
+   },
+   {
+    "id": "d",
+    "text": "Speaker"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The keyboard is the main text input device.",
+  "explanationHindi": "The keyboard is the main text input device.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_15",
+  "subjectId": "iti",
+  "chapterId": "iti_ch2",
+  "type": "mcq",
+  "questionText": "The 'brain' of a computer is the:",
+  "questionTextHindi": "The 'brain' of a computer is the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Monitor"
+   },
+   {
+    "id": "b",
+    "text": "CPU"
+   },
+   {
+    "id": "c",
+    "text": "Mouse"
+   },
+   {
+    "id": "d",
+    "text": "Modem"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "The CPU processes instructions and controls the computer.",
+  "explanationHindi": "The CPU processes instructions and controls the computer.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_16",
+  "subjectId": "iti",
+  "chapterId": "iti_ch2",
+  "type": "mcq",
+  "questionText": "Which software is used to make spreadsheets?",
+  "questionTextHindi": "Which software is used to make spreadsheets?",
+  "options": [
+   {
+    "id": "a",
+    "text": "MS Word"
+   },
+   {
+    "id": "b",
+    "text": "MS Excel"
+   },
+   {
+    "id": "c",
+    "text": "Paint"
+   },
+   {
+    "id": "d",
+    "text": "Notepad"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "MS Excel handles spreadsheets and calculations.",
+  "explanationHindi": "MS Excel handles spreadsheets and calculations.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_17",
+  "subjectId": "iti",
+  "chapterId": "iti_ch2",
+  "type": "mcq",
+  "questionText": "A file is normally saved with which structure?",
+  "questionTextHindi": "A file is normally saved with which structure?",
+  "options": [
+   {
+    "id": "a",
+    "text": "A folder name"
+   },
+   {
+    "id": "b",
+    "text": "Filename with extension"
+   },
+   {
+    "id": "c",
+    "text": "A password"
+   },
+   {
+    "id": "d",
+    "text": "A colour"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Files use 'name.extension' e.g. report.docx.",
+  "explanationHindi": "Files use 'name.extension' e.g. report.docx.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_18",
+  "subjectId": "iti",
+  "chapterId": "iti_ch2",
+  "type": "mcq",
+  "questionText": "Which key combination copies selected text (Windows)?",
+  "questionTextHindi": "Which key combination copies selected text (Windows)?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Ctrl + Z"
+   },
+   {
+    "id": "b",
+    "text": "Ctrl + C"
+   },
+   {
+    "id": "c",
+    "text": "Ctrl + P"
+   },
+   {
+    "id": "d",
+    "text": "Ctrl + S"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Ctrl+C copies; Ctrl+V pastes.",
+  "explanationHindi": "Ctrl+C copies; Ctrl+V pastes.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_19",
+  "subjectId": "iti",
+  "chapterId": "iti_ch2",
+  "type": "mcq",
+  "questionText": "Which output device prints documents on paper?",
+  "questionTextHindi": "Which output device prints documents on paper?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Monitor"
+   },
+   {
+    "id": "b",
+    "text": "Printer"
+   },
+   {
+    "id": "c",
+    "text": "Scanner"
+   },
+   {
+    "id": "d",
+    "text": "Webcam"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "A printer produces hard copies on paper.",
+  "explanationHindi": "A printer produces hard copies on paper.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_20",
+  "subjectId": "iti",
+  "chapterId": "iti_ch2",
+  "type": "mcq",
+  "questionText": "Which of the following is an operating system?",
+  "questionTextHindi": "Which of the following is an operating system?",
+  "options": [
+   {
+    "id": "a",
+    "text": "MS Excel"
+   },
+   {
+    "id": "b",
+    "text": "Windows"
+   },
+   {
+    "id": "c",
+    "text": "Google Chrome"
+   },
+   {
+    "id": "d",
+    "text": "VLC"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Windows, Linux and Android are operating systems.",
+  "explanationHindi": "Windows, Linux and Android are operating systems.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_21",
+  "subjectId": "iti",
+  "chapterId": "iti_ch3",
+  "type": "mcq",
+  "questionText": "A diode allows current in:",
+  "questionTextHindi": "A diode allows current in:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Both directions"
+   },
+   {
+    "id": "b",
+    "text": "One direction only"
+   },
+   {
+    "id": "c",
+    "text": "No direction"
+   },
+   {
+    "id": "d",
+    "text": "Alternate directions only"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "A p-n diode conducts only in the forward bias direction.",
+  "explanationHindi": "A p-n diode conducts only in the forward bias direction.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_22",
+  "subjectId": "iti",
+  "chapterId": "iti_ch3",
+  "type": "mcq",
+  "questionText": "The basic component of an electronic circuit is the:",
+  "questionTextHindi": "The basic component of an electronic circuit is the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Resistor/capacitor/transistor"
+   },
+   {
+    "id": "b",
+    "text": "Nut-bolt"
+   },
+   {
+    "id": "c",
+    "text": "Gear box"
+   },
+   {
+    "id": "d",
+    "text": "Propeller"
+   }
+  ],
+  "correctOption": "a",
+  "explanation": "Resistors, capacitors, diodes and transistors are basic electronic components.",
+  "explanationHindi": "Resistors, capacitors, diodes and transistors are basic electronic components.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_23",
+  "subjectId": "iti",
+  "chapterId": "iti_ch3",
+  "type": "mcq",
+  "questionText": "Which component stores electric charge?",
+  "questionTextHindi": "Which component stores electric charge?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Resistor"
+   },
+   {
+    "id": "b",
+    "text": "Capacitor"
+   },
+   {
+    "id": "c",
+    "text": "Inductor only"
+   },
+   {
+    "id": "d",
+    "text": "Switch"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "A capacitor stores charge in an electric field.",
+  "explanationHindi": "A capacitor stores charge in an electric field.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_24",
+  "subjectId": "iti",
+  "chapterId": "iti_ch3",
+  "type": "mcq",
+  "questionText": "A transistor works as a:",
+  "questionTextHindi": "A transistor works as a:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Protector only"
+   },
+   {
+    "id": "b",
+    "text": "Switch and amplifier"
+   },
+   {
+    "id": "c",
+    "text": "Power generator"
+   },
+   {
+    "id": "d",
+    "text": "Display"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Transistors amplify signals and act as electronic switches.",
+  "explanationHindi": "Transistors amplify signals and act as electronic switches.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_25",
+  "subjectId": "iti",
+  "chapterId": "iti_ch3",
+  "type": "mcq",
+  "questionText": "The unit of capacitance is the:",
+  "questionTextHindi": "The unit of capacitance is the:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Ohm"
+   },
+   {
+    "id": "b",
+    "text": "Farad"
+   },
+   {
+    "id": "c",
+    "text": "Henry"
+   },
+   {
+    "id": "d",
+    "text": "Hertz"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Capacitance is measured in farads (F).",
+  "explanationHindi": "Capacitance is measured in farads (F).",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_26",
+  "subjectId": "iti",
+  "chapterId": "iti_ch3",
+  "type": "mcq",
+  "questionText": "AC stands for:",
+  "questionTextHindi": "AC stands for:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Actual Current"
+   },
+   {
+    "id": "b",
+    "text": "Alternating Current"
+   },
+   {
+    "id": "c",
+    "text": "Applying Charge"
+   },
+   {
+    "id": "d",
+    "text": "Across Capacity"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "AC (alternating current) periodically reverses direction.",
+  "explanationHindi": "AC (alternating current) periodically reverses direction.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_27",
+  "subjectId": "iti",
+  "chapterId": "iti_ch3",
+  "type": "mcq",
+  "questionText": "Soldering is used in electronics to:",
+  "questionTextHindi": "Soldering is used in electronics to:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Cut plastic"
+   },
+   {
+    "id": "b",
+    "text": "Join components on a PCB"
+   },
+   {
+    "id": "c",
+    "text": "Paint boards"
+   },
+   {
+    "id": "d",
+    "text": "Drill holes"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Soldering joins electronic components to printed circuit boards.",
+  "explanationHindi": "Soldering joins electronic components to printed circuit boards.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_28",
+  "subjectId": "iti",
+  "chapterId": "iti_ch4",
+  "type": "mcq",
+  "questionText": "Which tool is used for measuring the diameter of a wire?",
+  "questionTextHindi": "Which tool is used for measuring the diameter of a wire?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Hammer"
+   },
+   {
+    "id": "b",
+    "text": "Vernier calliper/micrometre"
+   },
+   {
+    "id": "c",
+    "text": "Screwdriver"
+   },
+   {
+    "id": "d",
+    "text": "Pliers"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Vernier callipers and micrometres measure wire diameters precisely.",
+  "explanationHindi": "Vernier callipers and micrometres measure wire diameters precisely.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_29",
+  "subjectId": "iti",
+  "chapterId": "iti_ch4",
+  "type": "mcq",
+  "questionText": "Before working on electrical circuits, you must:",
+  "questionTextHindi": "Before working on electrical circuits, you must:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Increase voltage"
+   },
+   {
+    "id": "b",
+    "text": "Switch off the power supply"
+   },
+   {
+    "id": "c",
+    "text": "Wear metal rings"
+   },
+   {
+    "id": "d",
+    "text": "Work with wet hands"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Always isolate/de-energise circuits before servicing them.",
+  "explanationHindi": "Always isolate/de-energise circuits before servicing them.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_30",
+  "subjectId": "iti",
+  "chapterId": "iti_ch4",
+  "type": "mcq",
+  "questionText": "Insulated tools prevent which hazard?",
+  "questionTextHindi": "Insulated tools prevent which hazard?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Dust"
+   },
+   {
+    "id": "b",
+    "text": "Electric shock"
+   },
+   {
+    "id": "c",
+    "text": "Noise"
+   },
+   {
+    "id": "d",
+    "text": "Sunburn"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Insulated handles insulate the worker from live parts.",
+  "explanationHindi": "Insulated handles insulate the worker from live parts.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_31",
+  "subjectId": "iti",
+  "chapterId": "iti_ch4",
+  "type": "mcq",
+  "questionText": "A 'first aid' box in a workshop must contain:",
+  "questionTextHindi": "A 'first aid' box in a workshop must contain:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Spare parts"
+   },
+   {
+    "id": "b",
+    "text": "Bandages, antiseptic and dressings"
+   },
+   {
+    "id": "c",
+    "text": "Lubricants"
+   },
+   {
+    "id": "d",
+    "text": "Paints"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "First aid kits carry antiseptics, bandages and dressings for injuries.",
+  "explanationHindi": "First aid kits carry antiseptics, bandages and dressings for injuries.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_32",
+  "subjectId": "iti",
+  "chapterId": "iti_ch4",
+  "type": "mcq",
+  "questionText": "Which safety device protects a machine operator's eyes?",
+  "questionTextHindi": "Which safety device protects a machine operator's eyes?",
+  "options": [
+   {
+    "id": "a",
+    "text": "Gloves"
+   },
+   {
+    "id": "b",
+    "text": "Safety goggles"
+   },
+   {
+    "id": "c",
+    "text": "Ear plugs only"
+   },
+   {
+    "id": "d",
+    "text": "Apron"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "Safety goggles shield eyes from sparks and debris.",
+  "explanationHindi": "Safety goggles shield eyes from sparks and debris.",
+  "difficulty": "easy",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ },
+ {
+  "_id": "q_iti_33",
+  "subjectId": "iti",
+  "chapterId": "iti_ch4",
+  "type": "mcq",
+  "questionText": "Fire caused by electrical faults must be extinguished with:",
+  "questionTextHindi": "Fire caused by electrical faults must be extinguished with:",
+  "options": [
+   {
+    "id": "a",
+    "text": "Water"
+   },
+   {
+    "id": "b",
+    "text": "CO2 / dry chemical extinguisher"
+   },
+   {
+    "id": "c",
+    "text": "Sand only (wrong)"
+   },
+   {
+    "id": "d",
+    "text": "Oil"
+   }
+  ],
+  "correctOption": "b",
+  "explanation": "CO2 or dry powder extinguishers are safe for electrical fires; never water.",
+  "explanationHindi": "CO2 or dry powder extinguishers are safe for electrical fires; never water.",
+  "difficulty": "medium",
+  "tags": [],
+  "source": "JAC PYQ",
+  "year": 0,
+  "marks": 1,
+  "negativeMarks": 0.25
+ }
+]

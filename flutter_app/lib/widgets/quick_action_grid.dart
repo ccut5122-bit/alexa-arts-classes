@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import '../../providers/subject_provider.dart';
+import '../../models/models.dart';
 
 class QuickActionGrid extends StatelessWidget {
   const QuickActionGrid({super.key});
@@ -82,11 +83,7 @@ class QuickActionGrid extends StatelessWidget {
       );
       return;
     }
-    _showSubjectPicker(
-      context,
-      subjects.map((s) => s.name).toList(),
-      isRevision: false,
-    );
+    _showSubjectPicker(context, subjects, isRevision: false);
   }
 
   void _startSmartRevision(BuildContext context) {
@@ -97,16 +94,12 @@ class QuickActionGrid extends StatelessWidget {
       );
       return;
     }
-    _showSubjectPicker(
-      context,
-      subjects.map((s) => s.name).toList(),
-      isRevision: true,
-    );
+    _showSubjectPicker(context, subjects, isRevision: true);
   }
 
   void _showSubjectPicker(
     BuildContext context,
-    List<String> subjects, {
+    List<SubjectModel> subjects, {
     required bool isRevision,
   }) {
     showModalBottomSheet(
@@ -141,17 +134,17 @@ class QuickActionGrid extends StatelessWidget {
                           : const Color(0xFF4CAF50),
                     ),
                     title: Text(
-                      subject,
+                      subject.name,
                       style: GoogleFonts.poppins(fontWeight: FontWeight.w500),
                     ),
                     onTap: () {
                       Navigator.pop(sheetCtx);
                       Navigator.pushNamed(context, '/quiz', arguments: {
-                        'subjectId': subject,
+                        'subjectId': subject.id,
                         'chapterIds': const <String>[],
                         'quizTitle': isRevision
-                            ? '$subject Smart Revision'
-                            : '$subject Practice Test',
+                            ? '${subject.name} Smart Revision'
+                            : '${subject.name} Practice Test',
                         'timeLimit': isRevision ? 20 : 15,
                         'negativeMarking': true,
                       });
