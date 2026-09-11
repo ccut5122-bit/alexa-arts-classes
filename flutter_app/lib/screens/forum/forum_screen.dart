@@ -216,14 +216,32 @@ class _NewPostSheetState extends State<_NewPostSheet> {
     final auth = context.read<AuthProvider>();
     final forum = context.read<ForumProvider>();
 
-    await forum.createPost(
-      authorId: auth.user?.uid ?? '',
-      authorName: auth.userModel?.displayName ?? 'Student',
-      subjectId: _selectedSubject!,
-      title: _titleController.text,
-      body: _bodyController.text,
-    );
+    if (auth.user == null) {
+      setState(() => _isSubmitting = false);
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('Please sign in to post a doubt')),
+      );
+      return;
+    }
 
+    try {
+      await forum.createPost(
+        authorId: auth.user!.uid,
+        authorName: auth.userModel?.displayName ?? 'Student',
+        subjectId: _selectedSubject!,
+        title: _titleController.text,
+        body: _bodyController.text,
+      );
+    } catch (e) {
+      setState(() => _isSubmitting = false);
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Failed to post. Please try again.')),
+      );
+      return;
+    }
+
+    if (!mounted) return;
     widget.onPosted();
   }
 }

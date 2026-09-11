@@ -5,6 +5,7 @@ import 'package:flutter_tts/flutter_tts.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import '../../models/models.dart';
 import '../../services/firestore_service.dart';
+import '../../providers/subject_provider.dart';
 
 class DictionaryScreen extends StatefulWidget {
   const DictionaryScreen({super.key});
@@ -19,17 +20,7 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
   List<DictionaryEntry> _entries = [];
   String _searchQuery = '';
   bool _isLoading = true;
-  String _selectedSubject = 'All';
-
-  final List<String> _subjects = [
-    'All',
-    'History',
-    'Political Science',
-    'Economics',
-    'Geography',
-    'Sociology',
-    'Psychology',
-  ];
+  String _selectedSubjectId = 'All';
 
   @override
   void initState() {
@@ -45,26 +36,32 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
 
   Future<void> _loadEntries() async {
     _entries = [];
-    final snap = await FirebaseFirestore.instance.collection('dictionary').orderBy('term').get();
+    final snap = await FirebaseFirestore.instance
+        .collection('dictionary')
+        .orderBy('term')
+        .get();
     setState(() {
-      _entries = snap.docs
-          .map((d) => DictionaryEntry.fromFirestore(d))
-          .toList();
+      _entries =
+          snap.docs.map((d) => DictionaryEntry.fromFirestore(d)).toList();
       _isLoading = false;
     });
   }
 
   List<DictionaryEntry> get _filteredEntries {
     var filtered = _entries;
-    if (_selectedSubject != 'All') {
-      filtered = filtered.where((e) => e.subjectId == _selectedSubject).toList();
+    if (_selectedSubjectId != 'All') {
+      filtered = filtered
+          .where((e) => e.subjectId == _selectedSubjectId)
+          .toList();
     }
     if (_searchQuery.isNotEmpty) {
       final query = _searchQuery.toLowerCase();
-      filtered = filtered.where((e) =>
-          e.term.toLowerCase().contains(query) ||
-          e.termHindi.contains(_searchQuery) ||
-          e.definition.toLowerCase().contains(query)).toList();
+      filtered = filtered
+          .where((e) =>
+              e.term.toLowerCase().contains(query) ||
+              e.termHindi.contains(_searchQuery) ||
+              e.definition.toLowerCase().contains(query))
+          .toList();
     }
     return filtered;
   }
@@ -75,6 +72,14 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final subjectProv = context.watch<SubjectProvider>();
+    final subjects = subjectProv.subjects;
+
+    final subjectChips = <(String id, String label)>[
+      ('All', 'All'),
+      ...subjects.map((s) => (s.id, s.name)),
+    ];
+
     return Scaffold(
       appBar: AppBar(title: const Text('Dictionary')),
       body: Column(
@@ -83,10 +88,11 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
             padding: const EdgeInsets.all(16),
             child: TextField(
               decoration: InputDecoration(
-                hintText: 'Search terms (History, Economy, etc...)',
+                hintText: 'Search terms...',
                 prefixIcon: const Icon(Icons.search_rounded),
               ),
-              onChanged: (value) => setState(() => _searchQuery = value),
+              onChanged: (value) =>
+                  setState(() => _searchQuery = value),
             ),
           ),
           SizedBox(
@@ -94,17 +100,17 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
             child: ListView.builder(
               scrollDirection: Axis.horizontal,
               padding: const EdgeInsets.symmetric(horizontal: 16),
-              itemCount: _subjects.length,
+              itemCount: subjectChips.length,
               itemBuilder: (context, index) {
-                final subject = _subjects[index];
-                final isSelected = subject == _selectedSubject;
+                final (id, label) = subjectChips[index];
+                final isSelected = id == _selectedSubjectId;
                 return Padding(
                   padding: const EdgeInsets.only(right: 8),
                   child: ChoiceChip(
-                    label: Text(subject),
+                    label: Text(label),
                     selected: isSelected,
                     onSelected: (_) =>
-                        setState(() => _selectedSubject = subject),
+                        setState(() => _selectedSubjectId = id),
                   ),
                 );
               },
@@ -120,10 +126,12 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             Icon(Icons.search_off_rounded,
-                                size: 60, color: Colors.grey.shade400),
+                                size: 60,
+                                color: Colors.grey.shade400),
                             const SizedBox(height: 8),
                             Text('No terms found',
-                                style: GoogleFonts.poppins(color: Colors.grey)),
+                                style: GoogleFonts.poppins(
+                                    color: Colors.grey)),
                           ],
                         ),
                       )
@@ -170,7 +178,8 @@ class _DictionaryCard extends StatelessWidget {
                         style: GoogleFonts.poppins(
                           fontSize: 16,
                           fontWeight: FontWeight.w700,
-                          color: Theme.of(context).colorScheme.primary,
+                          color:
+                              Theme.of(context).colorScheme.primary,
                         ),
                       ),
                       if (entry.termHindi.isNotEmpty)

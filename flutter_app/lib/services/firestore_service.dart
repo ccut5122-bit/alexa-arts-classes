@@ -298,7 +298,7 @@ class FirestoreService {
   }
 
   Future<void> createForumPost(ForumPost post) async {
-    await _db.collection('forum').doc(post.id).set({
+    await _db.collection('forum').add({
       'authorId': post.authorId,
       'authorName': post.authorName,
       'authorPhoto': post.authorPhoto,

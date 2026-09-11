@@ -11,7 +11,7 @@ import '../../providers/config_provider.dart';
 import '../../models/models.dart';
 
 class QuizScreen extends StatefulWidget {
-  final String subjectId;
+  final String? subjectId;
   final List<String> chapterIds;
   final String quizTitle;
   final int timeLimit;
@@ -19,7 +19,7 @@ class QuizScreen extends StatefulWidget {
 
   const QuizScreen({
     super.key,
-    required this.subjectId,
+    this.subjectId,
     this.chapterIds = const [],
     this.quizTitle = 'Quiz',
     this.timeLimit = 15,
@@ -40,6 +40,7 @@ class _QuizScreenState extends State<QuizScreen> {
   void initState() {
     super.initState();
     _confettiController = ConfettiController(duration: const Duration(seconds: 3));
+    if (widget.subjectId == null) return;
     WidgetsBinding.instance.addPostFrameCallback((_) {
       final quizProv = context.read<QuizProvider>();
       if (_isRevision) {
@@ -49,7 +50,7 @@ class _QuizScreenState extends State<QuizScreen> {
         }
       } else {
         quizProv.startQuiz(
-          subjectId: widget.subjectId,
+          subjectId: widget.subjectId!,
           chapterIds: widget.chapterIds,
           limit: 10,
           timeMinutes: widget.timeLimit,
@@ -363,8 +364,8 @@ class _QuizScreenState extends State<QuizScreen> {
     final gam = context.read<GamificationProvider>();
     final config = context.read<ConfigProvider>();
 
-    if (auth.user != null) {
-      quizProv.saveQuizResult(auth.user!.uid, widget.subjectId, result);
+    if (auth.user != null && widget.subjectId != null) {
+      quizProv.saveQuizResult(auth.user!.uid, widget.subjectId!, result);
 
       // Award coins
       final quizCoins = config.coinForQuizAttempt;

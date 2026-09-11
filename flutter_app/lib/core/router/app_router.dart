@@ -36,12 +36,14 @@ class AppRouter {
           ),
         );
       case '/quiz':
-        final args = settings.arguments as Map<String, dynamic>;
+        final args = settings.arguments as Map<String, dynamic>? ?? const {};
         return MaterialPageRoute(
           builder: (_) => QuizScreen(
             subjectId: args['subjectId'],
-            chapterIds: args['chapterIds'],
-            quizTitle: args['quizTitle'],
+            chapterIds: args['chapterIds'] is List
+                ? List<String>.from(args['chapterIds'])
+                : const [],
+            quizTitle: args['quizTitle'] ?? 'Quiz',
             timeLimit: args['timeLimit'] ?? 15,
             negativeMarking: args['negativeMarking'] ?? true,
           ),
