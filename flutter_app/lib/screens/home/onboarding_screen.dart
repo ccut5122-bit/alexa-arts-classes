@@ -38,7 +38,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
     }
   }
 
-  Future<String?> _uploadPhoto({required String uid}) async {
+  Future<String> _uploadPhoto({required String uid}) async {
     final file = File(_profileImage!.path);
     final ref = FirebaseStorage.instance
         .ref('profile_pictures/$uid.jpg');
@@ -71,6 +71,9 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
       }
       final uid = auth.user!.uid;
       final photoUrl = await _uploadPhoto(uid: uid);
+      if (photoUrl.isEmpty) {
+        throw Exception('Photo upload failed');
+      }
       final ok = await auth.completeOnboarding(
         name: name,
         photoUrl: photoUrl,
