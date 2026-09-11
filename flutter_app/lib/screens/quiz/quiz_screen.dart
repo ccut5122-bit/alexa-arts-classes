@@ -129,8 +129,18 @@ class _QuizScreenState extends State<QuizScreen> {
                   quizProv.startRevisionQuiz(auth.user!.uid);
                 }
               } else {
+                final subjectId = widget.subjectId;
+                if (subjectId == null) {
+                  Navigator.pushReplacementNamed(context, '/quiz',
+                      arguments: {
+                        'quizTitle': widget.quizTitle,
+                        'timeLimit': widget.timeLimit,
+                        'negativeMarking': widget.negativeMarking,
+                      });
+                  return;
+                }
                 quizProv.startQuiz(
-                  subjectId: widget.subjectId,
+                  subjectId: subjectId,
                   chapterIds: widget.chapterIds,
                   limit: 10,
                   timeMinutes: widget.timeLimit,
