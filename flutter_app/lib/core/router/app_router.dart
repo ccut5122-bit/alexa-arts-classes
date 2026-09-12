@@ -15,6 +15,7 @@ import '../../screens/home/onboarding_screen.dart';
 class AppRouter {
   static Route<dynamic> generateRoute(RouteSettings settings) {
     switch (settings.name) {
+      case '/':
       case '/splash':
         return MaterialPageRoute(builder: (_) => const SplashScreen());
       case '/onboarding':
