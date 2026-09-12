@@ -49,6 +49,11 @@ service cloud.firestore {
       allow create, update, delete: if isAdmin();
     }
 
+    // ==================== CONFIG / SECRETS (admin only) ====================
+    match /config/{configId} {
+      allow read, write: if isAdmin();
+    }
+
     // ==================== ANALYTICS / INSTALL TRACKING ====================
     match /analytics/{statId} {
       allow read, write: if true;
