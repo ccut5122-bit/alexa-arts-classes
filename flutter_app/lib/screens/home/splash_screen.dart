@@ -28,14 +28,26 @@ class _SplashScreenState extends State<SplashScreen>
     );
     _controller.forward();
 
-    Future.delayed(const Duration(seconds: 3), () {
+    Future.delayed(const Duration(seconds: 3), () async {
       if (!mounted) return;
       final auth = context.read<AuthProvider>();
-      if (auth.user != null && auth.hasCompletedOnboarding) {
-        Navigator.pushReplacementNamed(context, '/home');
-      } else {
-        Navigator.pushReplacementNamed(context, '/onboarding');
+      // Wait up to 4s for the local onboarding flag (avoids flashing
+      // onboarding to already-onboarded users on slow cold starts).
+      int waited = 0;
+      while (!auth.localOnboardedLoaded &&
+          auth.hasCompletedOnboarding == false &&
+          waited < 12) {
+        await Future.delayed(const Duration(milliseconds: 300));
+        waited++;
+        if (!mounted) return;
       }
+      if (!mounted) return;
+      final skipOnboarding =
+          (auth.user != null && auth.hasCompletedOnboarding);
+      Navigator.pushReplacementNamed(
+        context,
+        skipOnboarding ? '/home' : '/onboarding',
+      );
     });
   }
 

@@ -9,6 +9,7 @@ import '../../screens/forum/forum_screen.dart';
 import '../../screens/dictionary/dictionary_screen.dart';
 import '../../screens/exam_prep/exam_prep_screen.dart';
 import '../../screens/bookmarks/bookmarks_screen.dart';
+import '../../screens/settings/settings_screen.dart';
 import '../../screens/home/splash_screen.dart';
 import '../../screens/home/onboarding_screen.dart';
 
@@ -64,6 +65,8 @@ class AppRouter {
         return MaterialPageRoute(builder: (_) => const ExamPrepScreen());
       case '/bookmarks':
         return MaterialPageRoute(builder: (_) => const BookmarksScreen());
+      case '/settings':
+        return MaterialPageRoute(builder: (_) => const SettingsScreen());
       default:
         return MaterialPageRoute(
           builder: (_) => Scaffold(

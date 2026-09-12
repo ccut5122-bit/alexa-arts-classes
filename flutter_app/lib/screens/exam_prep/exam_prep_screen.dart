@@ -196,20 +196,22 @@ class _PYQsTabState extends State<_PYQsTab> {
   final FirestoreService _firestore = FirestoreService();
   List<QuestionModel> _pyqQuestions = [];
   bool _isLoading = true;
-  String _selectedSubject = 'All';
+  String _selectedSubject = 'all';
   String _selectedYear = 'All';
 
-  final List<String> _subjects = [
-    'All',
-    'History',
-    'Political Science',
-    'Economics',
-    'Geography',
-    'Sociology',
-    'Psychology',
+  final List<Map<String, String>> _subjectOptions = [
+    {'id': 'all', 'label': 'All Subjects'},
+    {'id': 'history', 'label': 'History'},
+    {'id': 'political_science', 'label': 'Political Science'},
+    {'id': 'economics', 'label': 'Economics'},
+    {'id': 'geography', 'label': 'Geography'},
+    {'id': 'sociology', 'label': 'Sociology'},
+    {'id': 'psychology', 'label': 'Psychology'},
   ];
 
-  final List<String> _years = ['All', '2024', '2023', '2022', '2021', '2020', '2019', '2018'];
+  final List<String> _years = [
+    'All', '2026', '2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017',
+  ];
 
   @override
   void initState() {
@@ -227,7 +229,7 @@ class _PYQsTabState extends State<_PYQsTab> {
     final questions = (await query).docs
         .map((d) => QuestionModel.fromFirestore(d))
         .where((q) =>
-            _selectedSubject == 'All' ||
+            _selectedSubject == 'all' ||
             q.subjectId == _selectedSubject)
         .where((q) =>
             _selectedYear == 'All' ||
@@ -255,11 +257,12 @@ class _PYQsTabState extends State<_PYQsTab> {
                     labelText: 'Subject',
                     contentPadding: EdgeInsets.symmetric(horizontal: 12, vertical: 8),
                   ),
-                  items: _subjects
-                      .map((s) => DropdownMenuItem(value: s, child: Text(s)))
+                  items: _subjectOptions
+                      .map((s) => DropdownMenuItem(
+                          value: s['id'], child: Text(s['label'] ?? s['id']!)))
                       .toList(),
                   onChanged: (value) {
-                    setState(() => _selectedSubject = value ?? 'All');
+                    setState(() => _selectedSubject = value ?? 'all');
                     _loadPYQs();
                   },
                 ),
@@ -331,7 +334,9 @@ class _PYQCard extends StatelessWidget {
             borderRadius: BorderRadius.circular(8),
           ),
           child: Text(
-            '${question.year}',
+            (question.year != null && question.year! > 0)
+                ? '${question.year}'
+                : 'PYQ',
             style: GoogleFonts.poppins(
               fontWeight: FontWeight.w700,
               fontSize: 12,

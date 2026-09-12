@@ -120,6 +120,19 @@ class ConfigProvider extends ChangeNotifier {
     }, onError: (e) {});
   }
 
+  Future<void> setDarkMode(bool value) async {
+    _isDarkMode = value;
+    notifyListeners();
+    await _firestore.updateConfig('themeConfig', {'darkMode': value});
+  }
+
+  Future<void> setPrimaryColor(Color color) async {
+    _primaryColor = color;
+    notifyListeners();
+    final hex = '#${color.value.toRadixString(16).padLeft(8, '0').substring(2).toUpperCase()}';
+    await _firestore.updateConfig('themeConfig', {'primaryColor': hex});
+  }
+
   int get coinForQuizAttempt => _coinsConfig['quizAttemptCoins'] ?? 10;
   int get coinForCorrectAnswer => _coinsConfig['correctAnswerCoins'] ?? 5;
   int get coinForStreakBonus => _coinsConfig['streakBonusCoins'] ?? 20;

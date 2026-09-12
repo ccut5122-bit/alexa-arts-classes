@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
@@ -456,8 +457,10 @@ class ProfileScreen extends StatelessWidget {
               radius: 50,
               backgroundImage: user?.photoUrl.isNotEmpty == true
                   ? NetworkImage(user!.photoUrl)
-                  : null,
-              child: user?.photoUrl.isEmpty != false
+                  : (user?.photoBase64.isNotEmpty == true
+                      ? MemoryImage(base64Decode(user!.photoBase64))
+                      : null),
+              child: user?.photoUrl.isEmpty != false && user?.photoBase64.isEmpty != false
                   ? Text(
                       (user?.displayName ?? 'S')[0].toUpperCase(),
                       style: const TextStyle(fontSize: 36),
@@ -529,7 +532,7 @@ class ProfileScreen extends StatelessWidget {
             _ProfileMenuItem(
               icon: Icons.settings_rounded,
               title: 'Settings',
-              onTap: () {},
+              onTap: () => Navigator.pushNamed(context, '/settings'),
             ),
             const SizedBox(height: 16),
             SizedBox(

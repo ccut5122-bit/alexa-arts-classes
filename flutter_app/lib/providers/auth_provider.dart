@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../models/user_model.dart';
 import '../services/firestore_service.dart';
 
@@ -8,6 +9,11 @@ class AuthProvider extends ChangeNotifier {
   final FirebaseAuth _auth = FirebaseAuth.instance;
   final GoogleSignIn _google = GoogleSignIn();
   final FirestoreService _firestore = FirestoreService();
+
+  static const _kOnboardedKey = 'onboarding_completed';
+
+  bool _localOnboarded = false;
+  bool _localOnboardedLoaded = false;
 
   User? _user;
   UserModel? _userModel;
@@ -21,7 +27,26 @@ class AuthProvider extends ChangeNotifier {
   bool get isLoggedIn => _user != null;
   bool get isAdmin => _userModel?.role == 'admin';
 
+  Future<void> _loadLocalOnboarded() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      _localOnboarded = prefs.getBool(_kOnboardedKey) ?? false;
+      _localOnboardedLoaded = true;
+      notifyListeners();
+    } catch (_) {}
+  }
+
+  Future<void> _saveLocalOnboarded(bool value) async {
+    _localOnboarded = value;
+    _localOnboardedLoaded = true;
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setBool(_kOnboardedKey, value);
+    } catch (_) {}
+  }
+
   void init() {
+    _loadLocalOnboarded();
     _auth.authStateChanges().listen((user) async {
       _user = user;
       if (user != null) {
@@ -154,6 +179,7 @@ class AuthProvider extends ChangeNotifier {
         'onboarded': true,
         'lastActive': DateTime.now(),
       });
+      await _saveLocalOnboarded(true);
       _userModel = await _firestore.getUser(user.uid);
       notifyListeners();
       return true;
@@ -164,7 +190,10 @@ class AuthProvider extends ChangeNotifier {
     }
   }
 
-  bool get hasCompletedOnboarding => _userModel?.onboarded == true;
+  bool get hasCompletedOnboarding =>
+      (_userModel?.onboarded == true) || (_localOnboardedLoaded && _localOnboarded);
+
+  bool get localOnboardedLoaded => _localOnboardedLoaded;
 
   Future<void> signOut() async {
     await _google.signOut();
