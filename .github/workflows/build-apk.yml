@@ -58,6 +58,23 @@ jobs:
           flutter-version: ${{ env.FLUTTER_VERSION }}
           cache: true
 
+      # 4b. Release signing keystore (same signature every build)
+      - name: 🔐 Setup Release Keystore
+        run: |
+          if [ -n "${{ secrets.ANDROID_KEYSTORE_B64 }}" ]; then
+            echo "${{ secrets.ANDROID_KEYSTORE_B64 }}" | base64 -d > app/upload-keystore.jks
+            cat > key.properties <<EOF
+storePassword=${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+keyPassword=${{ secrets.ANDROID_KEY_PASSWORD }}
+keyAlias=${{ secrets.ANDROID_KEY_ALIAS }}
+storeFile=upload-keystore.jks
+EOF
+            echo "Keystore configured"
+          else
+            echo "No keystore secret - falling back to debug signing"
+          fi
+        working-directory: flutter_app/android
+
       # 5. Flutter dependencies
       - name: 📦 Install Flutter Dependencies
         working-directory: flutter_app
