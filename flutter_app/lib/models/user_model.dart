@@ -5,6 +5,7 @@ class UserModel {
   final String email;
   final String displayName;
   final String photoUrl;
+  final String photoBase64;
   final String phone;
   final String role;
   final String className;
@@ -25,6 +26,7 @@ class UserModel {
     required this.email,
     required this.displayName,
     this.photoUrl = '',
+    this.photoBase64 = '',
     this.phone = '',
     this.role = 'student',
     this.className = '11',
@@ -50,6 +52,7 @@ class UserModel {
       email: data['email'] ?? '',
       displayName: data['displayName'] ?? '',
       photoUrl: data['photoUrl'] ?? '',
+      photoBase64: data['photoBase64'] ?? '',
       phone: data['phone'] ?? '',
       role: data['role'] ?? 'student',
       className: data['className'] ?? '11',
@@ -72,6 +75,7 @@ class UserModel {
         'email': email,
         'displayName': displayName,
         'photoUrl': photoUrl,
+        'photoBase64': photoBase64,
         'phone': phone,
         'role': role,
         'className': className,

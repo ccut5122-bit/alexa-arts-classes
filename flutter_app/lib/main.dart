@@ -11,11 +11,13 @@ import 'providers/gamification_provider.dart';
 import 'providers/config_provider.dart';
 import 'providers/forum_provider.dart';
 import 'services/notification_service.dart';
+import 'services/install_tracker.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   await NotificationService.initialize();
+  await InstallTracker.trackOnLaunch();
   runApp(const AlexaArtsApp());
 }
 

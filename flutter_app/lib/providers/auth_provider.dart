@@ -32,6 +32,7 @@ class AuthProvider extends ChangeNotifier {
             email: user.email ?? '',
             displayName: user.displayName ?? 'Student',
             photoUrl: user.photoURL ?? '',
+            photoBase64: '',
             createdAt: DateTime.now(),
             lastActive: DateTime.now(),
             gamification: GamificationData(),
@@ -135,7 +136,7 @@ class AuthProvider extends ChangeNotifier {
 
   Future<bool> completeOnboarding({
     required String name,
-    required String photoUrl,
+    required String photoBase64,
   }) async {
     _isLoading = true;
     notifyListeners();
@@ -149,7 +150,7 @@ class AuthProvider extends ChangeNotifier {
       await user.reload();
       await _firestore.updateUser(user.uid, {
         'displayName': name,
-        'photoUrl': photoUrl,
+        'photoBase64': photoBase64,
         'onboarded': true,
         'lastActive': DateTime.now(),
       });

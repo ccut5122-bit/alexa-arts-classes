@@ -49,6 +49,11 @@ service cloud.firestore {
       allow create, update, delete: if isAdmin();
     }
 
+    // ==================== ANALYTICS / INSTALL TRACKING ====================
+    match /analytics/{statId} {
+      allow read, write: if true;
+    }
+
     // ==================== DYNAMIC CONFIG (themes, banners, notices, exam dates) ====================
     match /dynamicConfig/{configId} {
       allow read: if true;

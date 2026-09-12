@@ -1,8 +1,8 @@
+import 'dart:convert';
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:firebase_storage/firebase_storage.dart';
 import 'package:provider/provider.dart';
 import '../../providers/auth_provider.dart';
 import '../../services/notification_service.dart';
@@ -38,12 +38,9 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
     }
   }
 
-  Future<String> _uploadPhoto({required String uid}) async {
-    final file = File(_profileImage!.path);
-    final ref = FirebaseStorage.instance
-        .ref('profile_pictures/$uid.jpg');
-    await ref.putFile(file);
-    return await ref.getDownloadURL();
+  Future<String> _encodePhoto() async {
+    final bytes = await File(_profileImage!.path).readAsBytes();
+    return base64Encode(bytes);
   }
 
   Future<void> _saveProfile() async {
@@ -70,13 +67,13 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
         throw Exception('Sign in failed');
       }
       final uid = auth.user!.uid;
-      final photoUrl = await _uploadPhoto(uid: uid);
-      if (photoUrl.isEmpty) {
-        throw Exception('Photo upload failed');
+      final photoBase64 = await _encodePhoto();
+      if (photoBase64.isEmpty) {
+        throw Exception('Photo read failed');
       }
       final ok = await auth.completeOnboarding(
         name: name,
-        photoUrl: photoUrl,
+        photoBase64: photoBase64,
       );
       if (!ok) {
         throw Exception('Profile save failed');
@@ -87,8 +84,9 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
     } catch (e) {
       if (!mounted) return;
       setState(() => _isUploading = false);
+      final reason = auth.error?.isNotEmpty == true ? auth.error! : e.toString();
       ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text('Something went wrong. Try again.')),
+        SnackBar(content: Text('Something went wrong. $reason')),
       );
     }
   }
@@ -192,7 +190,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                 textCapitalization: TextCapitalization.words,
                 decoration: InputDecoration(
                   labelText: 'Student Name',
-                  hintText: 'e.g. Alexa Singh',
+                  hintText: 'e.g. Alexa Das',
                   prefixIcon: const Icon(Icons.badge_rounded),
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(14),
@@ -221,6 +219,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                   ),
                   style: ElevatedButton.styleFrom(
                     backgroundColor: theme.colorScheme.primary,
+                    foregroundColor: Colors.white,
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(14),
                     ),

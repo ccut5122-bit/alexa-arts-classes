@@ -12,6 +12,7 @@ import {
   Palette,
   Megaphone,
   BarChart3,
+  Download,
 } from 'lucide-react'
 import {
   collection,
@@ -20,6 +21,8 @@ import {
   where,
   orderBy,
   limit,
+  doc,
+  getDoc,
   Timestamp,
 } from 'firebase/firestore'
 import { db } from '../services/firebase'
@@ -32,6 +35,7 @@ export default function Dashboard() {
     activeToday: 0,
     premiumUsers: 0,
     totalAttempts: 0,
+    appDownloads: 0,
   })
   const [recentUsers, setRecentUsers] = useState([])
   const [loading, setLoading] = useState(true)
@@ -62,12 +66,19 @@ export default function Dashboard() {
         getDocs(query(collection(db, 'users'), where('isPremium', '==', true))),
       ])
 
+      let appDownloads = 0
+      const installSnap = await getDoc(doc(db, 'analytics', 'installs'))
+      if (installSnap.exists()) {
+        appDownloads = installSnap.data().count || 0
+      }
+
       setStats({
         totalUsers: usersSnap.size,
         totalQuestions: questionsSnap.size,
         totalQuizzes: quizzesSnap.size,
         activeToday: activeSnap.size,
         premiumUsers: premiumSnap.size,
+        appDownloads,
       })
     } catch (error) {
       console.error('Error loading stats:', error)
@@ -89,6 +100,7 @@ export default function Dashboard() {
 
   const cards = [
     { label: 'Total Users', value: stats.totalUsers, icon: Users, color: 'text-indigo-600 bg-indigo-50' },
+    { label: 'App Downloads', value: stats.appDownloads, icon: Download, color: 'text-sky-600 bg-sky-50' },
     { label: 'Questions', value: stats.totalQuestions, icon: FileQuestion, color: 'text-green-600 bg-green-50' },
     { label: 'Quizzes', value: stats.totalQuizzes, icon: ListChecks, color: 'text-amber-600 bg-amber-50' },
     { label: 'Active Today', value: stats.activeToday, icon: Activity, color: 'text-pink-600 bg-pink-50' },
@@ -111,7 +123,7 @@ export default function Dashboard() {
       </div>
 
       {/* Stats cards */}
-      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-6 mb-8">
+      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-6 gap-6 mb-8">
         {cards.map((card) => (
           <div key={card.label} className="card p-6">
             <div className={`w-12 h-12 rounded-xl flex items-center justify-center mb-4 ${card.color}`}>
