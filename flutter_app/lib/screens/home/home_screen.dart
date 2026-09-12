@@ -455,10 +455,11 @@ class ProfileScreen extends StatelessWidget {
             const SizedBox(height: 20),
             CircleAvatar(
               radius: 50,
-              backgroundImage: user?.photoUrl.isNotEmpty == true
-                  ? NetworkImage(user!.photoUrl)
+              backgroundImage: (user?.photoUrl.isNotEmpty == true)
+                  ? NetworkImage(user!.photoUrl) as ImageProvider<Object>
                   : (user?.photoBase64.isNotEmpty == true
                       ? MemoryImage(base64Decode(user!.photoBase64))
+                          as ImageProvider<Object>
                       : null),
               child: user?.photoUrl.isEmpty != false && user?.photoBase64.isEmpty != false
                   ? Text(

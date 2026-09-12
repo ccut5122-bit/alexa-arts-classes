@@ -191,10 +191,10 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     },
                     child: CircleAvatar(
                       radius: 45,
-                      backgroundImage: picked != null
-                          ? FileImage(File(picked!.path))
+                      backgroundImage: (picked != null)
+                          ? FileImage(File(picked!.path)) as ImageProvider<Object>
                           : (photoBytes != null
-                              ? MemoryImage(photoBytes)
+                              ? MemoryImage(photoBytes) as ImageProvider<Object>
                               : null),
                       child: (picked == null && photoBytes == null)
                           ? const Icon(Icons.person, size: 40)
