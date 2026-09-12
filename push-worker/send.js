@@ -13,8 +13,7 @@ const db = admin.firestore();
 async function main() {
   const snap = await db
     .collection('notifications')
-    .where('pushSent', '!=', true)
-    .orderBy('createdAt', 'asc')
+    .where('pushSent', '==', false)
     .limit(20)
     .get();
 

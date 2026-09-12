@@ -25,6 +25,7 @@ export default function SendNotificationPage() {
         notificationType: form.notificationType,
         link: form.link || null,
         status: 'published',
+        pushSent: false,
         createdAt: serverTimestamp(),
       })
       toast.success('Notification sent!')
